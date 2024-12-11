@@ -1,0 +1,1001 @@
+Market_Size,Growth_Rate,Product_Type,Price_Range,Geography,Age_Group,Gender,Income_Level,Location,Preferred_Product_Type,Purchase_Channel,Purchase_Frequency,Trending_Ingredients,Key_Players,Avg_Rating,Social_Media_Sentiment,Region,Market_Forecast,Opportunities
+845000000,9.79511133158732,Haircare,Budget,Global,55+,Male,Low,Suburban,Conditioners,E-commerce Platform,3,Coconut Oil,Brand A,4.3,-0.65,South America,977000000,New Product Lines
+535000000,9.49073205775209,Makeup,Premium,Country-Specific,35-44,Non-binary,Low,Urban,Face Creams,Online,4,Coconut Oil,Brand C,3,0.97,Europe,1917000000,Expansion in Asia
+204000000,14.5646160271647,Haircare,Premium,Country-Specific,55+,Prefer not to say,Low,Rural,Hair Oils,E-commerce Platform,5,Aloe Vera,Brand D,1.1,0.96,Europe,518000000,New Product Lines
+382000000,7.81849538244643,Haircare,Budget,Global,55+,Non-binary,Middle,Suburban,Shampoos,Offline,9,Coconut Oil,Brand C,4,0.17,North America,1629000000,Expansion in Asia
+928000000,8.05265039703978,Skincare,Premium,Global,45-54,Prefer not to say,High,Urban,Soaps,Physical Stores,6,Aloe Vera,Brand D,1.2,0.98,South America,1904000000,Expansion in Asia
+198000000,15.7286460199158,Haircare,Premium,Global,25-34,Female,Low,Suburban,Face Creams,E-commerce Platform,7,Coconut Oil,Brand D,4.6,0.61,Europe,1519000000,New Product Lines
+411000000,18.9999063198195,Skincare,Mid-range,Country-Specific,45-54,Female,Low,Rural,Soaps,Offline,9,Rose Water,Brand D,4.4,0.87,North America,561000000,Expansion in Asia
+673000000,14.5908170867539,Makeup,Mid-range,Global,18-24,Prefer not to say,Low,Rural,Conditioners,E-commerce Platform,5,Aloe Vera,Brand B,1.4,-0.63,North America,1116000000,Expansion in Asia
+103000000,12.3974346635537,Makeup,Budget,Country-Specific,25-34,Female,Low,Suburban,Hair Oils,Offline,11,Turmeric,Brand B,3.8,0.56,Europe,1711000000,Expansion in Asia
+835000000,8.2361175618298,Skincare,Budget,Global,25-34,Female,High,Urban,Conditioners,Physical Stores,3,Rose Water,Brand C,3.4,0.76,Africa,560000000,Sustainability Focus
+979000000,19.1792136912087,Haircare,Mid-range,Global,18-24,Male,Middle,Suburban,Shampoos,Online,11,Neem,Brand A,1.8,0.64,Africa,1502000000,Sustainability Focus
+649000000,9.97139905434396,Makeup,Budget,Country-Specific,35-44,Male,High,Suburban,Conditioners,Offline,8,Aloe Vera,Brand B,4.2,-0.92,Asia,721000000,Sustainability Focus
+289000000,15.0923613138755,Skincare,Mid-range,Country-Specific,45-54,Non-binary,Middle,Urban,Soaps,Online,8,Turmeric,Brand C,4.3,0.77,Asia,849000000,Expansion in Asia
+822000000,10.3552071718758,Haircare,Premium,Country-Specific,25-34,Prefer not to say,High,Rural,Face Creams,Online,11,Turmeric,Brand A,3.2,0.65,Europe,1217000000,Sustainability Focus
+609000000,10.167691239712,Haircare,Mid-range,Global,25-34,Male,Low,Rural,Soaps,Physical Stores,7,Aloe Vera,Brand A,1.1,-0.69,Africa,1091000000,Sustainability Focus
+945000000,13.4961325160256,Makeup,Premium,Regional,45-54,Male,Low,Urban,Face Creams,Online,1,Aloe Vera,Brand B,3,-0.55,South America,1654000000,Expansion in Asia
+124000000,5.67213126155186,Makeup,Mid-range,Regional,25-34,Prefer not to say,High,Suburban,Hair Oils,E-commerce Platform,4,Rose Water,Brand A,1.7,0.16,Asia,1261000000,Sustainability Focus
+701000000,15.8782141977447,Makeup,Premium,Country-Specific,25-34,Prefer not to say,High,Suburban,Soaps,Physical Stores,9,Coconut Oil,Brand D,3,-0.76,Africa,717000000,Expansion in Asia
+288000000,7.47130313709771,Skincare,Budget,Global,25-34,Female,High,Suburban,Face Creams,E-commerce Platform,6,Turmeric,Brand B,1.2,-0.2,Asia,1665000000,Expansion in Asia
+383000000,10.6680183093304,Haircare,Mid-range,Regional,25-34,Female,Low,Suburban,Hair Oils,Online,10,Coconut Oil,Brand C,3,-0.74,Asia,1420000000,New Product Lines
+510000000,11.1436866341182,Haircare,Budget,Country-Specific,25-34,Non-binary,Middle,Suburban,Conditioners,Online,2,Turmeric,Brand B,4.7,-0.9,North America,1674000000,Expansion in Asia
+206000000,7.83070972907973,Makeup,Mid-range,Global,45-54,Non-binary,Middle,Rural,Conditioners,Offline,6,Aloe Vera,Brand A,3.8,-0.42,Africa,1648000000,Expansion in Asia
+925000000,10.2923492079627,Makeup,Premium,Regional,35-44,Male,Middle,Urban,Conditioners,Online,8,Aloe Vera,Brand A,2.9,-0.47,Europe,998000000,New Product Lines
+876000000,12.4960981230611,Skincare,Premium,Regional,45-54,Male,Middle,Rural,Conditioners,Physical Stores,4,Coconut Oil,Brand A,3.1,0.56,South America,1955000000,Expansion in Asia
+926000000,16.8174450675288,Makeup,Budget,Global,45-54,Prefer not to say,Middle,Rural,Conditioners,E-commerce Platform,9,Neem,Brand C,3.9,-0.86,North America,1009000000,Sustainability Focus
+103000000,8.33817114298197,Makeup,Mid-range,Global,55+,Prefer not to say,Low,Urban,Soaps,Physical Stores,2,Rose Water,Brand B,3.2,-0.19,North America,871000000,Expansion in Asia
+691000000,7.27595906153506,Haircare,Budget,Regional,35-44,Female,Middle,Rural,Face Creams,Offline,11,Turmeric,Brand A,2.2,0.87,South America,659000000,New Product Lines
+570000000,19.6249231354791,Haircare,Mid-range,Regional,25-34,Non-binary,High,Rural,Conditioners,Online,10,Neem,Brand B,2.3,0.74,Africa,822000000,Expansion in Asia
+727000000,6.50443655977052,Makeup,Premium,Regional,25-34,Prefer not to say,Middle,Urban,Face Creams,Offline,11,Rose Water,Brand C,2.6,-0.12,North America,1801000000,Sustainability Focus
+300000000,5.30205618295309,Makeup,Budget,Global,35-44,Non-binary,High,Urban,Shampoos,Online,1,Coconut Oil,Brand C,1,0.68,Europe,615000000,New Product Lines
+199000000,9.17642791813645,Skincare,Mid-range,Global,35-44,Female,Low,Suburban,Face Creams,E-commerce Platform,8,Rose Water,Brand D,4.5,-0.15,South America,743000000,New Product Lines
+959000000,5.78595343091732,Haircare,Mid-range,Global,55+,Female,Low,Urban,Conditioners,E-commerce Platform,9,Coconut Oil,Brand B,4.5,0.32,Asia,1494000000,Sustainability Focus
+220000000,9.09219792586674,Makeup,Premium,Country-Specific,35-44,Male,Low,Urban,Face Creams,E-commerce Platform,2,Turmeric,Brand D,3.1,-0.23,South America,568000000,Sustainability Focus
+692000000,10.2383578619281,Skincare,Mid-range,Country-Specific,18-24,Female,Low,Urban,Conditioners,Physical Stores,7,Turmeric,Brand D,4.9,-0.43,Asia,1500000000,New Product Lines
+461000000,11.0731800304416,Makeup,Budget,Global,25-34,Female,Middle,Suburban,Soaps,Offline,8,Coconut Oil,Brand B,1.2,-0.09,Europe,895000000,Sustainability Focus
+543000000,12.4675674007094,Makeup,Mid-range,Global,35-44,Prefer not to say,Low,Urban,Conditioners,Offline,4,Coconut Oil,Brand B,1.7,-0.63,North America,1688000000,Sustainability Focus
+770000000,13.7203224516023,Skincare,Premium,Country-Specific,45-54,Non-binary,Middle,Rural,Conditioners,Offline,7,Neem,Brand D,4.2,0.24,South America,1553000000,Sustainability Focus
+448000000,15.2914233575372,Haircare,Budget,Regional,25-34,Non-binary,Low,Rural,Face Creams,E-commerce Platform,4,Turmeric,Brand B,4.7,0.25,South America,1331000000,New Product Lines
+915000000,7.88718374635028,Haircare,Mid-range,Regional,25-34,Prefer not to say,High,Suburban,Shampoos,Online,11,Aloe Vera,Brand D,3.1,-0.01,South America,521000000,Expansion in Asia
+810000000,6.02039155854194,Haircare,Budget,Global,45-54,Non-binary,Low,Rural,Soaps,Physical Stores,8,Neem,Brand C,4.8,-0.63,South America,986000000,Sustainability Focus
+925000000,6.17886569000202,Haircare,Premium,Country-Specific,35-44,Male,Middle,Urban,Conditioners,Offline,5,Coconut Oil,Brand D,4.3,-0.09,Asia,689000000,New Product Lines
+992000000,5.25391796699305,Skincare,Mid-range,Global,55+,Prefer not to say,Low,Urban,Hair Oils,E-commerce Platform,6,Rose Water,Brand D,3.8,0.74,North America,1518000000,Expansion in Asia
+530000000,16.7891896084478,Makeup,Budget,Country-Specific,45-54,Female,Middle,Rural,Shampoos,Physical Stores,5,Neem,Brand D,4.2,0.78,Asia,1533000000,Expansion in Asia
+405000000,19.9562497410886,Makeup,Premium,Regional,18-24,Male,Low,Rural,Conditioners,E-commerce Platform,10,Aloe Vera,Brand D,3.8,-0.42,Asia,1557000000,Sustainability Focus
+523000000,5.92376514827239,Haircare,Mid-range,Country-Specific,35-44,Non-binary,Middle,Rural,Soaps,Online,1,Rose Water,Brand D,4.6,0.71,North America,1019000000,Expansion in Asia
+759000000,18.7037869940376,Makeup,Budget,Country-Specific,25-34,Female,Middle,Rural,Conditioners,Physical Stores,4,Rose Water,Brand B,2,0.14,South America,1971000000,Sustainability Focus
+565000000,13.3246952599914,Haircare,Premium,Country-Specific,18-24,Prefer not to say,High,Urban,Conditioners,Offline,4,Coconut Oil,Brand C,3.1,-0.62,Africa,1436000000,Sustainability Focus
+506000000,12.1950490372718,Makeup,Mid-range,Regional,18-24,Prefer not to say,Middle,Urban,Hair Oils,Online,6,Aloe Vera,Brand A,2.7,0.47,North America,1670000000,New Product Lines
+499000000,19.2233357041869,Haircare,Budget,Regional,25-34,Male,High,Suburban,Face Creams,E-commerce Platform,11,Rose Water,Brand A,3.3,0.95,Europe,1562000000,Sustainability Focus
+578000000,10.7553402252709,Makeup,Mid-range,Global,35-44,Prefer not to say,Low,Suburban,Hair Oils,Online,3,Rose Water,Brand A,4.4,-0.6,Europe,1610000000,New Product Lines
+963000000,16.9019582851788,Makeup,Premium,Regional,18-24,Prefer not to say,Low,Suburban,Shampoos,Online,8,Neem,Brand A,2.8,0.42,Europe,1428000000,Sustainability Focus
+424000000,13.5928806668932,Skincare,Premium,Country-Specific,25-34,Prefer not to say,Low,Urban,Soaps,Offline,10,Coconut Oil,Brand C,3.5,-0.15,North America,1662000000,New Product Lines
+973000000,18.3683353793633,Makeup,Premium,Regional,18-24,Male,Middle,Rural,Shampoos,Physical Stores,9,Rose Water,Brand B,3.5,-0.69,Asia,805000000,New Product Lines
+755000000,5.07950812539627,Makeup,Budget,Global,18-24,Prefer not to say,Low,Rural,Soaps,Offline,7,Turmeric,Brand C,4.5,0.64,Asia,1657000000,New Product Lines
+370000000,8.7620701698584,Makeup,Premium,Global,55+,Female,Low,Rural,Conditioners,Online,2,Neem,Brand C,1,-0.84,Asia,713000000,Expansion in Asia
+268000000,18.6287028451976,Skincare,Mid-range,Regional,35-44,Prefer not to say,High,Urban,Soaps,E-commerce Platform,10,Coconut Oil,Brand D,3.7,-0.55,Asia,556000000,New Product Lines
+543000000,16.2862984087517,Makeup,Mid-range,Regional,55+,Male,High,Suburban,Hair Oils,Online,10,Neem,Brand A,2.4,0.48,Africa,1647000000,Expansion in Asia
+964000000,19.9376207988685,Haircare,Mid-range,Regional,45-54,Female,Low,Suburban,Face Creams,Physical Stores,7,Neem,Brand B,2.4,0.25,Europe,1562000000,Sustainability Focus
+392000000,11.5865330331855,Skincare,Budget,Global,18-24,Female,Middle,Suburban,Face Creams,Physical Stores,4,Coconut Oil,Brand A,3.1,0.42,Africa,1460000000,New Product Lines
+488000000,15.7353749196331,Haircare,Mid-range,Global,18-24,Non-binary,High,Urban,Soaps,Physical Stores,11,Neem,Brand D,3,0.98,Asia,1569000000,Sustainability Focus
+279000000,19.5317334556475,Makeup,Mid-range,Country-Specific,45-54,Female,Middle,Rural,Conditioners,Physical Stores,7,Aloe Vera,Brand D,2.2,-0.94,Africa,832000000,Expansion in Asia
+222000000,14.7186159654571,Skincare,Budget,Country-Specific,25-34,Female,Middle,Suburban,Conditioners,E-commerce Platform,5,Turmeric,Brand D,4.1,0,North America,1551000000,Expansion in Asia
+799000000,5.33781889865491,Makeup,Budget,Country-Specific,55+,Male,High,Suburban,Conditioners,Offline,4,Turmeric,Brand B,4.2,-0.15,North America,654000000,Sustainability Focus
+481000000,11.5588386343896,Skincare,Budget,Regional,25-34,Male,Low,Suburban,Soaps,Offline,5,Rose Water,Brand D,1.8,0.46,Europe,1172000000,Expansion in Asia
+317000000,10.1689144963193,Haircare,Mid-range,Country-Specific,45-54,Prefer not to say,High,Urban,Shampoos,E-commerce Platform,10,Rose Water,Brand A,1.4,-0.37,Europe,1222000000,Sustainability Focus
+252000000,13.7053459437108,Makeup,Mid-range,Global,55+,Female,High,Suburban,Face Creams,Offline,11,Neem,Brand D,3.9,-0.44,South America,1585000000,New Product Lines
+552000000,13.2381534505295,Skincare,Premium,Country-Specific,18-24,Male,Middle,Rural,Shampoos,E-commerce Platform,1,Neem,Brand B,1.3,-0.15,North America,900000000,New Product Lines
+532000000,7.48795154380506,Haircare,Budget,Global,45-54,Male,Low,Urban,Hair Oils,Offline,5,Coconut Oil,Brand D,2.4,0.45,Africa,918000000,Expansion in Asia
+803000000,6.93266883218636,Haircare,Budget,Country-Specific,25-34,Non-binary,Low,Suburban,Shampoos,E-commerce Platform,6,Aloe Vera,Brand B,4.3,0.05,Europe,1200000000,Sustainability Focus
+717000000,15.5144663450201,Haircare,Premium,Regional,35-44,Prefer not to say,Middle,Suburban,Soaps,Offline,4,Coconut Oil,Brand B,1.2,0.35,Africa,1769000000,Expansion in Asia
+637000000,18.465708382801,Haircare,Budget,Global,35-44,Non-binary,Low,Suburban,Shampoos,Offline,4,Rose Water,Brand B,1.5,-0.42,Asia,1791000000,New Product Lines
+404000000,16.8525969698811,Skincare,Mid-range,Country-Specific,55+,Non-binary,High,Rural,Shampoos,E-commerce Platform,3,Coconut Oil,Brand A,5,-0.96,South America,1830000000,Sustainability Focus
+416000000,19.2519450415085,Makeup,Premium,Regional,25-34,Male,Low,Rural,Hair Oils,Online,10,Aloe Vera,Brand A,1.1,-0.35,Africa,1956000000,Expansion in Asia
+225000000,7.45121911998267,Makeup,Premium,Regional,45-54,Prefer not to say,High,Rural,Hair Oils,Online,8,Neem,Brand C,3.5,-0.58,South America,1716000000,Expansion in Asia
+810000000,6.93827439776757,Haircare,Premium,Global,25-34,Male,High,Suburban,Conditioners,Physical Stores,5,Aloe Vera,Brand A,1.1,0.4,Asia,919000000,New Product Lines
+788000000,7.83843141186022,Skincare,Budget,Regional,18-24,Male,Low,Rural,Soaps,E-commerce Platform,11,Coconut Oil,Brand B,3.4,0.23,Europe,592000000,New Product Lines
+114000000,6.20214328064977,Makeup,Budget,Regional,25-34,Female,Low,Rural,Hair Oils,Physical Stores,2,Aloe Vera,Brand B,3.3,0.62,Africa,1258000000,Sustainability Focus
+214000000,16.4825011544842,Makeup,Budget,Country-Specific,55+,Non-binary,Middle,Suburban,Conditioners,Offline,4,Turmeric,Brand A,4.9,-0.36,South America,1001000000,New Product Lines
+581000000,9.68405161385022,Haircare,Premium,Global,35-44,Prefer not to say,High,Rural,Soaps,Online,11,Turmeric,Brand B,1.4,0.5,Asia,1488000000,Expansion in Asia
+591000000,16.1399178050283,Skincare,Mid-range,Country-Specific,55+,Female,Low,Urban,Shampoos,Offline,6,Aloe Vera,Brand C,3.9,-0.56,North America,1105000000,New Product Lines
+807000000,9.14931000145499,Haircare,Premium,Country-Specific,18-24,Non-binary,High,Urban,Soaps,E-commerce Platform,10,Rose Water,Brand C,3.7,0.74,South America,1338000000,Expansion in Asia
+224000000,12.0819643291375,Skincare,Budget,Global,25-34,Female,High,Rural,Hair Oils,Physical Stores,5,Aloe Vera,Brand B,4.4,-0.38,Asia,959000000,Sustainability Focus
+560000000,6.80089170873224,Haircare,Budget,Regional,45-54,Female,Low,Rural,Hair Oils,E-commerce Platform,4,Aloe Vera,Brand B,1.2,0.47,Africa,1212000000,Sustainability Focus
+300000000,7.07515333806204,Skincare,Budget,Global,25-34,Female,High,Rural,Hair Oils,Online,11,Coconut Oil,Brand D,1.2,0.39,Asia,1845000000,New Product Lines
+418000000,12.4128013004402,Makeup,Premium,Regional,55+,Prefer not to say,Low,Rural,Hair Oils,E-commerce Platform,4,Aloe Vera,Brand A,3.4,-0.58,South America,1427000000,Sustainability Focus
+783000000,6.50275391991286,Skincare,Premium,Regional,35-44,Prefer not to say,Middle,Suburban,Soaps,Online,1,Neem,Brand B,4.5,-0.4,Africa,1274000000,Expansion in Asia
+740000000,12.2905634487066,Haircare,Premium,Country-Specific,45-54,Male,Low,Urban,Shampoos,Physical Stores,11,Rose Water,Brand A,2.6,0.75,Africa,1136000000,New Product Lines
+608000000,19.505371026948,Haircare,Budget,Country-Specific,25-34,Female,Middle,Rural,Soaps,Offline,4,Neem,Brand C,4,-0.7,North America,629000000,New Product Lines
+379000000,9.12455972931295,Makeup,Budget,Regional,35-44,Female,Low,Urban,Soaps,Offline,5,Coconut Oil,Brand C,1.7,0.39,Europe,1551000000,Expansion in Asia
+770000000,17.9259693362847,Haircare,Mid-range,Country-Specific,25-34,Prefer not to say,High,Urban,Shampoos,Offline,1,Turmeric,Brand B,3.3,-0.87,Africa,1496000000,New Product Lines
+456000000,10.7472410846515,Haircare,Mid-range,Country-Specific,18-24,Prefer not to say,Middle,Urban,Shampoos,E-commerce Platform,9,Rose Water,Brand A,1.3,0.98,North America,1452000000,New Product Lines
+747000000,11.421331263962,Haircare,Mid-range,Country-Specific,25-34,Female,Low,Rural,Soaps,Physical Stores,6,Rose Water,Brand B,4.1,0.82,North America,1227000000,Expansion in Asia
+845000000,6.22320981042174,Makeup,Budget,Global,35-44,Male,Low,Rural,Conditioners,E-commerce Platform,2,Aloe Vera,Brand A,3.2,-0.55,South America,557000000,Sustainability Focus
+304000000,8.41150893476724,Makeup,Budget,Country-Specific,25-34,Male,Middle,Suburban,Soaps,Online,7,Coconut Oil,Brand B,3.9,-0.51,South America,540000000,New Product Lines
+933000000,13.5231229861314,Makeup,Mid-range,Global,35-44,Female,Middle,Rural,Face Creams,Offline,7,Turmeric,Brand D,4.5,0.98,Africa,1594000000,Sustainability Focus
+345000000,13.7036468228684,Haircare,Budget,Global,55+,Male,Low,Urban,Soaps,E-commerce Platform,6,Aloe Vera,Brand B,4.6,0.02,South America,1466000000,Expansion in Asia
+387000000,17.1826605088414,Skincare,Mid-range,Regional,18-24,Prefer not to say,High,Rural,Shampoos,E-commerce Platform,3,Neem,Brand B,2.8,-0.97,South America,971000000,New Product Lines
+490000000,13.3602789453897,Makeup,Budget,Country-Specific,45-54,Male,High,Rural,Hair Oils,Physical Stores,11,Turmeric,Brand B,3.5,-0.97,Asia,914000000,New Product Lines
+429000000,12.8510607648101,Skincare,Budget,Global,18-24,Prefer not to say,Low,Suburban,Soaps,Offline,1,Coconut Oil,Brand D,3.7,0.15,Europe,1493000000,New Product Lines
+371000000,9.95187332218839,Makeup,Premium,Country-Specific,45-54,Male,Low,Urban,Hair Oils,Offline,8,Coconut Oil,Brand C,1.4,0.54,Europe,1842000000,Sustainability Focus
+468000000,9.0504639552194,Skincare,Mid-range,Country-Specific,35-44,Female,Low,Urban,Conditioners,Online,10,Coconut Oil,Brand A,2.4,-0.42,Africa,924000000,New Product Lines
+736000000,19.3562948017881,Makeup,Mid-range,Country-Specific,55+,Non-binary,High,Suburban,Hair Oils,Offline,6,Turmeric,Brand D,4.4,-0.26,South America,1888000000,Expansion in Asia
+217000000,6.38043894742208,Haircare,Budget,Global,35-44,Prefer not to say,High,Urban,Hair Oils,E-commerce Platform,6,Aloe Vera,Brand C,4.9,0.98,South America,1623000000,Sustainability Focus
+374000000,15.1514974980728,Skincare,Mid-range,Country-Specific,45-54,Prefer not to say,Low,Rural,Soaps,E-commerce Platform,1,Turmeric,Brand A,2.8,0.36,Asia,883000000,New Product Lines
+522000000,18.7447905948699,Makeup,Budget,Regional,55+,Prefer not to say,Low,Urban,Hair Oils,Online,1,Rose Water,Brand C,3.3,-0.11,South America,1674000000,Expansion in Asia
+507000000,18.1426741004438,Haircare,Mid-range,Regional,35-44,Female,Low,Suburban,Face Creams,Offline,9,Aloe Vera,Brand D,4.3,-0.62,Europe,781000000,New Product Lines
+877000000,9.90024733265808,Skincare,Mid-range,Regional,45-54,Female,Low,Suburban,Conditioners,Offline,9,Rose Water,Brand C,1.2,-0.98,South America,1099000000,New Product Lines
+122000000,13.2986377631293,Haircare,Premium,Global,25-34,Female,Middle,Rural,Hair Oils,E-commerce Platform,5,Rose Water,Brand C,3.4,-0.4,South America,841000000,Sustainability Focus
+250000000,14.9286162504938,Makeup,Mid-range,Global,35-44,Prefer not to say,Low,Rural,Shampoos,E-commerce Platform,7,Aloe Vera,Brand C,1.4,0.91,South America,1957000000,Expansion in Asia
+190000000,19.9181234066475,Makeup,Mid-range,Country-Specific,25-34,Female,Middle,Suburban,Hair Oils,E-commerce Platform,7,Rose Water,Brand C,1.7,0.45,South America,879000000,Expansion in Asia
+343000000,12.5827858087504,Skincare,Mid-range,Global,18-24,Female,Middle,Rural,Soaps,E-commerce Platform,11,Turmeric,Brand A,2.4,0.66,Africa,1746000000,Expansion in Asia
+335000000,11.9408133145766,Haircare,Premium,Country-Specific,25-34,Male,High,Urban,Conditioners,Online,8,Rose Water,Brand C,1.1,0.06,Africa,1216000000,Expansion in Asia
+397000000,6.04437099431217,Haircare,Mid-range,Country-Specific,25-34,Non-binary,Low,Rural,Hair Oils,Online,9,Coconut Oil,Brand D,3.4,0.83,Asia,1536000000,New Product Lines
+114000000,17.7606387227885,Haircare,Premium,Regional,25-34,Prefer not to say,High,Urban,Hair Oils,E-commerce Platform,3,Turmeric,Brand C,3.8,-0.34,Africa,714000000,Expansion in Asia
+357000000,14.6270345229733,Skincare,Mid-range,Global,35-44,Female,Low,Rural,Hair Oils,Physical Stores,6,Coconut Oil,Brand B,4.8,0.68,South America,1370000000,Expansion in Asia
+384000000,5.1671227824776,Makeup,Premium,Regional,55+,Non-binary,Low,Suburban,Soaps,Physical Stores,10,Neem,Brand A,4.9,-0.04,South America,1974000000,New Product Lines
+753000000,6.63672774341316,Haircare,Mid-range,Country-Specific,25-34,Female,High,Urban,Hair Oils,Online,7,Neem,Brand D,4.6,0.97,Asia,1964000000,New Product Lines
+932000000,15.7704989289643,Haircare,Premium,Country-Specific,18-24,Non-binary,High,Suburban,Hair Oils,Physical Stores,10,Turmeric,Brand C,3.2,-0.66,North America,1531000000,New Product Lines
+506000000,13.8379988676959,Haircare,Mid-range,Global,35-44,Prefer not to say,Middle,Rural,Shampoos,Offline,5,Aloe Vera,Brand A,2.5,-0.8,Asia,1972000000,New Product Lines
+273000000,15.381482143723,Skincare,Premium,Global,55+,Male,Middle,Rural,Hair Oils,Offline,10,Coconut Oil,Brand A,1.4,-0.69,North America,1591000000,New Product Lines
+593000000,9.77609099281665,Makeup,Premium,Global,25-34,Non-binary,High,Urban,Face Creams,Online,5,Neem,Brand D,3.9,-0.71,Africa,1381000000,Expansion in Asia
+441000000,15.9613140700846,Makeup,Premium,Global,55+,Male,Low,Rural,Conditioners,Online,1,Coconut Oil,Brand C,2,-0.68,Asia,1045000000,Expansion in Asia
+565000000,12.5205515327131,Haircare,Mid-range,Global,55+,Prefer not to say,Low,Rural,Shampoos,Online,1,Aloe Vera,Brand D,1.6,-0.72,Asia,1322000000,New Product Lines
+319000000,19.8824934343786,Makeup,Premium,Regional,18-24,Non-binary,Low,Rural,Conditioners,E-commerce Platform,5,Turmeric,Brand C,4.4,-0.64,Europe,1355000000,New Product Lines
+346000000,13.6038853106337,Skincare,Mid-range,Global,18-24,Non-binary,Low,Suburban,Conditioners,Physical Stores,7,Aloe Vera,Brand D,2.2,-0.86,Africa,1516000000,Sustainability Focus
+763000000,7.29709959994512,Makeup,Premium,Country-Specific,45-54,Prefer not to say,Low,Suburban,Face Creams,Offline,5,Coconut Oil,Brand C,1.8,-0.56,Africa,647000000,Sustainability Focus
+763000000,19.2312512626186,Makeup,Budget,Regional,25-34,Male,Middle,Rural,Soaps,Offline,6,Turmeric,Brand D,3.6,0.79,Africa,1001000000,Sustainability Focus
+580000000,10.734264223378,Makeup,Premium,Global,55+,Non-binary,Low,Urban,Soaps,Offline,5,Neem,Brand B,2.5,-0.9,Africa,893000000,New Product Lines
+276000000,10.431799735083,Haircare,Premium,Regional,25-34,Male,Middle,Suburban,Conditioners,E-commerce Platform,1,Neem,Brand B,4.8,0.04,South America,1238000000,New Product Lines
+699000000,17.114489509736,Haircare,Budget,Regional,25-34,Prefer not to say,Middle,Suburban,Soaps,Physical Stores,4,Neem,Brand D,1.2,-0.21,Asia,635000000,New Product Lines
+523000000,17.8608744856219,Skincare,Budget,Global,35-44,Male,Middle,Urban,Conditioners,Online,11,Rose Water,Brand A,2,-0.39,North America,666000000,Sustainability Focus
+272000000,5.5362179272937,Haircare,Premium,Global,18-24,Non-binary,Low,Rural,Conditioners,E-commerce Platform,6,Coconut Oil,Brand D,3.8,0.19,South America,1315000000,Expansion in Asia
+249000000,17.5451052116186,Makeup,Mid-range,Country-Specific,35-44,Male,Low,Urban,Hair Oils,Physical Stores,6,Neem,Brand A,1.1,0.35,North America,1524000000,Sustainability Focus
+583000000,18.9495670719036,Haircare,Budget,Country-Specific,45-54,Non-binary,Middle,Suburban,Face Creams,Online,3,Rose Water,Brand C,3.7,0.13,North America,1221000000,Sustainability Focus
+407000000,6.73847932159982,Makeup,Mid-range,Country-Specific,55+,Non-binary,High,Suburban,Face Creams,Online,9,Coconut Oil,Brand A,3.5,-0.25,Asia,1940000000,Sustainability Focus
+616000000,7.38253845205022,Haircare,Mid-range,Country-Specific,18-24,Male,High,Urban,Soaps,E-commerce Platform,5,Coconut Oil,Brand A,3.9,0.34,Asia,1116000000,Sustainability Focus
+140000000,18.9912713967961,Makeup,Mid-range,Country-Specific,45-54,Prefer not to say,High,Rural,Conditioners,Online,5,Aloe Vera,Brand A,4.4,-0.29,Asia,1809000000,New Product Lines
+935000000,8.12433698814822,Makeup,Premium,Regional,25-34,Non-binary,Low,Urban,Soaps,Offline,5,Aloe Vera,Brand C,2.1,-0.11,North America,1597000000,Sustainability Focus
+421000000,5.02779050769872,Skincare,Mid-range,Regional,35-44,Male,Middle,Rural,Shampoos,Physical Stores,4,Aloe Vera,Brand B,4.1,-0.77,Asia,1585000000,Sustainability Focus
+235000000,17.5767421836109,Skincare,Premium,Regional,45-54,Male,High,Urban,Shampoos,Offline,4,Coconut Oil,Brand C,4.2,0.21,North America,689000000,Sustainability Focus
+194000000,10.4913561762922,Makeup,Mid-range,Regional,25-34,Female,Low,Suburban,Face Creams,Online,5,Turmeric,Brand A,3.7,0.47,South America,1501000000,Sustainability Focus
+550000000,7.58314080046664,Skincare,Mid-range,Global,25-34,Prefer not to say,Middle,Urban,Conditioners,Physical Stores,4,Turmeric,Brand B,4.2,-0.91,North America,1771000000,Sustainability Focus
+258000000,16.7590461677643,Haircare,Mid-range,Global,45-54,Male,High,Rural,Soaps,Offline,6,Coconut Oil,Brand A,1.3,0.88,South America,688000000,New Product Lines
+391000000,13.7215727606838,Makeup,Premium,Regional,45-54,Male,Middle,Rural,Shampoos,Online,9,Neem,Brand B,1.5,0.59,South America,836000000,New Product Lines
+757000000,6.90605630169423,Haircare,Budget,Global,55+,Female,High,Rural,Hair Oils,Online,8,Coconut Oil,Brand C,1.8,0.1,Africa,1555000000,Sustainability Focus
+810000000,16.6336743392876,Haircare,Premium,Global,35-44,Female,High,Rural,Soaps,Physical Stores,8,Neem,Brand D,4.2,0.51,Africa,1234000000,Expansion in Asia
+645000000,6.58950959021727,Skincare,Budget,Global,25-34,Prefer not to say,Low,Suburban,Hair Oils,Offline,8,Neem,Brand C,1.7,0.29,North America,779000000,Sustainability Focus
+347000000,19.9525585096502,Makeup,Budget,Country-Specific,35-44,Female,High,Urban,Hair Oils,Physical Stores,9,Neem,Brand A,3.2,-0.71,North America,830000000,New Product Lines
+471000000,8.33151835535884,Makeup,Budget,Global,55+,Non-binary,Low,Urban,Soaps,Physical Stores,9,Neem,Brand A,4.1,0.24,Asia,604000000,Expansion in Asia
+970000000,12.5776862649901,Skincare,Budget,Country-Specific,55+,Male,Middle,Rural,Hair Oils,Online,3,Turmeric,Brand C,4.5,0.15,Asia,617000000,Expansion in Asia
+688000000,10.2817428359726,Skincare,Mid-range,Global,25-34,Non-binary,High,Rural,Hair Oils,E-commerce Platform,4,Rose Water,Brand D,4.6,0.93,South America,744000000,New Product Lines
+297000000,18.0332372030304,Haircare,Premium,Country-Specific,55+,Male,Low,Urban,Soaps,Physical Stores,9,Coconut Oil,Brand A,2.9,-0.74,North America,955000000,New Product Lines
+641000000,17.6066787804752,Haircare,Budget,Regional,35-44,Female,High,Suburban,Face Creams,Online,6,Aloe Vera,Brand B,3.3,-0.28,Europe,738000000,Sustainability Focus
+689000000,8.13426474669713,Skincare,Mid-range,Country-Specific,55+,Female,High,Urban,Shampoos,E-commerce Platform,4,Rose Water,Brand A,1.3,0.29,Africa,860000000,Expansion in Asia
+668000000,5.79938270508643,Haircare,Budget,Country-Specific,35-44,Non-binary,Low,Rural,Face Creams,Offline,7,Aloe Vera,Brand D,4.7,0.77,Africa,739000000,New Product Lines
+867000000,17.6930048072702,Haircare,Budget,Country-Specific,35-44,Prefer not to say,Low,Urban,Hair Oils,Online,8,Aloe Vera,Brand A,2.2,-0.02,Africa,1938000000,Expansion in Asia
+428000000,17.806521148223,Haircare,Mid-range,Country-Specific,45-54,Female,Middle,Urban,Face Creams,E-commerce Platform,9,Turmeric,Brand A,1.7,-0.04,Asia,1735000000,New Product Lines
+217000000,5.07391446838978,Haircare,Mid-range,Global,45-54,Prefer not to say,High,Suburban,Face Creams,E-commerce Platform,10,Aloe Vera,Brand C,2.6,0.89,Africa,644000000,New Product Lines
+108000000,10.5044669662612,Haircare,Premium,Regional,18-24,Prefer not to say,High,Rural,Conditioners,Offline,11,Coconut Oil,Brand B,1.7,-0.44,Asia,947000000,Expansion in Asia
+271000000,16.8786034752645,Skincare,Budget,Regional,55+,Female,High,Rural,Conditioners,Online,6,Turmeric,Brand B,2.4,-0.93,Europe,1908000000,Sustainability Focus
+338000000,8.50616586270068,Skincare,Premium,Global,35-44,Prefer not to say,Low,Urban,Soaps,Online,3,Aloe Vera,Brand D,3.1,0.36,North America,711000000,New Product Lines
+164000000,13.7629501645914,Skincare,Premium,Country-Specific,35-44,Male,Middle,Urban,Face Creams,Offline,5,Coconut Oil,Brand A,1.2,-0.42,Europe,1344000000,New Product Lines
+659000000,9.44805643687239,Makeup,Budget,Country-Specific,25-34,Prefer not to say,High,Urban,Soaps,Offline,2,Turmeric,Brand B,1,-0.32,North America,595000000,Expansion in Asia
+935000000,15.3808577136351,Makeup,Mid-range,Country-Specific,55+,Non-binary,Middle,Suburban,Hair Oils,Offline,3,Rose Water,Brand B,1.1,0.21,North America,773000000,Expansion in Asia
+120000000,19.1761218227772,Haircare,Mid-range,Country-Specific,18-24,Male,Middle,Urban,Hair Oils,E-commerce Platform,1,Turmeric,Brand D,4.2,0.4,South America,543000000,New Product Lines
+361000000,5.94700851086345,Makeup,Mid-range,Global,18-24,Prefer not to say,High,Urban,Hair Oils,Online,4,Rose Water,Brand B,1.2,-0.34,Africa,1455000000,Sustainability Focus
+649000000,14.191554024719,Makeup,Budget,Global,18-24,Female,High,Suburban,Soaps,E-commerce Platform,8,Turmeric,Brand D,3.8,0.89,Africa,1480000000,Expansion in Asia
+648000000,11.856796608148,Haircare,Mid-range,Global,18-24,Prefer not to say,Middle,Urban,Conditioners,Online,8,Coconut Oil,Brand A,1.7,-0.14,Europe,1428000000,New Product Lines
+592000000,10.7865831414217,Makeup,Premium,Regional,45-54,Non-binary,Middle,Urban,Shampoos,E-commerce Platform,10,Turmeric,Brand A,2.2,0.85,North America,1876000000,New Product Lines
+317000000,12.6717471114108,Skincare,Premium,Global,25-34,Non-binary,Middle,Suburban,Face Creams,Physical Stores,2,Turmeric,Brand D,1.9,-0.86,Asia,1430000000,Sustainability Focus
+804000000,11.9779123613117,Skincare,Premium,Global,18-24,Male,Low,Urban,Soaps,Offline,6,Rose Water,Brand D,3.1,0.63,Europe,927000000,Expansion in Asia
+944000000,15.638827235302,Makeup,Premium,Regional,45-54,Male,Middle,Rural,Hair Oils,Offline,2,Aloe Vera,Brand C,4.6,-0.27,Africa,526000000,Sustainability Focus
+262000000,19.7565188538706,Skincare,Mid-range,Global,18-24,Female,High,Urban,Hair Oils,Online,3,Coconut Oil,Brand C,3.4,-0.17,Asia,1210000000,Expansion in Asia
+931000000,5.74689329911169,Makeup,Budget,Country-Specific,45-54,Non-binary,Middle,Suburban,Face Creams,E-commerce Platform,8,Aloe Vera,Brand D,2.9,0.85,North America,1741000000,Expansion in Asia
+135000000,15.1656392975058,Skincare,Mid-range,Regional,25-34,Non-binary,Low,Urban,Face Creams,Physical Stores,6,Coconut Oil,Brand A,4.3,-0.07,Africa,711000000,Expansion in Asia
+972000000,10.0708181274334,Makeup,Budget,Regional,35-44,Non-binary,Middle,Urban,Soaps,Online,9,Neem,Brand D,4.2,0.38,North America,1373000000,Expansion in Asia
+879000000,6.59112325911281,Skincare,Mid-range,Regional,55+,Non-binary,High,Urban,Hair Oils,Physical Stores,2,Rose Water,Brand D,1.7,-0.92,South America,1521000000,Sustainability Focus
+949000000,17.7098378017607,Haircare,Budget,Global,55+,Prefer not to say,Low,Suburban,Shampoos,Online,4,Rose Water,Brand B,2.8,-0.62,Europe,1607000000,New Product Lines
+760000000,13.6971837377767,Skincare,Budget,Regional,55+,Female,Low,Suburban,Face Creams,Offline,4,Neem,Brand C,3.8,0.74,Africa,575000000,New Product Lines
+688000000,12.0768025913632,Makeup,Mid-range,Regional,45-54,Prefer not to say,High,Rural,Shampoos,Offline,5,Rose Water,Brand A,4.6,-0.69,Europe,1204000000,Expansion in Asia
+449000000,6.17778557857975,Skincare,Budget,Regional,25-34,Female,Low,Suburban,Conditioners,Online,11,Neem,Brand D,2.6,0.79,North America,1373000000,New Product Lines
+547000000,11.2601566289051,Makeup,Budget,Regional,45-54,Male,High,Rural,Shampoos,Physical Stores,5,Aloe Vera,Brand B,2,-0.93,North America,1162000000,Expansion in Asia
+722000000,18.4221191940315,Haircare,Budget,Global,35-44,Female,Low,Suburban,Face Creams,Offline,11,Neem,Brand A,3.2,-0.44,Asia,1431000000,New Product Lines
+300000000,9.60110897110844,Haircare,Mid-range,Country-Specific,18-24,Male,Middle,Rural,Hair Oils,Offline,9,Neem,Brand D,2.5,-0.21,South America,697000000,Sustainability Focus
+496000000,17.6029441786482,Makeup,Premium,Global,45-54,Female,Low,Suburban,Hair Oils,E-commerce Platform,7,Turmeric,Brand C,3.9,0.11,South America,1527000000,Expansion in Asia
+593000000,11.2962657088987,Skincare,Premium,Regional,18-24,Male,Middle,Urban,Conditioners,Physical Stores,2,Aloe Vera,Brand C,1.3,-0.74,South America,1500000000,New Product Lines
+127000000,18.9090566660152,Makeup,Mid-range,Regional,45-54,Non-binary,Middle,Rural,Shampoos,Online,3,Aloe Vera,Brand C,2.5,-0.13,Asia,1238000000,Sustainability Focus
+503000000,16.5147439825265,Skincare,Budget,Regional,45-54,Male,Middle,Suburban,Soaps,Physical Stores,4,Turmeric,Brand A,5,-0.6,North America,1495000000,Sustainability Focus
+960000000,8.83127479926892,Makeup,Budget,Global,18-24,Prefer not to say,Middle,Suburban,Conditioners,Physical Stores,11,Turmeric,Brand A,2.2,-0.17,Europe,1513000000,Sustainability Focus
+397000000,18.7420206734134,Skincare,Budget,Global,18-24,Female,Middle,Rural,Hair Oils,Offline,6,Turmeric,Brand A,2.2,-0.25,Europe,522000000,Sustainability Focus
+279000000,15.4497545332441,Makeup,Premium,Country-Specific,45-54,Female,Middle,Rural,Soaps,E-commerce Platform,9,Coconut Oil,Brand A,3.8,-0.7,Europe,1320000000,Expansion in Asia
+656000000,10.9298028722279,Haircare,Premium,Global,45-54,Prefer not to say,Middle,Suburban,Conditioners,E-commerce Platform,8,Coconut Oil,Brand C,1.8,0.83,Asia,1439000000,Expansion in Asia
+287000000,5.35962925002345,Haircare,Mid-range,Country-Specific,18-24,Female,Low,Urban,Hair Oils,E-commerce Platform,9,Rose Water,Brand A,1.4,0.41,North America,1424000000,Sustainability Focus
+851000000,19.4410717944491,Skincare,Premium,Regional,25-34,Non-binary,Low,Rural,Soaps,Physical Stores,6,Coconut Oil,Brand A,1.4,-0.42,Europe,1107000000,New Product Lines
+871000000,18.3308295118555,Haircare,Premium,Regional,55+,Prefer not to say,High,Urban,Conditioners,E-commerce Platform,2,Neem,Brand A,3.2,-0.85,Africa,1681000000,Sustainability Focus
+972000000,17.3470231680992,Skincare,Budget,Regional,25-34,Female,Middle,Suburban,Hair Oils,Physical Stores,3,Rose Water,Brand D,3.7,-0.2,South America,535000000,New Product Lines
+714000000,18.7171974845659,Haircare,Mid-range,Regional,45-54,Female,High,Suburban,Conditioners,Offline,5,Neem,Brand B,2.3,-0.15,Africa,1443000000,New Product Lines
+872000000,12.134603072204,Haircare,Mid-range,Global,55+,Non-binary,High,Urban,Shampoos,Offline,6,Coconut Oil,Brand B,4.2,-0.28,Europe,1895000000,New Product Lines
+664000000,15.9729961087538,Haircare,Budget,Global,25-34,Prefer not to say,Middle,Urban,Face Creams,Physical Stores,2,Neem,Brand A,1.2,-0.54,South America,1223000000,New Product Lines
+559000000,6.5837709653474,Skincare,Premium,Country-Specific,45-54,Male,Low,Rural,Shampoos,E-commerce Platform,1,Turmeric,Brand B,4.2,-0.82,Asia,1820000000,Sustainability Focus
+989000000,17.2773124564791,Skincare,Premium,Global,18-24,Non-binary,High,Urban,Hair Oils,Physical Stores,6,Neem,Brand C,1.2,-0.81,South America,1998000000,Sustainability Focus
+580000000,9.53246076145118,Skincare,Mid-range,Global,25-34,Prefer not to say,High,Rural,Face Creams,Offline,7,Turmeric,Brand D,4.7,-0.47,Africa,1361000000,Sustainability Focus
+363000000,15.3548306720877,Haircare,Mid-range,Global,35-44,Male,Middle,Urban,Shampoos,Physical Stores,11,Rose Water,Brand B,4.4,-0.62,South America,945000000,Expansion in Asia
+303000000,12.4168339944561,Skincare,Budget,Global,55+,Female,Middle,Urban,Soaps,E-commerce Platform,9,Aloe Vera,Brand D,1.1,-0.26,Asia,1047000000,Expansion in Asia
+817000000,8.44211850031894,Haircare,Mid-range,Global,55+,Male,Middle,Rural,Soaps,E-commerce Platform,3,Turmeric,Brand A,2.9,-0.61,Europe,1681000000,New Product Lines
+751000000,11.4654499138414,Makeup,Premium,Country-Specific,45-54,Female,Low,Suburban,Face Creams,Online,10,Turmeric,Brand D,1.1,1,Europe,1448000000,Sustainability Focus
+202000000,14.0644705130945,Skincare,Budget,Regional,18-24,Non-binary,Low,Rural,Conditioners,Physical Stores,2,Coconut Oil,Brand A,1,-0.32,Asia,1150000000,Expansion in Asia
+322000000,5.30076623426771,Haircare,Mid-range,Country-Specific,55+,Non-binary,High,Suburban,Hair Oils,E-commerce Platform,11,Turmeric,Brand B,2.8,0.95,North America,1398000000,Expansion in Asia
+509000000,9.88887914565975,Makeup,Premium,Regional,35-44,Male,Low,Rural,Shampoos,Online,4,Neem,Brand C,3.7,-0.19,Africa,1219000000,New Product Lines
+730000000,14.2850031199046,Makeup,Premium,Country-Specific,45-54,Prefer not to say,High,Rural,Soaps,E-commerce Platform,1,Turmeric,Brand D,1.1,0.04,Europe,1108000000,New Product Lines
+585000000,13.4772814066847,Haircare,Budget,Country-Specific,55+,Male,Middle,Suburban,Soaps,Online,5,Neem,Brand D,3.4,0.31,Europe,1473000000,Sustainability Focus
+976000000,7.36376307901487,Haircare,Mid-range,Regional,55+,Prefer not to say,Middle,Urban,Conditioners,E-commerce Platform,10,Aloe Vera,Brand B,3.1,0.78,Europe,870000000,New Product Lines
+166000000,13.9724217252587,Makeup,Budget,Country-Specific,35-44,Male,Low,Urban,Shampoos,Online,11,Aloe Vera,Brand C,3.9,0.01,Europe,952000000,New Product Lines
+222000000,6.13059522097371,Skincare,Premium,Regional,35-44,Non-binary,Low,Urban,Conditioners,Online,10,Turmeric,Brand D,3.8,0.87,Asia,1605000000,Sustainability Focus
+927000000,9.6693545842596,Makeup,Budget,Country-Specific,25-34,Non-binary,High,Suburban,Soaps,Offline,1,Turmeric,Brand C,4.5,0.92,Africa,1804000000,Sustainability Focus
+912000000,10.8886077877314,Makeup,Premium,Global,35-44,Prefer not to say,High,Urban,Soaps,E-commerce Platform,9,Aloe Vera,Brand D,1,0.57,Europe,1045000000,Expansion in Asia
+226000000,8.97045157106835,Haircare,Budget,Regional,18-24,Prefer not to say,High,Suburban,Conditioners,Offline,10,Rose Water,Brand C,3.6,-0.04,Europe,1433000000,Sustainability Focus
+708000000,18.8190979046706,Skincare,Premium,Global,45-54,Prefer not to say,Low,Urban,Conditioners,Online,2,Rose Water,Brand D,2.3,-0.17,North America,1645000000,Sustainability Focus
+833000000,11.9454251478215,Haircare,Budget,Regional,35-44,Male,Middle,Urban,Soaps,E-commerce Platform,6,Aloe Vera,Brand A,4.2,-0.88,Asia,746000000,Expansion in Asia
+988000000,12.3055609754145,Makeup,Mid-range,Global,45-54,Prefer not to say,Low,Suburban,Face Creams,E-commerce Platform,2,Turmeric,Brand A,1.9,0.71,Europe,1120000000,New Product Lines
+161000000,11.3005904360317,Makeup,Premium,Regional,25-34,Female,High,Urban,Hair Oils,Offline,10,Coconut Oil,Brand C,2.1,0.52,South America,1643000000,Sustainability Focus
+792000000,13.8732041260058,Haircare,Premium,Global,35-44,Non-binary,High,Suburban,Shampoos,Physical Stores,3,Aloe Vera,Brand C,3.7,-0.13,Europe,1560000000,New Product Lines
+883000000,12.5443370042144,Skincare,Premium,Regional,18-24,Female,Middle,Urban,Shampoos,Offline,8,Turmeric,Brand C,3.2,-0.12,North America,1251000000,New Product Lines
+549000000,13.8460043739406,Makeup,Mid-range,Country-Specific,45-54,Male,Low,Urban,Conditioners,Offline,3,Aloe Vera,Brand B,3.9,-0.2,Asia,974000000,New Product Lines
+523000000,6.86208374533601,Makeup,Budget,Global,45-54,Prefer not to say,High,Rural,Soaps,Offline,4,Turmeric,Brand D,1.4,0.03,Europe,768000000,New Product Lines
+990000000,15.5839115036411,Makeup,Mid-range,Global,35-44,Male,High,Urban,Conditioners,Physical Stores,2,Coconut Oil,Brand D,3.1,-0.58,South America,823000000,Expansion in Asia
+618000000,9.54987745084011,Skincare,Premium,Regional,45-54,Non-binary,Low,Urban,Conditioners,E-commerce Platform,5,Neem,Brand D,4.8,-0.67,Europe,1890000000,Sustainability Focus
+897000000,7.14560677727608,Haircare,Mid-range,Country-Specific,55+,Non-binary,Low,Rural,Face Creams,E-commerce Platform,6,Turmeric,Brand A,2.6,0.59,Europe,1295000000,Sustainability Focus
+724000000,8.7942460691903,Skincare,Premium,Global,35-44,Male,High,Suburban,Soaps,Offline,11,Turmeric,Brand D,1.8,-0.01,Africa,1102000000,New Product Lines
+125000000,12.3217692309757,Makeup,Premium,Country-Specific,18-24,Prefer not to say,Low,Urban,Soaps,Physical Stores,5,Aloe Vera,Brand A,2,0.14,South America,990000000,New Product Lines
+911000000,9.54893327774061,Makeup,Budget,Global,25-34,Male,Middle,Suburban,Shampoos,Physical Stores,1,Coconut Oil,Brand B,4,-0.43,Europe,1217000000,Sustainability Focus
+473000000,10.4325864303783,Haircare,Mid-range,Country-Specific,45-54,Non-binary,High,Suburban,Hair Oils,E-commerce Platform,9,Rose Water,Brand B,4.2,0.78,South America,1637000000,Sustainability Focus
+364000000,14.846523944206,Makeup,Budget,Global,35-44,Female,Low,Rural,Conditioners,Online,7,Turmeric,Brand A,4.1,-0.49,North America,1181000000,Expansion in Asia
+719000000,6.096622060901,Haircare,Premium,Country-Specific,25-34,Female,High,Suburban,Face Creams,Physical Stores,8,Coconut Oil,Brand B,4.5,0.65,North America,789000000,Sustainability Focus
+235000000,14.3987096627435,Skincare,Mid-range,Regional,45-54,Female,Low,Rural,Hair Oils,Online,9,Neem,Brand D,3.9,-0.61,Asia,514000000,Expansion in Asia
+959000000,18.070838079475,Skincare,Budget,Regional,45-54,Female,Low,Rural,Conditioners,Offline,2,Aloe Vera,Brand D,3.4,0.5,Africa,808000000,Expansion in Asia
+591000000,16.8701762881332,Skincare,Budget,Country-Specific,25-34,Female,Middle,Urban,Face Creams,Physical Stores,11,Aloe Vera,Brand D,1.1,-0.04,North America,1634000000,New Product Lines
+170000000,13.586460950165,Haircare,Budget,Global,35-44,Male,Low,Urban,Shampoos,E-commerce Platform,5,Neem,Brand D,2.3,0.41,South America,548000000,New Product Lines
+213000000,16.6703904827055,Skincare,Premium,Global,25-34,Non-binary,High,Urban,Soaps,Offline,3,Turmeric,Brand D,1.1,-0.1,North America,1053000000,Sustainability Focus
+427000000,7.7885687487288,Makeup,Budget,Country-Specific,35-44,Female,Middle,Suburban,Shampoos,E-commerce Platform,2,Rose Water,Brand C,3.8,0.08,North America,900000000,Sustainability Focus
+489000000,8.85962688468795,Makeup,Budget,Country-Specific,55+,Female,Low,Suburban,Face Creams,E-commerce Platform,8,Coconut Oil,Brand D,2,-0.66,North America,1709000000,New Product Lines
+679000000,12.89942202794,Haircare,Premium,Country-Specific,45-54,Non-binary,Middle,Suburban,Shampoos,Offline,11,Turmeric,Brand C,2.3,0.31,South America,1921000000,Expansion in Asia
+277000000,12.891395022184,Makeup,Premium,Country-Specific,35-44,Female,Low,Suburban,Hair Oils,Online,4,Coconut Oil,Brand A,2.9,-0.13,Europe,1964000000,New Product Lines
+659000000,18.6598514176339,Haircare,Mid-range,Country-Specific,45-54,Non-binary,High,Suburban,Hair Oils,Offline,5,Coconut Oil,Brand A,1.9,0.61,Asia,1268000000,Sustainability Focus
+300000000,9.73714191153918,Makeup,Premium,Regional,18-24,Prefer not to say,Middle,Urban,Soaps,Physical Stores,6,Coconut Oil,Brand A,2.4,-0.19,Africa,1749000000,Expansion in Asia
+131000000,5.27332622348378,Makeup,Premium,Regional,45-54,Female,Low,Suburban,Conditioners,Physical Stores,9,Coconut Oil,Brand D,2.8,-0.82,Europe,1292000000,Expansion in Asia
+977000000,8.09086248235305,Haircare,Budget,Regional,55+,Prefer not to say,Low,Urban,Soaps,E-commerce Platform,10,Neem,Brand C,1.6,-0.2,South America,1604000000,Sustainability Focus
+923000000,10.5626032161368,Makeup,Mid-range,Country-Specific,35-44,Male,Middle,Suburban,Soaps,Offline,8,Neem,Brand A,3,-0.69,North America,1064000000,Expansion in Asia
+145000000,10.0545952613794,Haircare,Mid-range,Regional,35-44,Prefer not to say,Middle,Urban,Face Creams,Physical Stores,7,Rose Water,Brand B,3.4,0.24,Europe,1371000000,New Product Lines
+807000000,17.0765964424333,Makeup,Budget,Country-Specific,35-44,Female,Middle,Urban,Hair Oils,Physical Stores,2,Aloe Vera,Brand C,3.4,-0.04,North America,1014000000,New Product Lines
+662000000,17.0359966500815,Makeup,Mid-range,Global,18-24,Prefer not to say,Low,Urban,Conditioners,Online,9,Neem,Brand C,4.6,0.82,Europe,993000000,Sustainability Focus
+157000000,8.34853842830343,Skincare,Premium,Country-Specific,35-44,Female,Middle,Suburban,Face Creams,E-commerce Platform,3,Neem,Brand B,3.7,0.92,North America,1243000000,New Product Lines
+832000000,16.1363324605305,Skincare,Premium,Country-Specific,55+,Prefer not to say,Middle,Rural,Conditioners,E-commerce Platform,1,Neem,Brand C,4.2,-0.26,Africa,1945000000,Expansion in Asia
+183000000,14.3434590390013,Haircare,Mid-range,Country-Specific,18-24,Female,Low,Suburban,Face Creams,Online,5,Coconut Oil,Brand C,1.5,0.03,South America,1453000000,Sustainability Focus
+898000000,8.76384271091622,Haircare,Premium,Global,55+,Non-binary,High,Suburban,Soaps,Offline,9,Turmeric,Brand A,4.3,-0.94,North America,851000000,New Product Lines
+873000000,5.33347535340498,Makeup,Premium,Country-Specific,25-34,Male,Middle,Urban,Shampoos,Online,5,Turmeric,Brand C,4.1,0.96,North America,1981000000,Sustainability Focus
+692000000,19.7602567700089,Haircare,Mid-range,Global,55+,Non-binary,Low,Suburban,Face Creams,E-commerce Platform,3,Neem,Brand C,3.9,0.49,North America,1202000000,Sustainability Focus
+314000000,12.688506716786,Makeup,Premium,Country-Specific,18-24,Male,Low,Suburban,Shampoos,E-commerce Platform,9,Coconut Oil,Brand D,1.3,-0.95,North America,662000000,New Product Lines
+788000000,15.9335352300999,Haircare,Mid-range,Regional,35-44,Prefer not to say,Low,Suburban,Hair Oils,Online,9,Coconut Oil,Brand B,2.7,-0.75,Africa,1301000000,Expansion in Asia
+920000000,10.8379003170579,Haircare,Premium,Country-Specific,55+,Non-binary,High,Urban,Soaps,E-commerce Platform,2,Rose Water,Brand A,2.2,-0.44,North America,928000000,Sustainability Focus
+184000000,15.9889013822859,Makeup,Budget,Regional,55+,Male,Low,Suburban,Shampoos,Offline,11,Aloe Vera,Brand B,1.2,-0.5,South America,548000000,Sustainability Focus
+926000000,6.15979137891699,Skincare,Premium,Country-Specific,25-34,Male,High,Suburban,Hair Oils,Offline,1,Neem,Brand C,4.2,0.04,Asia,1302000000,Expansion in Asia
+390000000,15.1599490488539,Skincare,Budget,Country-Specific,45-54,Male,Low,Suburban,Soaps,Online,3,Turmeric,Brand A,2.9,-0.12,South America,1197000000,Sustainability Focus
+648000000,12.3023248381997,Haircare,Budget,Regional,18-24,Prefer not to say,High,Suburban,Shampoos,Offline,9,Neem,Brand A,2.9,0.63,Europe,1709000000,Expansion in Asia
+285000000,14.2051273925883,Makeup,Premium,Global,35-44,Male,Middle,Rural,Conditioners,Offline,1,Rose Water,Brand D,4.9,-0.81,Africa,1240000000,New Product Lines
+208000000,12.524334649536,Haircare,Budget,Global,18-24,Non-binary,High,Suburban,Shampoos,Online,7,Coconut Oil,Brand D,3.7,-0.71,Asia,1787000000,Sustainability Focus
+843000000,6.95501565895289,Makeup,Budget,Regional,55+,Male,Middle,Urban,Soaps,E-commerce Platform,10,Turmeric,Brand A,4.6,-0.98,Africa,681000000,Expansion in Asia
+469000000,11.5297149792485,Skincare,Mid-range,Country-Specific,18-24,Non-binary,Low,Rural,Conditioners,Physical Stores,6,Neem,Brand A,4.4,0.91,North America,1860000000,Expansion in Asia
+537000000,10.8157156414404,Haircare,Premium,Global,35-44,Non-binary,Low,Urban,Soaps,E-commerce Platform,6,Turmeric,Brand C,2.1,-0.02,Europe,1220000000,New Product Lines
+180000000,11.810798380732,Haircare,Mid-range,Global,45-54,Non-binary,High,Rural,Soaps,E-commerce Platform,9,Neem,Brand B,1.4,0.5,North America,1743000000,Sustainability Focus
+799000000,12.0013949682269,Makeup,Premium,Regional,25-34,Prefer not to say,Middle,Urban,Face Creams,Physical Stores,4,Aloe Vera,Brand A,4.8,0.56,Asia,907000000,Sustainability Focus
+459000000,13.9369227587199,Haircare,Budget,Country-Specific,45-54,Non-binary,Middle,Suburban,Hair Oils,Offline,7,Turmeric,Brand D,3.6,-0.14,South America,1418000000,Sustainability Focus
+210000000,18.7811987684998,Haircare,Premium,Global,45-54,Female,Low,Rural,Conditioners,Physical Stores,3,Neem,Brand B,3.4,0.57,Africa,1456000000,New Product Lines
+902000000,6.62699133968654,Makeup,Premium,Country-Specific,35-44,Male,High,Urban,Face Creams,E-commerce Platform,2,Neem,Brand A,1.9,0.85,Africa,813000000,Sustainability Focus
+419000000,6.87581347053775,Skincare,Mid-range,Country-Specific,25-34,Female,Low,Rural,Shampoos,Physical Stores,4,Turmeric,Brand A,4.1,0.98,Asia,856000000,Expansion in Asia
+664000000,17.9813638756743,Makeup,Budget,Country-Specific,18-24,Non-binary,High,Urban,Soaps,E-commerce Platform,5,Turmeric,Brand C,3.7,-0.97,North America,1303000000,Sustainability Focus
+179000000,14.0291133360391,Skincare,Mid-range,Regional,25-34,Prefer not to say,Middle,Rural,Soaps,Offline,6,Neem,Brand C,4,-0.25,Asia,1080000000,Sustainability Focus
+567000000,16.2530438066909,Skincare,Mid-range,Global,18-24,Male,High,Urban,Conditioners,Offline,4,Neem,Brand A,3.3,-0.96,South America,1901000000,Expansion in Asia
+218000000,11.8081817339788,Makeup,Premium,Country-Specific,55+,Female,Low,Urban,Shampoos,Offline,7,Aloe Vera,Brand D,3.8,-0.88,North America,1504000000,New Product Lines
+770000000,5.96899773338538,Makeup,Mid-range,Country-Specific,45-54,Male,Low,Suburban,Soaps,Physical Stores,10,Rose Water,Brand D,1.7,-0.37,Europe,1306000000,New Product Lines
+259000000,8.25753821793565,Haircare,Mid-range,Regional,55+,Male,Middle,Urban,Shampoos,Online,10,Coconut Oil,Brand C,1.6,0.85,Asia,1194000000,Sustainability Focus
+637000000,12.5142693071311,Skincare,Premium,Country-Specific,45-54,Non-binary,High,Rural,Shampoos,Online,5,Aloe Vera,Brand A,1.4,-0.14,Africa,647000000,Sustainability Focus
+703000000,18.837247556086,Makeup,Budget,Global,25-34,Non-binary,High,Rural,Hair Oils,Offline,2,Coconut Oil,Brand A,3.3,-0.31,Africa,647000000,Expansion in Asia
+564000000,7.13437189630235,Makeup,Premium,Global,45-54,Prefer not to say,Low,Rural,Soaps,Online,8,Aloe Vera,Brand C,1.6,-0.96,North America,669000000,Expansion in Asia
+994000000,16.2279436806371,Haircare,Budget,Global,45-54,Male,High,Suburban,Hair Oils,Online,7,Aloe Vera,Brand A,3.2,-0.78,Europe,1894000000,New Product Lines
+202000000,18.8732976569329,Makeup,Premium,Global,55+,Female,High,Suburban,Face Creams,Offline,1,Aloe Vera,Brand A,4.8,-0.76,South America,1091000000,New Product Lines
+652000000,15.6680051089932,Skincare,Budget,Global,25-34,Non-binary,Middle,Rural,Soaps,E-commerce Platform,6,Turmeric,Brand D,1.2,0.21,Europe,1110000000,New Product Lines
+108000000,14.0060794504722,Haircare,Mid-range,Global,18-24,Non-binary,Low,Suburban,Hair Oils,E-commerce Platform,9,Rose Water,Brand B,3.1,0.91,Asia,1314000000,Sustainability Focus
+796000000,16.562119780148,Makeup,Budget,Country-Specific,55+,Prefer not to say,High,Rural,Face Creams,E-commerce Platform,7,Coconut Oil,Brand D,4.9,0.26,Africa,1200000000,Expansion in Asia
+934000000,10.3833068154879,Skincare,Premium,Global,45-54,Prefer not to say,Middle,Suburban,Face Creams,Physical Stores,2,Turmeric,Brand C,1.1,-0.15,Europe,1981000000,New Product Lines
+174000000,5.03312348402252,Skincare,Budget,Country-Specific,35-44,Non-binary,Middle,Rural,Conditioners,E-commerce Platform,11,Neem,Brand D,4.2,-0.28,Africa,1496000000,Expansion in Asia
+272000000,7.89510495674745,Haircare,Budget,Global,55+,Non-binary,Low,Suburban,Face Creams,Online,2,Rose Water,Brand B,3.2,-0.56,South America,753000000,Sustainability Focus
+218000000,18.3940488936295,Skincare,Mid-range,Global,35-44,Non-binary,Middle,Rural,Face Creams,E-commerce Platform,5,Turmeric,Brand D,5,0.56,Africa,1683000000,Sustainability Focus
+377000000,11.347616270169,Skincare,Premium,Regional,45-54,Female,High,Rural,Conditioners,Offline,4,Coconut Oil,Brand B,3.6,0.64,South America,1984000000,Expansion in Asia
+954000000,7.55982977722342,Haircare,Mid-range,Regional,25-34,Male,Middle,Rural,Conditioners,Online,5,Rose Water,Brand C,1.6,-0.41,Africa,1411000000,New Product Lines
+626000000,19.6435620024487,Makeup,Premium,Country-Specific,35-44,Non-binary,Low,Urban,Hair Oils,E-commerce Platform,8,Coconut Oil,Brand C,2.8,0.52,Europe,1230000000,Expansion in Asia
+384000000,13.2174007265339,Makeup,Budget,Regional,18-24,Non-binary,High,Rural,Face Creams,E-commerce Platform,2,Aloe Vera,Brand D,2.8,-0.98,Africa,1893000000,Expansion in Asia
+664000000,19.673120624887,Skincare,Mid-range,Global,35-44,Female,High,Rural,Face Creams,Online,4,Turmeric,Brand B,2.4,-0.96,Asia,833000000,Expansion in Asia
+186000000,18.0205446660922,Skincare,Premium,Global,35-44,Male,Middle,Rural,Soaps,Offline,6,Aloe Vera,Brand A,4.3,0.34,Asia,1996000000,Expansion in Asia
+312000000,14.1034348015927,Makeup,Budget,Global,18-24,Prefer not to say,Middle,Rural,Face Creams,Online,2,Aloe Vera,Brand C,3.9,-0.1,North America,1599000000,Sustainability Focus
+558000000,14.2936802673292,Haircare,Premium,Regional,35-44,Male,High,Suburban,Hair Oils,Online,5,Coconut Oil,Brand A,4.9,-0.16,North America,1527000000,New Product Lines
+942000000,13.0332128983312,Haircare,Budget,Country-Specific,45-54,Non-binary,Low,Rural,Conditioners,Physical Stores,6,Neem,Brand C,1.4,-0.38,Europe,804000000,Sustainability Focus
+770000000,11.2241072328411,Haircare,Premium,Global,55+,Male,Middle,Rural,Conditioners,Online,10,Turmeric,Brand B,4,0.91,Africa,1411000000,Sustainability Focus
+503000000,17.4921604281115,Haircare,Mid-range,Country-Specific,45-54,Female,Middle,Rural,Soaps,Offline,10,Aloe Vera,Brand B,3.3,-0.4,South America,1901000000,Expansion in Asia
+637000000,8.44399002202311,Makeup,Mid-range,Country-Specific,55+,Female,Low,Rural,Hair Oils,E-commerce Platform,3,Neem,Brand A,3.3,0.12,Asia,644000000,New Product Lines
+760000000,13.1431302684899,Haircare,Premium,Country-Specific,45-54,Female,High,Suburban,Soaps,E-commerce Platform,1,Aloe Vera,Brand B,4.3,0.84,South America,1968000000,New Product Lines
+421000000,7.34570919262409,Haircare,Mid-range,Global,55+,Male,Low,Urban,Soaps,Physical Stores,3,Rose Water,Brand B,1.8,-0.81,Asia,1865000000,Expansion in Asia
+798000000,17.5203274543876,Haircare,Budget,Country-Specific,45-54,Non-binary,Low,Rural,Shampoos,Physical Stores,7,Rose Water,Brand C,2.3,0.91,Asia,1604000000,Expansion in Asia
+214000000,19.6556263348372,Haircare,Mid-range,Country-Specific,18-24,Male,High,Urban,Conditioners,Offline,11,Rose Water,Brand B,4,0.32,North America,1471000000,Sustainability Focus
+916000000,13.4058944285275,Makeup,Premium,Country-Specific,25-34,Female,High,Urban,Soaps,Online,8,Rose Water,Brand C,3.1,-0.09,North America,1339000000,Sustainability Focus
+407000000,7.5565550111911,Haircare,Premium,Regional,45-54,Non-binary,Middle,Suburban,Soaps,Offline,5,Coconut Oil,Brand A,1.2,-0.23,Africa,930000000,Sustainability Focus
+891000000,5.7512304610925,Skincare,Budget,Country-Specific,55+,Non-binary,High,Suburban,Shampoos,Physical Stores,3,Turmeric,Brand B,2,-0.65,Asia,1836000000,Sustainability Focus
+390000000,16.7494173542513,Makeup,Mid-range,Country-Specific,18-24,Prefer not to say,Low,Rural,Shampoos,Offline,10,Neem,Brand B,3.1,-0.11,Africa,1577000000,Sustainability Focus
+808000000,18.8332514506986,Makeup,Mid-range,Global,25-34,Prefer not to say,Low,Urban,Soaps,Offline,2,Aloe Vera,Brand B,4.3,-0.46,Asia,1313000000,Expansion in Asia
+440000000,18.5560105008895,Makeup,Mid-range,Global,35-44,Male,High,Rural,Soaps,Physical Stores,8,Rose Water,Brand B,2.2,0.13,South America,1324000000,Expansion in Asia
+960000000,8.80499308655694,Makeup,Budget,Global,45-54,Female,Middle,Rural,Face Creams,Offline,11,Turmeric,Brand B,2.7,0.44,North America,1309000000,New Product Lines
+510000000,7.1599393857275,Makeup,Mid-range,Global,35-44,Female,Low,Suburban,Shampoos,Physical Stores,6,Coconut Oil,Brand B,4.7,-0.98,South America,724000000,New Product Lines
+450000000,18.0135327432658,Makeup,Budget,Global,18-24,Male,Middle,Rural,Hair Oils,Online,4,Coconut Oil,Brand D,2.3,-0.21,North America,833000000,Expansion in Asia
+694000000,16.4169440871719,Skincare,Budget,Country-Specific,45-54,Non-binary,Low,Urban,Soaps,E-commerce Platform,1,Turmeric,Brand B,1.4,0.61,Africa,1112000000,Sustainability Focus
+385000000,19.0495134566369,Haircare,Budget,Country-Specific,35-44,Female,Middle,Rural,Conditioners,E-commerce Platform,11,Coconut Oil,Brand B,1.1,-0.45,South America,1956000000,Sustainability Focus
+503000000,5.84363382596592,Skincare,Premium,Country-Specific,25-34,Prefer not to say,Middle,Urban,Hair Oils,Online,9,Coconut Oil,Brand D,1.7,-0.25,Africa,1999000000,Sustainability Focus
+103000000,18.8831557295502,Makeup,Premium,Country-Specific,25-34,Female,Low,Rural,Conditioners,Online,6,Aloe Vera,Brand D,2.5,0.35,Europe,735000000,New Product Lines
+454000000,13.4945972312116,Haircare,Premium,Global,55+,Prefer not to say,Middle,Suburban,Face Creams,Physical Stores,9,Coconut Oil,Brand D,4.1,-0.27,North America,763000000,New Product Lines
+802000000,10.8224257262182,Haircare,Premium,Regional,55+,Non-binary,Middle,Suburban,Hair Oils,Online,11,Coconut Oil,Brand B,4.5,-0.7,South America,842000000,New Product Lines
+590000000,18.1536083982059,Haircare,Budget,Country-Specific,18-24,Non-binary,High,Suburban,Conditioners,Online,3,Turmeric,Brand A,4.6,-0.1,Africa,1171000000,New Product Lines
+264000000,9.96297685977243,Makeup,Budget,Regional,18-24,Non-binary,Middle,Suburban,Soaps,Online,2,Coconut Oil,Brand A,4.5,0.77,Africa,1387000000,New Product Lines
+265000000,10.4614319358017,Haircare,Premium,Regional,45-54,Male,Low,Urban,Shampoos,Physical Stores,1,Aloe Vera,Brand A,3.8,0.54,North America,736000000,Sustainability Focus
+552000000,19.6779358490458,Haircare,Premium,Regional,45-54,Female,High,Rural,Face Creams,Online,9,Rose Water,Brand B,2.6,-0.75,Asia,1878000000,Expansion in Asia
+809000000,18.2071124352861,Skincare,Budget,Regional,35-44,Non-binary,Middle,Rural,Soaps,Online,1,Rose Water,Brand A,1.2,-0.61,North America,1614000000,Sustainability Focus
+238000000,15.3877440724803,Haircare,Premium,Country-Specific,25-34,Male,Middle,Suburban,Hair Oils,E-commerce Platform,5,Rose Water,Brand D,3.4,0.7,Europe,616000000,New Product Lines
+501000000,15.1563904754555,Makeup,Budget,Regional,55+,Prefer not to say,Middle,Urban,Shampoos,Physical Stores,8,Coconut Oil,Brand C,3,0.13,Asia,1541000000,Sustainability Focus
+230000000,8.40426180345506,Skincare,Mid-range,Global,55+,Male,Middle,Rural,Conditioners,Online,11,Aloe Vera,Brand C,2.2,-0.48,South America,1983000000,New Product Lines
+663000000,16.213746332199,Haircare,Premium,Global,55+,Female,Low,Suburban,Conditioners,Online,1,Rose Water,Brand B,4.2,0.62,Europe,1680000000,New Product Lines
+140000000,12.951383760183,Haircare,Budget,Regional,55+,Non-binary,High,Rural,Soaps,E-commerce Platform,8,Turmeric,Brand C,3.2,-0.08,Europe,700000000,Expansion in Asia
+926000000,14.8870387138863,Makeup,Premium,Regional,55+,Prefer not to say,Middle,Suburban,Face Creams,E-commerce Platform,11,Rose Water,Brand C,3,-0.31,Africa,766000000,Expansion in Asia
+130000000,11.0470203621058,Skincare,Premium,Country-Specific,35-44,Male,Middle,Urban,Soaps,Physical Stores,6,Neem,Brand C,4.8,0.64,North America,1852000000,Sustainability Focus
+674000000,17.6997165142368,Skincare,Budget,Regional,35-44,Female,High,Suburban,Hair Oils,E-commerce Platform,4,Rose Water,Brand A,3.4,0.99,Asia,874000000,New Product Lines
+515000000,5.29607126930941,Makeup,Mid-range,Regional,25-34,Prefer not to say,High,Urban,Face Creams,Offline,8,Turmeric,Brand C,3.4,-0.01,Europe,1765000000,Sustainability Focus
+703000000,9.58123097215258,Makeup,Budget,Global,18-24,Prefer not to say,High,Suburban,Soaps,Online,9,Neem,Brand C,1.2,0.69,South America,1962000000,Sustainability Focus
+317000000,10.45614592628,Skincare,Mid-range,Global,25-34,Female,Low,Urban,Shampoos,Offline,5,Rose Water,Brand B,4.2,-0.49,Africa,1014000000,Sustainability Focus
+808000000,14.0326508899951,Makeup,Mid-range,Country-Specific,18-24,Non-binary,Middle,Suburban,Conditioners,Physical Stores,5,Coconut Oil,Brand A,2.9,0.74,North America,1417000000,Sustainability Focus
+785000000,11.8386574197806,Skincare,Budget,Regional,45-54,Prefer not to say,Low,Suburban,Face Creams,E-commerce Platform,5,Rose Water,Brand B,1.8,-0.64,Africa,1334000000,Sustainability Focus
+797000000,10.4369039351572,Haircare,Mid-range,Global,35-44,Prefer not to say,Low,Rural,Conditioners,Offline,2,Aloe Vera,Brand C,1.4,0.67,Asia,1203000000,New Product Lines
+921000000,14.0057191989691,Haircare,Premium,Country-Specific,25-34,Male,High,Suburban,Conditioners,Online,9,Aloe Vera,Brand C,1.9,0.2,Europe,983000000,Sustainability Focus
+899000000,5.27457747073327,Skincare,Premium,Regional,45-54,Prefer not to say,High,Suburban,Face Creams,Physical Stores,6,Neem,Brand A,2.5,-0.46,North America,787000000,New Product Lines
+786000000,14.006181585146,Skincare,Budget,Regional,35-44,Prefer not to say,High,Rural,Soaps,Online,1,Neem,Brand B,4.4,0.67,South America,603000000,Expansion in Asia
+546000000,9.98269085212511,Skincare,Budget,Regional,35-44,Male,Low,Rural,Shampoos,Physical Stores,5,Aloe Vera,Brand A,2.5,-0.13,Europe,1778000000,New Product Lines
+564000000,11.7439386342109,Haircare,Mid-range,Country-Specific,35-44,Non-binary,Low,Suburban,Soaps,Physical Stores,11,Turmeric,Brand B,3.7,0.36,Africa,1834000000,Expansion in Asia
+502000000,10.8709101037969,Skincare,Budget,Country-Specific,55+,Male,Middle,Urban,Conditioners,Physical Stores,3,Rose Water,Brand D,4.6,-0.05,North America,1419000000,Sustainability Focus
+265000000,18.4046950658648,Skincare,Budget,Country-Specific,35-44,Female,Middle,Suburban,Face Creams,Physical Stores,1,Neem,Brand B,2.4,-0.21,Africa,594000000,New Product Lines
+898000000,12.6013176102387,Makeup,Budget,Global,55+,Female,High,Rural,Conditioners,Online,10,Rose Water,Brand D,3,-0.21,South America,1286000000,Sustainability Focus
+804000000,16.4086706883513,Makeup,Budget,Global,18-24,Female,High,Rural,Face Creams,E-commerce Platform,8,Aloe Vera,Brand C,2.1,-0.77,Africa,1217000000,Sustainability Focus
+856000000,12.5693592215188,Skincare,Budget,Regional,35-44,Male,Middle,Urban,Hair Oils,Online,7,Turmeric,Brand B,3.9,-0.38,Asia,512000000,Expansion in Asia
+150000000,16.0712631400933,Makeup,Budget,Regional,45-54,Female,Low,Urban,Face Creams,E-commerce Platform,10,Aloe Vera,Brand A,4.9,0.75,Europe,1022000000,Expansion in Asia
+368000000,17.333342382985,Makeup,Mid-range,Regional,25-34,Male,High,Urban,Soaps,E-commerce Platform,7,Neem,Brand D,1.9,-0.78,South America,1465000000,New Product Lines
+430000000,10.496131792194,Makeup,Premium,Global,25-34,Prefer not to say,High,Urban,Face Creams,Online,11,Rose Water,Brand C,4.6,0.08,Asia,1675000000,New Product Lines
+332000000,12.4600851618462,Skincare,Mid-range,Regional,35-44,Non-binary,Low,Rural,Soaps,E-commerce Platform,4,Coconut Oil,Brand B,1.5,0.61,South America,1590000000,Expansion in Asia
+733000000,6.57476842922988,Skincare,Budget,Regional,35-44,Non-binary,Middle,Urban,Conditioners,Physical Stores,11,Turmeric,Brand A,1.1,0.04,South America,1084000000,Expansion in Asia
+418000000,10.1807254403721,Haircare,Premium,Country-Specific,45-54,Prefer not to say,Low,Suburban,Shampoos,E-commerce Platform,11,Turmeric,Brand B,3,0.42,Asia,640000000,New Product Lines
+453000000,10.8432438679738,Skincare,Premium,Country-Specific,25-34,Male,Low,Suburban,Soaps,Offline,5,Rose Water,Brand D,1.7,0.44,Africa,1958000000,New Product Lines
+368000000,10.6022604268238,Skincare,Premium,Country-Specific,35-44,Prefer not to say,High,Urban,Conditioners,Online,8,Rose Water,Brand C,4.7,-0.38,Europe,1469000000,New Product Lines
+922000000,11.1351608373795,Makeup,Premium,Regional,25-34,Male,Low,Rural,Face Creams,Physical Stores,9,Rose Water,Brand C,3.7,0.39,Africa,1486000000,New Product Lines
+863000000,18.987450842043,Makeup,Budget,Global,25-34,Female,Low,Suburban,Hair Oils,Offline,7,Rose Water,Brand A,3.5,-0.65,Africa,1298000000,Expansion in Asia
+544000000,6.56338711501372,Makeup,Budget,Country-Specific,25-34,Non-binary,Middle,Suburban,Conditioners,Offline,4,Aloe Vera,Brand C,2.6,-0.37,Europe,1751000000,New Product Lines
+967000000,9.14077627882141,Skincare,Mid-range,Regional,35-44,Non-binary,Low,Urban,Shampoos,Physical Stores,7,Aloe Vera,Brand C,4.7,-0.49,South America,892000000,Expansion in Asia
+954000000,12.5807658827436,Makeup,Premium,Global,45-54,Female,Middle,Suburban,Hair Oils,E-commerce Platform,9,Neem,Brand A,1.2,0.73,Europe,1407000000,Expansion in Asia
+315000000,14.6448884884625,Haircare,Premium,Global,18-24,Non-binary,Low,Suburban,Face Creams,Physical Stores,5,Rose Water,Brand A,5,-0.07,Europe,1240000000,New Product Lines
+620000000,13.7912286873313,Skincare,Budget,Regional,35-44,Male,Middle,Urban,Conditioners,E-commerce Platform,1,Neem,Brand A,4,-0.42,Asia,681000000,New Product Lines
+773000000,8.15372489920057,Skincare,Premium,Global,45-54,Female,High,Rural,Face Creams,Offline,10,Aloe Vera,Brand C,4.5,-0.55,North America,689000000,New Product Lines
+410000000,5.11552211312765,Makeup,Budget,Country-Specific,18-24,Female,Middle,Urban,Hair Oils,Online,10,Turmeric,Brand A,2.8,0.46,Asia,1458000000,New Product Lines
+142000000,10.9058210643655,Haircare,Budget,Global,45-54,Prefer not to say,Low,Rural,Hair Oils,Offline,8,Coconut Oil,Brand B,2.8,0.61,Europe,1534000000,Expansion in Asia
+868000000,14.3097949253161,Makeup,Premium,Country-Specific,45-54,Female,High,Suburban,Face Creams,E-commerce Platform,10,Turmeric,Brand C,3.1,1,Asia,765000000,Sustainability Focus
+888000000,7.78167399648567,Makeup,Mid-range,Regional,35-44,Prefer not to say,High,Suburban,Face Creams,E-commerce Platform,2,Coconut Oil,Brand A,3.6,0.4,Europe,903000000,New Product Lines
+740000000,14.1650083325354,Skincare,Budget,Country-Specific,55+,Female,Low,Urban,Soaps,Online,4,Aloe Vera,Brand B,1.1,0.81,Europe,699000000,Sustainability Focus
+566000000,6.50614171204509,Haircare,Premium,Global,35-44,Non-binary,Middle,Urban,Face Creams,Offline,8,Coconut Oil,Brand A,2.1,0.98,Africa,737000000,New Product Lines
+261000000,16.7440565512653,Haircare,Mid-range,Regional,55+,Non-binary,High,Suburban,Soaps,Physical Stores,7,Turmeric,Brand C,3.9,-0.33,Europe,1710000000,Expansion in Asia
+478000000,11.8946025133265,Skincare,Premium,Global,45-54,Male,Middle,Suburban,Conditioners,Physical Stores,6,Neem,Brand D,2.5,-0.29,North America,1577000000,New Product Lines
+352000000,9.04225308592611,Haircare,Budget,Global,18-24,Female,Low,Urban,Hair Oils,E-commerce Platform,7,Turmeric,Brand B,2.2,-0.99,Africa,886000000,New Product Lines
+451000000,17.4822530865402,Skincare,Budget,Country-Specific,25-34,Female,Low,Rural,Face Creams,Online,2,Turmeric,Brand D,3.9,-0.94,North America,1480000000,Expansion in Asia
+760000000,19.4836656648643,Skincare,Budget,Global,55+,Male,Low,Urban,Conditioners,Online,9,Turmeric,Brand C,4.4,0.84,Asia,972000000,Sustainability Focus
+123000000,5.90766027021324,Makeup,Budget,Regional,18-24,Male,Low,Urban,Face Creams,Online,9,Turmeric,Brand A,3.7,0.36,Africa,956000000,Expansion in Asia
+538000000,8.63968877910238,Skincare,Premium,Country-Specific,55+,Prefer not to say,Middle,Suburban,Soaps,E-commerce Platform,10,Neem,Brand D,4.7,0.26,North America,1393000000,Expansion in Asia
+550000000,7.18264734838647,Skincare,Budget,Regional,35-44,Non-binary,Low,Urban,Shampoos,Offline,4,Coconut Oil,Brand D,1.2,0.96,Europe,1094000000,Expansion in Asia
+265000000,17.2350505371686,Haircare,Premium,Global,25-34,Prefer not to say,Middle,Urban,Conditioners,E-commerce Platform,11,Aloe Vera,Brand C,2.6,-0.6,Europe,1677000000,Sustainability Focus
+974000000,16.9464926444142,Skincare,Premium,Regional,45-54,Female,High,Suburban,Conditioners,E-commerce Platform,10,Turmeric,Brand C,4.7,0.01,South America,1980000000,Sustainability Focus
+734000000,8.63194280069055,Skincare,Mid-range,Country-Specific,18-24,Male,Middle,Suburban,Hair Oils,Offline,1,Neem,Brand C,3.5,-1,North America,1916000000,Sustainability Focus
+269000000,10.6736165461853,Haircare,Mid-range,Global,35-44,Prefer not to say,Middle,Suburban,Shampoos,Offline,2,Aloe Vera,Brand A,1.1,0.4,Asia,1813000000,New Product Lines
+275000000,7.60620548746169,Skincare,Premium,Global,55+,Prefer not to say,Middle,Suburban,Soaps,Physical Stores,6,Rose Water,Brand B,1.7,0.8,North America,1542000000,Expansion in Asia
+408000000,11.6297127955336,Skincare,Budget,Global,25-34,Non-binary,Middle,Suburban,Face Creams,Online,5,Neem,Brand D,3.2,-0.14,South America,658000000,Expansion in Asia
+829000000,6.67951474771887,Skincare,Mid-range,Regional,25-34,Female,High,Suburban,Hair Oils,E-commerce Platform,10,Turmeric,Brand B,2.8,0.68,North America,558000000,Sustainability Focus
+909000000,9.49511741262294,Haircare,Mid-range,Regional,55+,Prefer not to say,Middle,Urban,Face Creams,E-commerce Platform,7,Turmeric,Brand B,4.4,-0.53,North America,759000000,New Product Lines
+805000000,19.2810647628347,Haircare,Premium,Regional,45-54,Female,Low,Urban,Hair Oils,E-commerce Platform,9,Rose Water,Brand D,1.6,0.6,Africa,1253000000,Expansion in Asia
+324000000,6.03025343066029,Skincare,Budget,Regional,45-54,Non-binary,Low,Rural,Soaps,E-commerce Platform,10,Aloe Vera,Brand B,1.1,0.09,North America,1839000000,Expansion in Asia
+886000000,15.5371394576185,Skincare,Premium,Regional,45-54,Male,High,Urban,Hair Oils,Online,8,Neem,Brand C,1.1,-0.36,North America,898000000,Expansion in Asia
+251000000,10.9481946514744,Haircare,Premium,Country-Specific,25-34,Female,Low,Rural,Conditioners,E-commerce Platform,5,Neem,Brand D,2.9,0.06,South America,1826000000,Expansion in Asia
+507000000,17.6148345853147,Haircare,Premium,Regional,25-34,Prefer not to say,High,Suburban,Soaps,E-commerce Platform,3,Turmeric,Brand C,2.5,-0.19,Europe,1712000000,Expansion in Asia
+227000000,10.1147271034375,Makeup,Mid-range,Global,25-34,Prefer not to say,Middle,Urban,Soaps,Online,5,Rose Water,Brand B,4.8,-0.28,South America,588000000,New Product Lines
+728000000,16.0609484688868,Makeup,Budget,Regional,45-54,Prefer not to say,Middle,Suburban,Conditioners,Offline,3,Aloe Vera,Brand D,4,0.53,Europe,716000000,Sustainability Focus
+627000000,12.914244563102,Makeup,Budget,Country-Specific,25-34,Prefer not to say,Low,Urban,Hair Oils,Online,3,Rose Water,Brand D,3.1,-0.4,North America,1903000000,New Product Lines
+380000000,6.04599238288273,Skincare,Mid-range,Regional,55+,Non-binary,High,Rural,Face Creams,Offline,11,Coconut Oil,Brand C,3.3,0.37,Asia,1558000000,New Product Lines
+230000000,13.0435439551329,Haircare,Budget,Country-Specific,18-24,Female,Low,Rural,Shampoos,Online,8,Coconut Oil,Brand C,3.6,-0.29,South America,1376000000,Expansion in Asia
+774000000,8.04173747208545,Skincare,Premium,Regional,45-54,Male,Middle,Urban,Shampoos,Physical Stores,3,Aloe Vera,Brand D,2.8,-0.2,Europe,1498000000,Expansion in Asia
+123000000,15.5105879982806,Haircare,Budget,Regional,45-54,Prefer not to say,Middle,Urban,Conditioners,Offline,4,Turmeric,Brand C,4.9,0.63,South America,1821000000,New Product Lines
+469000000,7.77807312783138,Makeup,Mid-range,Regional,18-24,Prefer not to say,Middle,Suburban,Face Creams,Offline,8,Neem,Brand D,1.3,-0.27,Europe,1068000000,Expansion in Asia
+109000000,13.5994668114793,Skincare,Mid-range,Global,55+,Non-binary,Middle,Urban,Conditioners,Physical Stores,10,Rose Water,Brand D,2.5,0.38,South America,1206000000,Expansion in Asia
+590000000,10.7039315930341,Haircare,Premium,Global,55+,Prefer not to say,High,Urban,Soaps,E-commerce Platform,11,Aloe Vera,Brand C,4.7,-0.57,North America,567000000,Sustainability Focus
+186000000,11.9806917719708,Makeup,Budget,Global,35-44,Female,Low,Rural,Conditioners,Physical Stores,6,Aloe Vera,Brand A,4.6,-0.6,Asia,1219000000,New Product Lines
+903000000,13.4508626138757,Haircare,Premium,Global,45-54,Prefer not to say,High,Urban,Conditioners,E-commerce Platform,5,Turmeric,Brand D,4.9,-0.3,Africa,1011000000,Sustainability Focus
+514000000,12.5281395060683,Haircare,Mid-range,Global,45-54,Non-binary,Middle,Urban,Conditioners,Offline,6,Coconut Oil,Brand C,3,0.62,South America,1675000000,Sustainability Focus
+912000000,10.0310428945881,Makeup,Premium,Regional,25-34,Non-binary,Middle,Urban,Hair Oils,E-commerce Platform,11,Turmeric,Brand B,2,-0.21,Asia,513000000,New Product Lines
+846000000,12.0662250971888,Haircare,Premium,Global,55+,Male,Low,Rural,Face Creams,Physical Stores,4,Turmeric,Brand B,2.8,0.54,Europe,1542000000,Sustainability Focus
+549000000,12.6585828149502,Haircare,Mid-range,Regional,35-44,Female,Low,Suburban,Soaps,Offline,8,Aloe Vera,Brand D,2.6,-0.31,Europe,1192000000,Sustainability Focus
+551000000,6.63320653910944,Haircare,Mid-range,Country-Specific,25-34,Female,Middle,Urban,Shampoos,Physical Stores,4,Neem,Brand B,1,0.75,Africa,611000000,Sustainability Focus
+578000000,19.6308024818109,Makeup,Premium,Global,25-34,Prefer not to say,Low,Suburban,Shampoos,Online,4,Rose Water,Brand A,4.8,-0.55,South America,946000000,Sustainability Focus
+387000000,10.6575179137851,Haircare,Mid-range,Global,55+,Non-binary,Middle,Rural,Shampoos,E-commerce Platform,1,Coconut Oil,Brand D,2.3,-0.94,Asia,1771000000,New Product Lines
+223000000,8.11791711772537,Makeup,Budget,Regional,25-34,Non-binary,Middle,Suburban,Conditioners,Physical Stores,1,Neem,Brand D,2.5,0.96,South America,1042000000,Expansion in Asia
+528000000,15.3986355611284,Skincare,Mid-range,Global,55+,Male,Low,Suburban,Shampoos,Online,2,Turmeric,Brand A,3.1,-0.24,Africa,1765000000,New Product Lines
+280000000,15.4946654057646,Skincare,Budget,Regional,45-54,Non-binary,Middle,Rural,Shampoos,Online,5,Turmeric,Brand C,3.2,-0.39,South America,1258000000,Expansion in Asia
+130000000,10.8375907272977,Skincare,Budget,Regional,35-44,Female,Middle,Suburban,Hair Oils,E-commerce Platform,4,Neem,Brand A,1.9,-0.09,South America,572000000,Expansion in Asia
+316000000,9.11205235877667,Makeup,Premium,Global,25-34,Male,Middle,Urban,Hair Oils,Offline,5,Turmeric,Brand C,4.7,0.99,Africa,1939000000,Sustainability Focus
+493000000,15.8472813860183,Makeup,Premium,Regional,25-34,Male,High,Rural,Shampoos,Offline,3,Rose Water,Brand A,2.3,-0.41,Europe,1734000000,Sustainability Focus
+801000000,14.8333473413801,Makeup,Mid-range,Regional,55+,Male,Middle,Rural,Conditioners,Physical Stores,2,Aloe Vera,Brand B,3.1,0.95,Africa,1179000000,New Product Lines
+631000000,10.3425223763172,Skincare,Budget,Country-Specific,35-44,Male,Low,Rural,Face Creams,Online,1,Neem,Brand D,4.9,0.08,Africa,657000000,Expansion in Asia
+608000000,8.35049555855025,Skincare,Premium,Country-Specific,18-24,Male,Low,Urban,Face Creams,E-commerce Platform,4,Turmeric,Brand B,2.5,0.48,North America,1824000000,Expansion in Asia
+766000000,19.1383144899176,Skincare,Budget,Country-Specific,55+,Female,Low,Suburban,Conditioners,E-commerce Platform,5,Aloe Vera,Brand B,4.9,0.66,North America,1827000000,Sustainability Focus
+256000000,16.5766836891902,Haircare,Budget,Regional,45-54,Male,Middle,Urban,Soaps,Online,10,Neem,Brand B,2.5,0.67,Europe,1022000000,New Product Lines
+817000000,6.6598830733212,Skincare,Budget,Country-Specific,45-54,Female,High,Suburban,Conditioners,Offline,8,Turmeric,Brand C,4.5,0.88,North America,1193000000,Expansion in Asia
+249000000,19.2124728505645,Haircare,Mid-range,Regional,45-54,Prefer not to say,Middle,Suburban,Hair Oils,Physical Stores,10,Turmeric,Brand C,4.1,-0.42,South America,1897000000,Expansion in Asia
+396000000,6.10337648324057,Makeup,Budget,Country-Specific,55+,Prefer not to say,Low,Suburban,Face Creams,E-commerce Platform,1,Turmeric,Brand A,4.3,0.25,North America,850000000,New Product Lines
+323000000,10.2896904414123,Makeup,Premium,Country-Specific,35-44,Non-binary,High,Rural,Face Creams,E-commerce Platform,8,Neem,Brand D,4.4,0.64,Africa,1447000000,Expansion in Asia
+765000000,19.6331691349994,Makeup,Budget,Country-Specific,55+,Female,High,Suburban,Shampoos,Online,8,Neem,Brand A,3.1,0.55,Africa,802000000,Expansion in Asia
+926000000,7.83503008634312,Haircare,Budget,Regional,35-44,Non-binary,Low,Urban,Hair Oils,Offline,4,Coconut Oil,Brand C,3.9,-0.74,Asia,988000000,New Product Lines
+852000000,9.68611976306674,Haircare,Budget,Country-Specific,25-34,Non-binary,Middle,Rural,Shampoos,Offline,8,Aloe Vera,Brand B,1.9,-0.06,Africa,1741000000,Expansion in Asia
+180000000,13.3596713822505,Makeup,Premium,Regional,45-54,Non-binary,Middle,Rural,Shampoos,Offline,10,Aloe Vera,Brand A,1.2,0.59,Africa,1658000000,Expansion in Asia
+525000000,17.1479044740649,Haircare,Mid-range,Regional,55+,Male,High,Suburban,Hair Oils,E-commerce Platform,2,Turmeric,Brand D,1.7,0.44,North America,1761000000,Sustainability Focus
+367000000,12.2400710279438,Makeup,Budget,Country-Specific,35-44,Non-binary,Low,Urban,Soaps,E-commerce Platform,7,Aloe Vera,Brand B,3.2,-0.39,South America,609000000,New Product Lines
+839000000,13.5908027234824,Haircare,Budget,Country-Specific,18-24,Prefer not to say,Middle,Rural,Shampoos,Online,3,Coconut Oil,Brand B,4.4,0.34,North America,1849000000,Sustainability Focus
+787000000,12.9481624094364,Haircare,Premium,Global,25-34,Female,Middle,Rural,Face Creams,Offline,6,Coconut Oil,Brand C,2.8,0.68,North America,1588000000,Expansion in Asia
+307000000,6.5901446410548,Haircare,Premium,Global,18-24,Non-binary,Middle,Urban,Conditioners,Physical Stores,3,Aloe Vera,Brand C,2.2,0.06,Asia,1668000000,New Product Lines
+235000000,16.3808785494695,Makeup,Budget,Country-Specific,25-34,Prefer not to say,High,Suburban,Conditioners,Online,4,Rose Water,Brand A,3.4,0.57,Asia,1116000000,Expansion in Asia
+282000000,16.6233438068366,Skincare,Budget,Regional,18-24,Prefer not to say,Middle,Suburban,Hair Oils,Physical Stores,3,Aloe Vera,Brand D,1.3,-0.5,South America,1446000000,New Product Lines
+411000000,7.86023277064137,Makeup,Mid-range,Global,25-34,Prefer not to say,Low,Urban,Shampoos,Offline,8,Rose Water,Brand B,2.5,-0.8,Europe,1445000000,New Product Lines
+686000000,15.8352952680336,Makeup,Mid-range,Regional,18-24,Female,High,Rural,Soaps,Physical Stores,3,Neem,Brand C,4.4,0.1,North America,1229000000,New Product Lines
+690000000,19.6109479620771,Makeup,Mid-range,Global,35-44,Non-binary,Low,Suburban,Hair Oils,E-commerce Platform,9,Turmeric,Brand A,2.5,-0.41,Europe,1860000000,Expansion in Asia
+596000000,17.3291460468664,Haircare,Mid-range,Global,45-54,Prefer not to say,Middle,Suburban,Conditioners,Online,4,Aloe Vera,Brand B,1.4,0.48,North America,878000000,Expansion in Asia
+171000000,7.41557498721992,Haircare,Premium,Country-Specific,35-44,Non-binary,Middle,Rural,Soaps,Physical Stores,6,Aloe Vera,Brand B,4.1,0.71,South America,1041000000,Sustainability Focus
+999000000,13.234844016367,Haircare,Mid-range,Global,25-34,Female,Middle,Rural,Conditioners,Offline,10,Turmeric,Brand A,4.1,0.24,North America,1704000000,New Product Lines
+665000000,7.41082054945804,Haircare,Budget,Regional,18-24,Prefer not to say,Middle,Suburban,Face Creams,E-commerce Platform,10,Coconut Oil,Brand D,4.5,0,Europe,550000000,Sustainability Focus
+385000000,12.1302001700311,Haircare,Budget,Global,25-34,Prefer not to say,Low,Suburban,Face Creams,Offline,7,Neem,Brand B,1.4,0.19,North America,970000000,Sustainability Focus
+901000000,17.5564091212763,Haircare,Mid-range,Global,45-54,Prefer not to say,Low,Urban,Face Creams,Offline,4,Rose Water,Brand C,3.3,-0.07,Asia,1261000000,New Product Lines
+274000000,17.5429952221158,Makeup,Mid-range,Global,18-24,Male,Low,Rural,Shampoos,Offline,2,Turmeric,Brand A,3.6,-0.74,Asia,1254000000,Sustainability Focus
+818000000,15.6958196085303,Skincare,Mid-range,Regional,18-24,Male,High,Rural,Shampoos,Physical Stores,7,Aloe Vera,Brand D,3.3,0.48,South America,1912000000,New Product Lines
+968000000,10.9350187935904,Makeup,Premium,Regional,35-44,Female,High,Suburban,Face Creams,Online,2,Rose Water,Brand A,1.2,0.77,Africa,760000000,New Product Lines
+347000000,11.1854685429617,Haircare,Premium,Global,35-44,Female,High,Suburban,Hair Oils,Online,9,Turmeric,Brand B,3.4,0.16,Africa,1599000000,New Product Lines
+445000000,6.52497504281311,Makeup,Premium,Global,55+,Non-binary,High,Rural,Soaps,E-commerce Platform,10,Rose Water,Brand B,4.1,0.04,Africa,847000000,New Product Lines
+389000000,11.8046762073402,Skincare,Premium,Country-Specific,35-44,Prefer not to say,Middle,Urban,Soaps,Offline,1,Coconut Oil,Brand A,3.3,0.21,Europe,1430000000,New Product Lines
+402000000,5.21711764999986,Skincare,Mid-range,Global,18-24,Male,Low,Urban,Shampoos,Offline,9,Rose Water,Brand D,4.9,-0.62,Europe,1640000000,Sustainability Focus
+395000000,13.7660669912231,Skincare,Budget,Global,25-34,Non-binary,Middle,Rural,Hair Oils,E-commerce Platform,5,Aloe Vera,Brand C,2,-0.51,South America,754000000,Expansion in Asia
+389000000,12.4699431202786,Makeup,Budget,Regional,18-24,Male,Low,Rural,Face Creams,Online,4,Rose Water,Brand A,2.4,0.41,Africa,1037000000,Sustainability Focus
+738000000,7.47564758096699,Haircare,Budget,Global,55+,Non-binary,Middle,Suburban,Conditioners,Physical Stores,8,Neem,Brand D,3.9,0.02,North America,1973000000,Expansion in Asia
+218000000,14.0454559291046,Makeup,Premium,Country-Specific,45-54,Female,Middle,Suburban,Shampoos,Physical Stores,10,Neem,Brand A,2.3,-0.33,Europe,1733000000,Sustainability Focus
+197000000,11.943832547298,Haircare,Mid-range,Country-Specific,55+,Female,Low,Urban,Shampoos,Physical Stores,8,Aloe Vera,Brand A,2.6,-0.16,Africa,1559000000,Expansion in Asia
+742000000,11.4871593440008,Skincare,Premium,Global,25-34,Female,Middle,Rural,Hair Oils,E-commerce Platform,9,Rose Water,Brand B,1.7,0.21,Asia,858000000,Expansion in Asia
+510000000,10.6493375764754,Haircare,Premium,Regional,55+,Prefer not to say,Low,Rural,Soaps,Online,1,Coconut Oil,Brand A,3.7,0.52,North America,1746000000,Expansion in Asia
+407000000,9.96230520042934,Makeup,Mid-range,Regional,18-24,Female,Low,Rural,Hair Oils,E-commerce Platform,6,Aloe Vera,Brand C,1.7,-0.3,North America,891000000,Expansion in Asia
+290000000,17.4959060793587,Makeup,Mid-range,Regional,55+,Male,Middle,Urban,Hair Oils,Physical Stores,8,Rose Water,Brand A,4.4,0.49,North America,764000000,Sustainability Focus
+154000000,15.438463482125,Haircare,Premium,Country-Specific,18-24,Prefer not to say,Middle,Urban,Soaps,E-commerce Platform,10,Rose Water,Brand B,2.9,-0.28,Europe,1021000000,Sustainability Focus
+443000000,12.939250556516,Haircare,Premium,Country-Specific,55+,Female,Middle,Urban,Hair Oils,Online,6,Turmeric,Brand C,2.4,-0.61,North America,617000000,Expansion in Asia
+395000000,18.093668401075,Haircare,Mid-range,Regional,25-34,Male,High,Rural,Face Creams,Online,4,Neem,Brand A,3,0.1,North America,709000000,New Product Lines
+642000000,9.46330951936644,Skincare,Budget,Regional,18-24,Non-binary,Middle,Rural,Shampoos,Physical Stores,4,Neem,Brand C,4.4,0.56,Asia,1613000000,Sustainability Focus
+389000000,12.8479007126216,Makeup,Premium,Regional,25-34,Male,Low,Suburban,Conditioners,Online,3,Coconut Oil,Brand B,1.9,-0.41,Africa,1644000000,Expansion in Asia
+476000000,6.50820246988624,Makeup,Budget,Country-Specific,35-44,Prefer not to say,Low,Suburban,Shampoos,Offline,3,Turmeric,Brand B,1.4,0.94,Africa,767000000,Sustainability Focus
+748000000,10.5957072984666,Skincare,Mid-range,Country-Specific,25-34,Male,Low,Rural,Hair Oils,Online,8,Turmeric,Brand B,4.4,-0.25,Asia,919000000,Expansion in Asia
+465000000,6.8388370364625,Haircare,Premium,Regional,18-24,Female,Low,Rural,Shampoos,Online,7,Aloe Vera,Brand A,3.1,-0.43,South America,648000000,New Product Lines
+397000000,9.37181633646615,Skincare,Budget,Regional,18-24,Female,Middle,Urban,Hair Oils,Offline,3,Rose Water,Brand C,4.2,0.77,Africa,1280000000,Sustainability Focus
+469000000,16.6711765135528,Makeup,Budget,Global,25-34,Male,Low,Rural,Shampoos,Offline,3,Turmeric,Brand A,2.8,0.28,Africa,1704000000,Sustainability Focus
+150000000,5.32600367082501,Haircare,Mid-range,Regional,55+,Prefer not to say,Middle,Rural,Face Creams,E-commerce Platform,4,Coconut Oil,Brand C,2.9,0.24,Europe,1692000000,Sustainability Focus
+330000000,9.67328933160197,Skincare,Mid-range,Regional,18-24,Male,Middle,Urban,Conditioners,Offline,3,Rose Water,Brand A,2.4,0.81,Africa,1271000000,Sustainability Focus
+206000000,5.19225385543747,Haircare,Budget,Global,35-44,Non-binary,High,Urban,Hair Oils,E-commerce Platform,11,Turmeric,Brand C,3.1,0.81,North America,1724000000,New Product Lines
+662000000,15.3135980832519,Haircare,Budget,Country-Specific,55+,Prefer not to say,Middle,Rural,Shampoos,E-commerce Platform,5,Neem,Brand C,4.6,0.89,Europe,1576000000,New Product Lines
+867000000,5.07323665146736,Makeup,Premium,Global,25-34,Non-binary,Middle,Rural,Soaps,Physical Stores,4,Neem,Brand C,3.2,0.29,North America,1514000000,New Product Lines
+789000000,12.0431348086433,Haircare,Mid-range,Regional,35-44,Male,Middle,Urban,Conditioners,E-commerce Platform,3,Neem,Brand A,2.9,-0.37,Europe,673000000,New Product Lines
+670000000,11.4688436671193,Makeup,Mid-range,Global,55+,Prefer not to say,Low,Rural,Face Creams,Physical Stores,4,Coconut Oil,Brand B,3.4,-0.26,Africa,1156000000,New Product Lines
+975000000,8.63470117292677,Skincare,Budget,Regional,25-34,Prefer not to say,Low,Rural,Hair Oils,E-commerce Platform,1,Aloe Vera,Brand B,4.7,-0.35,North America,1301000000,Sustainability Focus
+676000000,15.3050914253324,Makeup,Budget,Regional,25-34,Male,High,Suburban,Conditioners,Offline,5,Rose Water,Brand C,2.1,0.3,North America,1786000000,Expansion in Asia
+811000000,7.44528622323254,Skincare,Mid-range,Regional,55+,Female,High,Suburban,Face Creams,Physical Stores,2,Aloe Vera,Brand B,3.8,-0.12,Europe,1547000000,Sustainability Focus
+224000000,13.5971931889637,Haircare,Mid-range,Global,35-44,Prefer not to say,Low,Rural,Conditioners,Offline,9,Turmeric,Brand A,2.6,-0.86,Africa,1409000000,Expansion in Asia
+891000000,5.0776498269885,Makeup,Premium,Regional,25-34,Prefer not to say,Middle,Urban,Face Creams,Offline,4,Neem,Brand A,4.8,1,Africa,512000000,Expansion in Asia
+441000000,17.5525202785,Haircare,Mid-range,Global,45-54,Male,Low,Rural,Soaps,E-commerce Platform,5,Turmeric,Brand A,1.7,-0.2,North America,1239000000,Expansion in Asia
+760000000,5.06968768152029,Makeup,Premium,Global,55+,Non-binary,Low,Urban,Shampoos,Offline,1,Turmeric,Brand B,3.9,-0.78,Asia,827000000,New Product Lines
+357000000,8.49799882043236,Skincare,Premium,Regional,55+,Prefer not to say,Middle,Urban,Face Creams,Online,7,Rose Water,Brand D,3.3,-0.88,Europe,1992000000,Sustainability Focus
+979000000,5.03953112936061,Skincare,Budget,Regional,35-44,Prefer not to say,High,Rural,Shampoos,Offline,9,Rose Water,Brand C,2.1,-0.84,Europe,1586000000,Expansion in Asia
+625000000,19.2938355736055,Makeup,Premium,Regional,18-24,Male,Middle,Urban,Hair Oils,E-commerce Platform,9,Coconut Oil,Brand B,3.4,-0.51,Africa,1960000000,New Product Lines
+889000000,11.2082421122702,Makeup,Budget,Country-Specific,45-54,Female,High,Suburban,Hair Oils,Online,6,Coconut Oil,Brand C,4.9,0.54,South America,693000000,Expansion in Asia
+804000000,17.0236091526283,Haircare,Mid-range,Global,45-54,Male,Low,Urban,Conditioners,Online,2,Neem,Brand A,2.2,-0.56,Europe,1332000000,New Product Lines
+822000000,9.85609736633819,Haircare,Mid-range,Regional,45-54,Female,High,Urban,Face Creams,Physical Stores,6,Aloe Vera,Brand B,1.7,-0.78,Europe,790000000,Sustainability Focus
+568000000,6.78791601906683,Skincare,Premium,Global,55+,Non-binary,High,Suburban,Soaps,Physical Stores,11,Coconut Oil,Brand D,1.4,0.62,Europe,707000000,Expansion in Asia
+332000000,19.6356893644969,Haircare,Premium,Regional,55+,Prefer not to say,Low,Urban,Conditioners,Offline,4,Turmeric,Brand A,3.5,0.51,Africa,1419000000,Expansion in Asia
+488000000,12.0030747474106,Skincare,Premium,Global,25-34,Male,Middle,Urban,Soaps,Online,2,Coconut Oil,Brand C,2,0.6,South America,1732000000,Expansion in Asia
+543000000,10.3486770193441,Skincare,Budget,Country-Specific,45-54,Male,Middle,Rural,Hair Oils,E-commerce Platform,5,Coconut Oil,Brand A,1.8,0.74,South America,1470000000,Sustainability Focus
+511000000,6.81910953265266,Makeup,Budget,Country-Specific,45-54,Prefer not to say,High,Suburban,Conditioners,Offline,6,Turmeric,Brand B,3,-0.77,Africa,1549000000,Expansion in Asia
+146000000,18.9923750707571,Makeup,Premium,Global,45-54,Male,Low,Rural,Conditioners,E-commerce Platform,4,Aloe Vera,Brand B,1.1,-0.84,Africa,917000000,New Product Lines
+809000000,10.9814077949208,Makeup,Budget,Country-Specific,35-44,Prefer not to say,Low,Suburban,Face Creams,Online,2,Rose Water,Brand A,3.3,-0.08,South America,1434000000,Sustainability Focus
+478000000,7.72475447871697,Haircare,Budget,Country-Specific,35-44,Male,Middle,Suburban,Shampoos,Online,10,Rose Water,Brand B,3.2,0.59,Europe,733000000,New Product Lines
+751000000,8.88345484006557,Skincare,Premium,Global,18-24,Female,High,Suburban,Conditioners,Online,10,Coconut Oil,Brand D,3.1,-0.56,Europe,593000000,Expansion in Asia
+500000000,6.86514940149846,Makeup,Premium,Regional,25-34,Non-binary,Low,Urban,Conditioners,Offline,3,Turmeric,Brand D,1.7,0.54,Asia,994000000,New Product Lines
+888000000,16.4062281597448,Haircare,Budget,Global,55+,Non-binary,Low,Rural,Soaps,Physical Stores,11,Aloe Vera,Brand B,3.7,1,North America,1371000000,Sustainability Focus
+978000000,18.0579661283226,Haircare,Mid-range,Global,25-34,Female,Low,Urban,Shampoos,Online,8,Rose Water,Brand A,4.9,-0.51,North America,888000000,New Product Lines
+927000000,8.36586301944201,Makeup,Mid-range,Global,55+,Female,High,Rural,Conditioners,Offline,1,Turmeric,Brand D,4.7,0.34,North America,767000000,Sustainability Focus
+791000000,17.9951667969894,Makeup,Budget,Country-Specific,18-24,Prefer not to say,High,Urban,Hair Oils,E-commerce Platform,11,Coconut Oil,Brand C,2.4,0,North America,576000000,New Product Lines
+678000000,13.9770823825713,Haircare,Budget,Regional,45-54,Female,High,Urban,Shampoos,Physical Stores,10,Rose Water,Brand D,4,-0.2,Asia,1253000000,New Product Lines
+780000000,6.61411234392813,Makeup,Budget,Global,35-44,Non-binary,Middle,Suburban,Face Creams,Physical Stores,2,Coconut Oil,Brand A,1.7,-0.11,South America,775000000,Expansion in Asia
+383000000,16.3482443177345,Haircare,Premium,Regional,25-34,Prefer not to say,Low,Urban,Hair Oils,Online,9,Neem,Brand D,4.2,0.92,Europe,1733000000,Expansion in Asia
+996000000,15.7303696414704,Haircare,Budget,Global,55+,Non-binary,Low,Urban,Soaps,Offline,6,Aloe Vera,Brand C,2.8,-0.2,South America,886000000,Sustainability Focus
+629000000,17.6029607639389,Skincare,Mid-range,Country-Specific,45-54,Non-binary,Middle,Urban,Conditioners,Online,7,Aloe Vera,Brand B,4.2,-0.95,South America,1110000000,Expansion in Asia
+917000000,19.06361712682,Makeup,Mid-range,Regional,35-44,Prefer not to say,Low,Suburban,Conditioners,Offline,5,Coconut Oil,Brand C,3,0.83,Europe,1674000000,Expansion in Asia
+264000000,10.5161301363573,Makeup,Budget,Country-Specific,55+,Non-binary,High,Urban,Conditioners,Online,9,Rose Water,Brand C,4.6,0.18,Europe,1868000000,Expansion in Asia
+549000000,10.4089385056532,Makeup,Premium,Regional,25-34,Non-binary,Middle,Suburban,Face Creams,E-commerce Platform,11,Rose Water,Brand C,4.6,-0.31,Asia,675000000,Expansion in Asia
+478000000,5.6756897298797,Makeup,Budget,Country-Specific,55+,Female,Middle,Urban,Soaps,E-commerce Platform,1,Coconut Oil,Brand B,1.8,0.12,South America,1395000000,Sustainability Focus
+204000000,13.9628637333762,Haircare,Premium,Global,45-54,Female,High,Suburban,Hair Oils,Physical Stores,6,Neem,Brand B,1.8,0.12,Africa,706000000,Expansion in Asia
+518000000,7.08753087907648,Haircare,Mid-range,Regional,55+,Non-binary,Middle,Suburban,Conditioners,Offline,10,Neem,Brand C,2.6,0.27,South America,562000000,New Product Lines
+733000000,12.9353932158044,Skincare,Budget,Global,45-54,Female,High,Urban,Face Creams,Offline,3,Neem,Brand B,4.6,-0.05,Asia,1424000000,Sustainability Focus
+989000000,9.74524396924651,Skincare,Mid-range,Regional,45-54,Female,High,Urban,Shampoos,Online,5,Rose Water,Brand D,2.6,0.24,Asia,1968000000,Expansion in Asia
+125000000,6.91678611207084,Haircare,Premium,Regional,55+,Non-binary,Low,Rural,Soaps,E-commerce Platform,2,Rose Water,Brand B,1.8,-0.01,Africa,1177000000,Expansion in Asia
+423000000,6.43162739722593,Skincare,Budget,Regional,25-34,Prefer not to say,High,Urban,Conditioners,E-commerce Platform,8,Coconut Oil,Brand A,3.5,0.46,Asia,658000000,New Product Lines
+443000000,15.605138604275,Haircare,Premium,Regional,18-24,Non-binary,High,Urban,Hair Oils,Offline,3,Rose Water,Brand B,3.4,-0.61,Africa,731000000,New Product Lines
+830000000,6.26996542073596,Haircare,Mid-range,Country-Specific,35-44,Male,Middle,Suburban,Conditioners,Physical Stores,4,Rose Water,Brand B,4.4,0.75,Asia,1656000000,Expansion in Asia
+918000000,16.0858423142276,Makeup,Premium,Regional,45-54,Non-binary,High,Rural,Conditioners,Physical Stores,6,Rose Water,Brand D,4.3,-0.83,South America,600000000,Expansion in Asia
+765000000,6.71167539513759,Haircare,Budget,Country-Specific,45-54,Male,High,Suburban,Soaps,Offline,7,Turmeric,Brand B,2.9,0.42,Asia,677000000,Expansion in Asia
+753000000,11.1145215762979,Skincare,Mid-range,Regional,45-54,Male,Middle,Suburban,Soaps,Offline,8,Aloe Vera,Brand C,1.9,0.82,Asia,881000000,Sustainability Focus
+385000000,17.0195763058433,Makeup,Mid-range,Regional,55+,Non-binary,Low,Urban,Conditioners,Offline,8,Turmeric,Brand A,2,-0.42,Asia,1334000000,New Product Lines
+973000000,15.2039482495346,Makeup,Premium,Global,18-24,Prefer not to say,Low,Suburban,Shampoos,Physical Stores,1,Turmeric,Brand C,3.2,-0.58,Europe,1572000000,Sustainability Focus
+312000000,8.56987969706032,Haircare,Premium,Regional,45-54,Male,High,Suburban,Soaps,Offline,11,Turmeric,Brand C,3.8,0.83,Africa,901000000,Sustainability Focus
+235000000,17.880804742912,Makeup,Budget,Regional,45-54,Non-binary,High,Suburban,Soaps,Online,10,Turmeric,Brand D,4.2,-0.68,Europe,1787000000,New Product Lines
+877000000,15.1304180329899,Haircare,Premium,Regional,25-34,Prefer not to say,Low,Rural,Shampoos,Offline,6,Neem,Brand B,2.6,0.09,South America,1488000000,New Product Lines
+578000000,7.26834079152603,Haircare,Budget,Regional,35-44,Non-binary,High,Suburban,Soaps,Online,11,Aloe Vera,Brand B,1.8,-0.86,Europe,1713000000,Sustainability Focus
+422000000,13.9237771232111,Haircare,Budget,Country-Specific,35-44,Prefer not to say,Low,Suburban,Conditioners,Physical Stores,7,Rose Water,Brand A,2.4,-0.79,Africa,1461000000,Sustainability Focus
+400000000,18.2664772153382,Haircare,Premium,Country-Specific,18-24,Non-binary,Middle,Rural,Face Creams,Physical Stores,10,Aloe Vera,Brand D,3.4,-0.16,Africa,1343000000,New Product Lines
+598000000,6.84892753735782,Makeup,Premium,Global,18-24,Male,High,Urban,Shampoos,Online,9,Aloe Vera,Brand D,1.2,-0.29,Europe,1880000000,Expansion in Asia
+168000000,18.731394658388,Makeup,Premium,Country-Specific,18-24,Male,Middle,Suburban,Shampoos,Online,1,Coconut Oil,Brand D,1.8,-0.47,Europe,703000000,Expansion in Asia
+532000000,6.98127265486223,Skincare,Premium,Regional,55+,Male,Middle,Rural,Soaps,E-commerce Platform,10,Rose Water,Brand A,3.7,0.04,Africa,1374000000,New Product Lines
+968000000,6.80217392730647,Haircare,Budget,Country-Specific,35-44,Female,Low,Urban,Conditioners,Online,11,Coconut Oil,Brand C,3.6,-0.74,South America,740000000,Sustainability Focus
+553000000,11.3989559809338,Haircare,Budget,Regional,25-34,Female,Low,Suburban,Hair Oils,Offline,9,Rose Water,Brand B,3,-0.56,Africa,1988000000,New Product Lines
+717000000,6.31517389209991,Makeup,Premium,Global,25-34,Male,Low,Urban,Conditioners,Online,4,Neem,Brand D,1.5,-0.23,Europe,1989000000,New Product Lines
+266000000,19.511265141167,Haircare,Mid-range,Global,45-54,Non-binary,Low,Suburban,Shampoos,Physical Stores,7,Rose Water,Brand D,3.5,-0.94,Africa,741000000,Expansion in Asia
+421000000,17.1911369483878,Haircare,Budget,Regional,55+,Male,High,Suburban,Shampoos,Online,11,Coconut Oil,Brand C,4.2,-0.26,South America,1425000000,New Product Lines
+395000000,11.7176996381936,Haircare,Mid-range,Regional,25-34,Non-binary,Middle,Rural,Hair Oils,Physical Stores,3,Turmeric,Brand B,1.9,-0.59,Europe,1903000000,New Product Lines
+804000000,7.29388886481848,Haircare,Mid-range,Regional,35-44,Female,Low,Suburban,Soaps,Physical Stores,7,Aloe Vera,Brand A,2.7,-0.59,Europe,1407000000,Sustainability Focus
+916000000,12.9926323644098,Skincare,Budget,Global,25-34,Non-binary,High,Urban,Shampoos,Physical Stores,4,Aloe Vera,Brand A,2.9,-0.03,South America,570000000,Expansion in Asia
+664000000,7.59033488338461,Skincare,Budget,Regional,18-24,Female,High,Suburban,Face Creams,Offline,9,Turmeric,Brand D,2.9,0.58,North America,1632000000,New Product Lines
+398000000,7.83197709880185,Haircare,Budget,Regional,35-44,Prefer not to say,Middle,Urban,Soaps,Online,11,Neem,Brand D,4.3,-0.55,Africa,1415000000,Expansion in Asia
+535000000,12.1859436344491,Makeup,Budget,Regional,45-54,Prefer not to say,Middle,Rural,Hair Oils,Online,6,Aloe Vera,Brand A,4.9,0.25,Africa,1665000000,New Product Lines
+820000000,5.67568468102011,Makeup,Premium,Regional,35-44,Prefer not to say,Middle,Rural,Conditioners,Online,1,Turmeric,Brand A,2.3,-0.01,Europe,1226000000,New Product Lines
+537000000,18.1410684681149,Haircare,Premium,Regional,25-34,Non-binary,High,Rural,Hair Oils,Physical Stores,9,Rose Water,Brand B,2.8,-0.29,Europe,1404000000,Expansion in Asia
+119000000,11.269856237983,Makeup,Premium,Country-Specific,55+,Non-binary,Low,Suburban,Hair Oils,E-commerce Platform,7,Neem,Brand C,3.9,-0.69,Asia,651000000,Expansion in Asia
+522000000,19.7431896989479,Skincare,Mid-range,Country-Specific,35-44,Male,Middle,Urban,Face Creams,Offline,11,Coconut Oil,Brand B,4.6,-0.8,Africa,1218000000,Sustainability Focus
+430000000,14.1307911084038,Haircare,Premium,Country-Specific,55+,Male,Middle,Suburban,Hair Oils,Online,4,Rose Water,Brand C,3.5,0.09,North America,1685000000,New Product Lines
+735000000,6.40098424574761,Makeup,Premium,Country-Specific,55+,Female,Middle,Urban,Hair Oils,E-commerce Platform,7,Neem,Brand C,4.3,-0.51,Africa,1835000000,New Product Lines
+877000000,13.7398450315928,Makeup,Budget,Regional,45-54,Male,Middle,Urban,Conditioners,E-commerce Platform,4,Neem,Brand B,2.2,0.33,Europe,1369000000,Expansion in Asia
+365000000,7.78658312197222,Haircare,Premium,Regional,35-44,Female,Low,Rural,Conditioners,Physical Stores,9,Neem,Brand C,2.3,0.13,South America,875000000,New Product Lines
+365000000,12.4137223751804,Skincare,Budget,Global,25-34,Female,High,Rural,Conditioners,Online,5,Aloe Vera,Brand C,3.8,0.92,North America,1566000000,Expansion in Asia
+279000000,14.0630180372018,Makeup,Budget,Country-Specific,25-34,Male,Low,Rural,Hair Oils,Offline,10,Aloe Vera,Brand B,3.2,-0.57,Europe,709000000,Sustainability Focus
+727000000,14.5675607618474,Haircare,Mid-range,Regional,18-24,Female,Low,Urban,Face Creams,Physical Stores,10,Neem,Brand C,4.6,0.56,Asia,567000000,Sustainability Focus
+366000000,14.215774636137,Haircare,Premium,Regional,45-54,Prefer not to say,Middle,Suburban,Shampoos,Online,2,Neem,Brand C,2.8,-0.07,South America,1736000000,Sustainability Focus
+690000000,19.1403105120222,Skincare,Mid-range,Global,18-24,Male,Low,Suburban,Hair Oils,E-commerce Platform,11,Turmeric,Brand B,3.1,-0.44,Asia,1711000000,Expansion in Asia
+341000000,8.62553245396577,Skincare,Mid-range,Regional,45-54,Prefer not to say,Middle,Suburban,Shampoos,E-commerce Platform,6,Aloe Vera,Brand C,3.8,-0.29,South America,1060000000,Expansion in Asia
+999000000,10.995050813535,Makeup,Budget,Global,25-34,Non-binary,Middle,Suburban,Hair Oils,Offline,10,Rose Water,Brand B,1.9,0.14,North America,619000000,New Product Lines
+180000000,5.31700929599148,Makeup,Budget,Global,45-54,Non-binary,High,Rural,Soaps,Physical Stores,8,Neem,Brand B,1.2,-0.4,North America,1897000000,Expansion in Asia
+971000000,8.10967967950307,Skincare,Mid-range,Regional,35-44,Female,High,Urban,Shampoos,Online,6,Turmeric,Brand A,4.2,-0.21,North America,697000000,Expansion in Asia
+414000000,10.9513906483405,Haircare,Mid-range,Global,25-34,Non-binary,High,Suburban,Face Creams,Offline,1,Rose Water,Brand A,1,-0.41,Asia,1998000000,Sustainability Focus
+320000000,17.6792321930817,Haircare,Premium,Global,45-54,Female,Middle,Urban,Conditioners,Physical Stores,4,Turmeric,Brand D,1.9,-0.68,Europe,1805000000,Sustainability Focus
+697000000,19.0177704203527,Haircare,Premium,Global,18-24,Female,Low,Urban,Soaps,Offline,6,Coconut Oil,Brand D,2.4,0.37,Africa,924000000,Expansion in Asia
+889000000,5.39735070726841,Skincare,Budget,Country-Specific,45-54,Prefer not to say,High,Suburban,Conditioners,Online,1,Aloe Vera,Brand B,3.8,0.61,South America,1583000000,Sustainability Focus
+984000000,5.79496152137406,Makeup,Mid-range,Regional,45-54,Non-binary,Low,Urban,Conditioners,E-commerce Platform,9,Neem,Brand B,4.6,0.58,Europe,1387000000,Expansion in Asia
+306000000,11.383571292552,Skincare,Premium,Global,35-44,Non-binary,High,Suburban,Hair Oils,E-commerce Platform,8,Coconut Oil,Brand A,3.3,-0.16,Europe,683000000,Sustainability Focus
+397000000,19.3044937335676,Haircare,Premium,Regional,45-54,Female,High,Suburban,Face Creams,E-commerce Platform,2,Neem,Brand D,1.5,-0.25,Europe,1402000000,Sustainability Focus
+242000000,15.3449826880563,Skincare,Mid-range,Regional,18-24,Prefer not to say,Middle,Suburban,Soaps,E-commerce Platform,4,Turmeric,Brand A,4.6,0.64,North America,1611000000,Expansion in Asia
+962000000,8.19444135485554,Haircare,Mid-range,Global,55+,Male,High,Urban,Shampoos,Offline,5,Turmeric,Brand A,2,0.98,South America,610000000,Sustainability Focus
+711000000,6.67941708394662,Skincare,Premium,Regional,25-34,Prefer not to say,High,Urban,Face Creams,Online,6,Aloe Vera,Brand A,3.1,-0.75,Europe,813000000,Expansion in Asia
+415000000,16.7761361440472,Makeup,Premium,Global,45-54,Male,Middle,Rural,Face Creams,Physical Stores,7,Neem,Brand C,3,0.74,Asia,1081000000,New Product Lines
+288000000,11.2754688311935,Haircare,Mid-range,Global,25-34,Non-binary,High,Rural,Face Creams,Physical Stores,9,Neem,Brand C,2.5,-0.06,North America,578000000,New Product Lines
+360000000,5.63229132386521,Haircare,Budget,Country-Specific,25-34,Male,Low,Suburban,Hair Oils,Online,10,Rose Water,Brand B,3.5,0.19,Africa,585000000,Expansion in Asia
+806000000,5.52401995269787,Haircare,Budget,Country-Specific,18-24,Female,Middle,Urban,Shampoos,E-commerce Platform,4,Coconut Oil,Brand D,3.8,0.75,Asia,1518000000,Sustainability Focus
+477000000,12.6779504877687,Haircare,Budget,Regional,25-34,Non-binary,Low,Urban,Soaps,Offline,1,Neem,Brand A,1.1,0.58,South America,1208000000,Expansion in Asia
+697000000,12.7159613971476,Haircare,Mid-range,Regional,35-44,Non-binary,High,Urban,Soaps,E-commerce Platform,4,Rose Water,Brand B,1.6,-0.67,North America,1656000000,New Product Lines
+371000000,19.5572873831583,Makeup,Budget,Country-Specific,55+,Male,Low,Suburban,Soaps,Online,3,Turmeric,Brand B,4.1,0.34,South America,554000000,New Product Lines
+143000000,6.86549341442326,Haircare,Mid-range,Regional,18-24,Female,High,Urban,Face Creams,E-commerce Platform,5,Aloe Vera,Brand B,1.9,-0.5,North America,895000000,Sustainability Focus
+472000000,17.4106128230397,Makeup,Budget,Country-Specific,55+,Male,Middle,Suburban,Conditioners,Offline,5,Coconut Oil,Brand B,3.6,-0.41,South America,590000000,New Product Lines
+686000000,19.1104077399961,Haircare,Budget,Global,25-34,Non-binary,High,Rural,Conditioners,E-commerce Platform,3,Rose Water,Brand A,4.7,-0.05,Asia,1897000000,New Product Lines
+837000000,10.1642044763215,Haircare,Premium,Regional,45-54,Female,Low,Urban,Face Creams,Offline,1,Aloe Vera,Brand A,2,-0.32,North America,1911000000,Expansion in Asia
+110000000,14.2823622335352,Haircare,Budget,Regional,55+,Prefer not to say,Low,Rural,Face Creams,E-commerce Platform,5,Turmeric,Brand C,3.8,0.35,Asia,1508000000,Expansion in Asia
+216000000,10.9889157612446,Makeup,Budget,Global,18-24,Prefer not to say,High,Rural,Shampoos,Physical Stores,7,Neem,Brand B,1.4,-0.18,Europe,533000000,Expansion in Asia
+473000000,6.21948095106469,Skincare,Premium,Global,25-34,Male,High,Rural,Face Creams,Online,5,Coconut Oil,Brand A,2.7,-0.2,South America,1603000000,New Product Lines
+427000000,15.9254279422312,Haircare,Premium,Global,25-34,Non-binary,High,Urban,Soaps,Online,3,Rose Water,Brand A,2.8,0.41,Asia,1002000000,Expansion in Asia
+928000000,9.75799949099911,Makeup,Budget,Regional,18-24,Non-binary,Low,Urban,Shampoos,Physical Stores,8,Aloe Vera,Brand B,5,-0.52,South America,1792000000,Expansion in Asia
+162000000,16.1420024209129,Haircare,Premium,Global,35-44,Prefer not to say,Middle,Urban,Conditioners,E-commerce Platform,8,Coconut Oil,Brand B,4.8,-0.28,Asia,1789000000,Expansion in Asia
+117000000,9.26482015126797,Haircare,Premium,Country-Specific,45-54,Female,High,Rural,Hair Oils,Physical Stores,2,Coconut Oil,Brand D,4.8,-0.38,Asia,1029000000,New Product Lines
+553000000,5.22572521691412,Makeup,Mid-range,Country-Specific,55+,Prefer not to say,Middle,Suburban,Hair Oils,Online,9,Aloe Vera,Brand B,2.5,-0.28,Asia,1786000000,Expansion in Asia
+657000000,17.0673859870868,Makeup,Mid-range,Regional,55+,Non-binary,Middle,Suburban,Hair Oils,E-commerce Platform,4,Rose Water,Brand C,3.9,-0.53,Europe,1203000000,Expansion in Asia
+300000000,17.4346607056478,Makeup,Premium,Country-Specific,35-44,Prefer not to say,Low,Rural,Face Creams,Physical Stores,4,Rose Water,Brand D,3.4,1,Europe,1136000000,Sustainability Focus
+938000000,17.7282145579885,Makeup,Budget,Country-Specific,45-54,Non-binary,Low,Suburban,Conditioners,E-commerce Platform,9,Aloe Vera,Brand C,3.9,0.46,North America,897000000,New Product Lines
+890000000,11.3630208032647,Skincare,Budget,Country-Specific,35-44,Female,Middle,Rural,Shampoos,Offline,9,Turmeric,Brand C,2.1,0.94,South America,645000000,New Product Lines
+747000000,5.70349311612069,Makeup,Premium,Country-Specific,45-54,Female,Low,Rural,Shampoos,Physical Stores,6,Coconut Oil,Brand A,1.3,0.62,Asia,1760000000,Sustainability Focus
+572000000,11.600243935968,Makeup,Budget,Regional,18-24,Non-binary,Middle,Urban,Shampoos,E-commerce Platform,1,Neem,Brand B,2.6,0.09,Europe,1116000000,Sustainability Focus
+374000000,14.0568420497439,Skincare,Premium,Global,35-44,Male,High,Rural,Face Creams,Physical Stores,10,Rose Water,Brand D,1.6,-0.8,Asia,718000000,Expansion in Asia
+683000000,12.9083631509784,Skincare,Budget,Country-Specific,25-34,Female,Middle,Suburban,Conditioners,Online,9,Aloe Vera,Brand A,2.3,0.85,North America,1538000000,Expansion in Asia
+325000000,12.486580498718,Makeup,Premium,Regional,25-34,Prefer not to say,Middle,Rural,Shampoos,Offline,7,Coconut Oil,Brand B,3.4,-0.09,South America,1421000000,Sustainability Focus
+259000000,10.5549315848451,Makeup,Mid-range,Country-Specific,18-24,Non-binary,High,Urban,Face Creams,Physical Stores,1,Turmeric,Brand C,4.7,-0.25,North America,1403000000,Expansion in Asia
+572000000,6.79933893731546,Makeup,Premium,Regional,25-34,Male,Middle,Urban,Conditioners,Physical Stores,2,Rose Water,Brand C,3.6,-0.72,Asia,790000000,Expansion in Asia
+205000000,18.3321030461074,Skincare,Budget,Global,25-34,Female,Middle,Urban,Hair Oils,Physical Stores,1,Aloe Vera,Brand C,3.1,-0.46,North America,971000000,New Product Lines
+606000000,12.5945135693038,Makeup,Budget,Country-Specific,45-54,Non-binary,Low,Suburban,Soaps,E-commerce Platform,7,Turmeric,Brand A,1.8,0.98,Asia,1036000000,New Product Lines
+441000000,9.50721379529785,Haircare,Mid-range,Country-Specific,55+,Female,High,Urban,Face Creams,Online,2,Aloe Vera,Brand A,2.6,-0.85,South America,1258000000,New Product Lines
+953000000,6.24447884927723,Makeup,Mid-range,Regional,25-34,Prefer not to say,High,Urban,Conditioners,Online,6,Aloe Vera,Brand A,3.9,-0.63,North America,821000000,New Product Lines
+319000000,15.9886528713118,Haircare,Mid-range,Country-Specific,45-54,Male,High,Rural,Soaps,Online,4,Coconut Oil,Brand D,1.2,-0.13,Asia,1828000000,Expansion in Asia
+862000000,12.6663683745844,Makeup,Premium,Regional,25-34,Non-binary,High,Rural,Face Creams,Physical Stores,11,Aloe Vera,Brand B,2.3,-0.84,North America,1251000000,Expansion in Asia
+352000000,5.83837176209357,Skincare,Budget,Regional,55+,Non-binary,Middle,Suburban,Hair Oils,E-commerce Platform,10,Turmeric,Brand A,2.7,-0.38,Asia,1129000000,New Product Lines
+269000000,18.9424904696925,Skincare,Premium,Country-Specific,25-34,Prefer not to say,High,Rural,Conditioners,Offline,1,Aloe Vera,Brand C,3.7,0.75,Europe,700000000,Expansion in Asia
+427000000,19.5008295330233,Makeup,Mid-range,Country-Specific,18-24,Prefer not to say,Middle,Suburban,Soaps,Online,6,Aloe Vera,Brand C,2.9,0.49,Africa,1281000000,New Product Lines
+770000000,14.2045267576149,Skincare,Premium,Regional,25-34,Female,Low,Suburban,Conditioners,Online,3,Rose Water,Brand C,3,-0.75,South America,1810000000,New Product Lines
+352000000,7.63621095596348,Haircare,Budget,Country-Specific,18-24,Male,Middle,Urban,Soaps,E-commerce Platform,4,Aloe Vera,Brand C,4.5,0.73,Europe,1676000000,Sustainability Focus
+104000000,14.745130273882,Skincare,Budget,Country-Specific,25-34,Female,High,Rural,Soaps,Online,7,Coconut Oil,Brand D,4.5,-0.56,North America,1304000000,New Product Lines
+779000000,7.67411918380017,Haircare,Mid-range,Country-Specific,45-54,Male,Middle,Urban,Shampoos,Online,1,Turmeric,Brand A,2.1,-0.13,Africa,1829000000,Expansion in Asia
+395000000,10.5143097323031,Makeup,Budget,Regional,35-44,Female,High,Rural,Conditioners,Offline,10,Neem,Brand A,4.7,0.65,Asia,1090000000,New Product Lines
+135000000,15.5210598772945,Haircare,Budget,Country-Specific,18-24,Prefer not to say,Low,Suburban,Hair Oils,Physical Stores,2,Neem,Brand B,2.1,0.85,Asia,580000000,Sustainability Focus
+449000000,12.0486346710001,Makeup,Premium,Country-Specific,55+,Male,Low,Suburban,Face Creams,Physical Stores,9,Coconut Oil,Brand D,1.7,-0.37,Asia,1576000000,Sustainability Focus
+343000000,17.932995095756,Haircare,Budget,Country-Specific,18-24,Prefer not to say,High,Rural,Soaps,Online,9,Rose Water,Brand B,2.4,-0.59,Europe,736000000,Sustainability Focus
+585000000,5.14151527360712,Skincare,Budget,Regional,25-34,Female,Low,Suburban,Soaps,E-commerce Platform,11,Rose Water,Brand B,2.7,0.6,South America,1608000000,Sustainability Focus
+874000000,6.26014080077365,Haircare,Budget,Global,35-44,Non-binary,High,Urban,Face Creams,Online,11,Aloe Vera,Brand B,4,0.06,North America,699000000,New Product Lines
+437000000,11.6628931276098,Makeup,Mid-range,Regional,35-44,Female,High,Urban,Shampoos,E-commerce Platform,2,Turmeric,Brand A,2.4,-0.56,Asia,1695000000,Expansion in Asia
+580000000,17.9811715632122,Makeup,Premium,Regional,45-54,Non-binary,Low,Suburban,Face Creams,Online,9,Turmeric,Brand D,2.5,-0.23,Africa,673000000,New Product Lines
+522000000,10.9353574281555,Skincare,Mid-range,Country-Specific,25-34,Female,High,Urban,Face Creams,Offline,8,Turmeric,Brand A,3.6,0.85,Europe,1707000000,Expansion in Asia
+680000000,9.78749985145694,Haircare,Premium,Regional,25-34,Female,Low,Suburban,Shampoos,Offline,10,Rose Water,Brand B,5,0.24,Africa,1183000000,New Product Lines
+248000000,14.1691262006482,Haircare,Mid-range,Global,18-24,Prefer not to say,Middle,Rural,Shampoos,Physical Stores,5,Aloe Vera,Brand A,2.1,-0.4,Africa,1952000000,Expansion in Asia
+280000000,12.6020415215049,Haircare,Budget,Country-Specific,55+,Non-binary,High,Suburban,Shampoos,Physical Stores,2,Neem,Brand A,2.6,-0.72,Africa,638000000,Sustainability Focus
+265000000,7.97794662931812,Haircare,Mid-range,Global,18-24,Non-binary,High,Urban,Hair Oils,Physical Stores,3,Rose Water,Brand B,3.5,0.09,South America,563000000,Expansion in Asia
+603000000,11.1860081725042,Haircare,Mid-range,Global,35-44,Female,Low,Rural,Conditioners,E-commerce Platform,10,Aloe Vera,Brand B,3.4,-0.49,Asia,1045000000,Sustainability Focus
+875000000,6.54573555543917,Makeup,Mid-range,Country-Specific,55+,Non-binary,Low,Urban,Shampoos,Offline,2,Neem,Brand C,4.5,0.45,Africa,1899000000,New Product Lines
+400000000,19.3797482224311,Haircare,Budget,Regional,25-34,Male,Middle,Rural,Hair Oils,E-commerce Platform,11,Coconut Oil,Brand B,1.2,-0.33,Europe,594000000,Expansion in Asia
+797000000,19.2885265003233,Haircare,Mid-range,Global,35-44,Male,High,Rural,Conditioners,Physical Stores,3,Neem,Brand B,3,-1,Africa,1419000000,Expansion in Asia
+873000000,11.2886281575191,Skincare,Mid-range,Country-Specific,18-24,Prefer not to say,Low,Urban,Shampoos,Online,4,Rose Water,Brand C,4.3,0.41,Asia,1148000000,Expansion in Asia
+806000000,19.7437253348059,Skincare,Budget,Global,18-24,Prefer not to say,High,Suburban,Shampoos,Online,10,Rose Water,Brand B,1.1,0.85,Asia,1047000000,Sustainability Focus
+189000000,12.1569893504668,Haircare,Mid-range,Country-Specific,25-34,Prefer not to say,High,Urban,Soaps,Physical Stores,5,Rose Water,Brand C,1.3,-0.69,Africa,1370000000,Expansion in Asia
+674000000,18.3689044361133,Makeup,Budget,Global,25-34,Male,High,Suburban,Shampoos,Offline,5,Rose Water,Brand A,4.7,-0.03,Asia,1776000000,Sustainability Focus
+968000000,14.6346363151198,Skincare,Budget,Regional,25-34,Prefer not to say,Low,Urban,Face Creams,Online,3,Aloe Vera,Brand C,4.7,0.59,Asia,967000000,New Product Lines
+233000000,15.4812135076032,Skincare,Premium,Country-Specific,25-34,Non-binary,Middle,Rural,Conditioners,Offline,6,Coconut Oil,Brand B,2.1,-0.5,Africa,1256000000,Sustainability Focus
+116000000,11.000877998286,Makeup,Mid-range,Global,45-54,Female,Low,Urban,Shampoos,E-commerce Platform,3,Rose Water,Brand D,3.2,-0.04,Europe,1094000000,Sustainability Focus
+946000000,17.4490707833954,Skincare,Premium,Global,55+,Non-binary,Low,Rural,Soaps,Online,3,Aloe Vera,Brand B,2,-0.74,South America,1934000000,Expansion in Asia
+801000000,11.3449528277631,Haircare,Premium,Regional,25-34,Prefer not to say,High,Suburban,Hair Oils,Offline,11,Neem,Brand D,3.3,-0.71,South America,1594000000,Sustainability Focus
+899000000,6.06300294003937,Makeup,Premium,Regional,18-24,Prefer not to say,High,Suburban,Face Creams,Physical Stores,3,Rose Water,Brand C,1.1,-0.57,Europe,890000000,Expansion in Asia
+221000000,13.7384373402591,Skincare,Premium,Country-Specific,35-44,Male,High,Suburban,Soaps,Physical Stores,4,Aloe Vera,Brand D,1.1,-0.44,Asia,1002000000,Expansion in Asia
+161000000,18.6959406759454,Skincare,Mid-range,Country-Specific,18-24,Male,Low,Suburban,Soaps,E-commerce Platform,8,Turmeric,Brand B,2.1,0.86,Africa,1484000000,Expansion in Asia
+655000000,7.92568103319462,Skincare,Premium,Country-Specific,45-54,Non-binary,High,Suburban,Face Creams,E-commerce Platform,9,Coconut Oil,Brand C,2.9,-0.5,Africa,518000000,Sustainability Focus
+347000000,16.4893260296607,Makeup,Budget,Country-Specific,18-24,Female,Low,Rural,Face Creams,Physical Stores,4,Turmeric,Brand D,4.8,-0.55,North America,1102000000,New Product Lines
+987000000,14.1017286885859,Haircare,Budget,Country-Specific,25-34,Male,High,Rural,Shampoos,E-commerce Platform,6,Coconut Oil,Brand B,3,0.87,Europe,1249000000,Expansion in Asia
+195000000,10.169744876312,Makeup,Mid-range,Country-Specific,55+,Non-binary,High,Rural,Face Creams,Online,11,Aloe Vera,Brand C,4,0.58,Africa,1008000000,Sustainability Focus
+675000000,9.80129855190177,Haircare,Premium,Global,55+,Non-binary,Low,Suburban,Soaps,Offline,10,Rose Water,Brand A,1.8,-0.09,Africa,806000000,Expansion in Asia
+460000000,10.0355587713703,Skincare,Budget,Regional,45-54,Non-binary,Low,Urban,Face Creams,E-commerce Platform,4,Aloe Vera,Brand C,1,0.35,South America,831000000,Expansion in Asia
+151000000,14.6503043564051,Haircare,Premium,Country-Specific,55+,Non-binary,Low,Urban,Conditioners,E-commerce Platform,8,Aloe Vera,Brand D,3.7,0.21,South America,826000000,Expansion in Asia
+387000000,17.4428191060261,Makeup,Mid-range,Country-Specific,35-44,Non-binary,Low,Suburban,Hair Oils,Offline,7,Aloe Vera,Brand B,3.7,-0.4,Africa,1489000000,New Product Lines
+201000000,9.91507554704435,Skincare,Budget,Global,25-34,Male,Low,Suburban,Hair Oils,Physical Stores,6,Rose Water,Brand C,1.1,0.79,North America,1653000000,New Product Lines
+865000000,16.1297391243272,Skincare,Premium,Global,45-54,Male,Low,Suburban,Shampoos,Offline,2,Neem,Brand C,2.9,-0.83,North America,1174000000,New Product Lines
+579000000,11.4628749907829,Haircare,Budget,Regional,25-34,Prefer not to say,High,Suburban,Hair Oils,Offline,10,Rose Water,Brand C,1.7,0.55,Africa,1149000000,Expansion in Asia
+578000000,9.02404404451916,Makeup,Budget,Country-Specific,45-54,Female,Middle,Suburban,Shampoos,Online,6,Turmeric,Brand A,3.3,0.17,Africa,1718000000,New Product Lines
+293000000,14.8198113876661,Makeup,Mid-range,Global,45-54,Female,Middle,Urban,Conditioners,E-commerce Platform,2,Rose Water,Brand A,3.5,-0.48,North America,1735000000,New Product Lines
+856000000,12.8739937461614,Skincare,Mid-range,Global,18-24,Non-binary,Middle,Urban,Hair Oils,Online,11,Turmeric,Brand A,2.8,-0.81,North America,1991000000,Sustainability Focus
+468000000,7.90640616003697,Skincare,Budget,Country-Specific,18-24,Prefer not to say,High,Rural,Hair Oils,E-commerce Platform,7,Coconut Oil,Brand B,5,-0.38,Asia,852000000,Expansion in Asia
+114000000,14.1891461068516,Makeup,Mid-range,Country-Specific,45-54,Prefer not to say,Low,Suburban,Hair Oils,Offline,5,Neem,Brand C,3.3,0.19,South America,756000000,Sustainability Focus
+864000000,15.078425323476,Makeup,Budget,Country-Specific,55+,Non-binary,Middle,Rural,Soaps,E-commerce Platform,1,Coconut Oil,Brand C,3.3,0.7,Africa,1575000000,Sustainability Focus
+318000000,17.9759103937966,Skincare,Budget,Country-Specific,55+,Non-binary,Middle,Suburban,Face Creams,Online,1,Aloe Vera,Brand D,4.9,0.05,Asia,1547000000,New Product Lines
+688000000,9.01140893854145,Haircare,Budget,Global,25-34,Male,Middle,Urban,Shampoos,E-commerce Platform,8,Turmeric,Brand D,3.4,-0.91,Africa,866000000,Sustainability Focus
+599000000,8.56955913238266,Skincare,Mid-range,Country-Specific,55+,Prefer not to say,Middle,Rural,Shampoos,Online,9,Coconut Oil,Brand D,2.8,0.08,South America,1257000000,Sustainability Focus
+721000000,13.9531036158886,Makeup,Mid-range,Country-Specific,35-44,Non-binary,Middle,Rural,Soaps,Physical Stores,11,Aloe Vera,Brand D,3.5,0.1,Asia,1531000000,New Product Lines
+620000000,5.60362491879757,Haircare,Mid-range,Global,25-34,Non-binary,Low,Rural,Conditioners,E-commerce Platform,1,Aloe Vera,Brand B,2.7,-0.93,South America,931000000,Sustainability Focus
+359000000,14.3620707396725,Haircare,Mid-range,Regional,55+,Non-binary,Low,Suburban,Shampoos,Physical Stores,10,Aloe Vera,Brand C,1.7,-0.36,South America,1519000000,Sustainability Focus
+829000000,7.12928035456864,Haircare,Premium,Global,55+,Male,Middle,Urban,Conditioners,Online,5,Neem,Brand C,4,-0.99,Europe,1706000000,New Product Lines
+584000000,15.2930359494866,Skincare,Premium,Global,18-24,Male,Low,Suburban,Soaps,E-commerce Platform,3,Coconut Oil,Brand D,2,0.11,Europe,1032000000,Expansion in Asia
+493000000,19.8805451960679,Skincare,Budget,Global,35-44,Female,Middle,Rural,Conditioners,Offline,7,Rose Water,Brand B,1.4,-0.14,Africa,1848000000,New Product Lines
+210000000,7.48461879405916,Haircare,Budget,Global,55+,Male,High,Suburban,Soaps,Offline,8,Neem,Brand A,3.5,0.94,Europe,1339000000,New Product Lines
+155000000,9.39475406301558,Makeup,Budget,Global,18-24,Female,Middle,Urban,Soaps,E-commerce Platform,8,Aloe Vera,Brand B,3,-0.89,Europe,629000000,Expansion in Asia
+919000000,8.92029234670477,Makeup,Mid-range,Global,45-54,Non-binary,High,Urban,Conditioners,E-commerce Platform,4,Coconut Oil,Brand C,3.7,0.05,Europe,1059000000,New Product Lines
+396000000,11.3295339411471,Makeup,Premium,Regional,35-44,Male,Low,Urban,Face Creams,E-commerce Platform,9,Aloe Vera,Brand D,2.5,-0.97,South America,1309000000,Sustainability Focus
+626000000,16.9063820532764,Makeup,Budget,Regional,35-44,Male,Middle,Suburban,Conditioners,Physical Stores,4,Coconut Oil,Brand C,2.9,-0.11,Europe,1755000000,Sustainability Focus
+479000000,9.33684424392629,Skincare,Budget,Regional,25-34,Non-binary,High,Rural,Soaps,Offline,7,Coconut Oil,Brand C,3.6,-0.67,Europe,1520000000,Sustainability Focus
+846000000,5.60041815800765,Skincare,Premium,Global,25-34,Male,Low,Rural,Shampoos,Online,10,Neem,Brand B,2.7,-0.62,Asia,1477000000,Sustainability Focus
+700000000,9.625690719438,Makeup,Budget,Global,35-44,Male,High,Suburban,Face Creams,Physical Stores,3,Turmeric,Brand C,4.1,0.99,Europe,518000000,Expansion in Asia
+245000000,14.7276271693323,Skincare,Premium,Regional,45-54,Female,High,Urban,Hair Oils,E-commerce Platform,6,Neem,Brand A,3.9,-0.83,Africa,515000000,Sustainability Focus
+942000000,9.05271534705034,Skincare,Budget,Country-Specific,55+,Male,High,Rural,Soaps,Online,6,Aloe Vera,Brand B,1.7,-0.7,Africa,738000000,Expansion in Asia
+493000000,13.9756414111381,Makeup,Premium,Global,25-34,Non-binary,High,Rural,Face Creams,E-commerce Platform,1,Turmeric,Brand B,2.8,-0.86,North America,1303000000,Expansion in Asia
+586000000,19.822829450109,Makeup,Budget,Country-Specific,18-24,Non-binary,Low,Suburban,Soaps,Offline,3,Turmeric,Brand A,1.2,0.13,Africa,1984000000,New Product Lines
+549000000,18.5589923551587,Makeup,Mid-range,Country-Specific,55+,Prefer not to say,High,Suburban,Face Creams,Offline,5,Coconut Oil,Brand A,2.9,0.42,North America,1697000000,Sustainability Focus
+149000000,10.3779430393288,Skincare,Mid-range,Country-Specific,35-44,Non-binary,Middle,Suburban,Face Creams,Online,5,Turmeric,Brand C,4,-0.27,Asia,1002000000,Sustainability Focus
+604000000,10.24901703604,Haircare,Mid-range,Global,55+,Prefer not to say,High,Suburban,Conditioners,E-commerce Platform,5,Aloe Vera,Brand C,5,0.43,Africa,1740000000,New Product Lines
+983000000,10.8152687794913,Haircare,Premium,Country-Specific,25-34,Non-binary,High,Urban,Face Creams,Online,7,Rose Water,Brand A,2.5,0.08,Africa,1083000000,Sustainability Focus
+475000000,17.5817301054616,Skincare,Budget,Country-Specific,45-54,Female,High,Urban,Hair Oils,E-commerce Platform,8,Coconut Oil,Brand D,2.6,-0.06,Africa,617000000,Expansion in Asia
+879000000,19.4036475219304,Skincare,Premium,Regional,55+,Male,Middle,Rural,Face Creams,Physical Stores,4,Neem,Brand C,2.8,0.17,North America,1144000000,New Product Lines
+426000000,15.5808419541031,Haircare,Mid-range,Country-Specific,55+,Prefer not to say,Middle,Suburban,Shampoos,E-commerce Platform,9,Rose Water,Brand C,4.5,0.92,North America,1562000000,New Product Lines
+614000000,5.57640017908791,Makeup,Premium,Global,18-24,Female,Low,Suburban,Conditioners,E-commerce Platform,6,Rose Water,Brand D,3.2,-0.44,Europe,1931000000,New Product Lines
+286000000,12.2556983208859,Makeup,Budget,Country-Specific,55+,Non-binary,Middle,Rural,Shampoos,Physical Stores,8,Neem,Brand D,1.9,0.93,North America,788000000,New Product Lines
+931000000,17.9145075019177,Makeup,Mid-range,Global,35-44,Prefer not to say,High,Rural,Soaps,Offline,7,Coconut Oil,Brand C,4.4,0.4,Asia,1705000000,Sustainability Focus
+431000000,8.71378717496398,Skincare,Premium,Regional,25-34,Prefer not to say,Low,Urban,Soaps,Online,10,Neem,Brand C,1.1,-0.49,Europe,932000000,Expansion in Asia
+803000000,8.25015704433544,Skincare,Mid-range,Country-Specific,55+,Prefer not to say,Low,Suburban,Hair Oils,Offline,5,Coconut Oil,Brand C,1.4,0.34,South America,1100000000,New Product Lines
+474000000,10.556937168803,Makeup,Budget,Regional,45-54,Female,Middle,Rural,Hair Oils,Online,8,Neem,Brand B,4.9,-0.07,Asia,928000000,Expansion in Asia
+136000000,12.2790276898212,Makeup,Budget,Regional,25-34,Male,High,Suburban,Hair Oils,Physical Stores,3,Neem,Brand A,2.6,0.14,South America,1458000000,Sustainability Focus
+280000000,13.3805862562853,Makeup,Budget,Regional,35-44,Female,High,Urban,Face Creams,Physical Stores,7,Rose Water,Brand A,4.8,0.02,Asia,559000000,Expansion in Asia
+724000000,19.1094588892566,Makeup,Premium,Regional,25-34,Female,Middle,Urban,Soaps,Online,10,Coconut Oil,Brand C,1.6,-0.72,South America,1385000000,Expansion in Asia
+158000000,12.4024281736015,Haircare,Premium,Global,18-24,Male,High,Rural,Conditioners,Offline,2,Coconut Oil,Brand C,3.3,0.28,South America,666000000,Expansion in Asia
+535000000,10.5963081029802,Makeup,Mid-range,Global,55+,Male,Middle,Urban,Conditioners,Physical Stores,8,Neem,Brand A,1.6,-0.87,Asia,941000000,Sustainability Focus
+927000000,6.20167934303084,Haircare,Budget,Country-Specific,45-54,Prefer not to say,High,Suburban,Hair Oils,Online,10,Neem,Brand D,2.1,0.44,Europe,1284000000,Sustainability Focus
+816000000,12.7150068758923,Skincare,Premium,Global,55+,Non-binary,High,Rural,Hair Oils,Offline,7,Rose Water,Brand C,3,-0.57,North America,1141000000,Sustainability Focus
+508000000,17.0693078458158,Haircare,Mid-range,Country-Specific,25-34,Female,Middle,Urban,Conditioners,E-commerce Platform,3,Turmeric,Brand A,1.8,0.16,Europe,1853000000,Sustainability Focus
+617000000,5.71736462153831,Skincare,Premium,Global,25-34,Male,High,Rural,Soaps,Online,8,Aloe Vera,Brand D,2.2,0.71,Europe,1067000000,Sustainability Focus
+352000000,10.1223453431633,Haircare,Budget,Country-Specific,45-54,Non-binary,Middle,Urban,Soaps,Online,9,Aloe Vera,Brand D,4.6,-0.78,North America,1567000000,Expansion in Asia
+143000000,5.01533695723169,Makeup,Premium,Regional,18-24,Prefer not to say,High,Urban,Face Creams,Online,8,Aloe Vera,Brand C,1,-0.38,Africa,1725000000,Sustainability Focus
+542000000,10.2999453423683,Skincare,Mid-range,Regional,35-44,Prefer not to say,Low,Rural,Face Creams,Physical Stores,8,Turmeric,Brand A,1.9,-0.58,South America,747000000,Expansion in Asia
+824000000,11.7398293498286,Haircare,Mid-range,Global,18-24,Prefer not to say,Middle,Suburban,Shampoos,E-commerce Platform,1,Turmeric,Brand C,3.4,0.62,Africa,1992000000,New Product Lines
+391000000,16.8377348747635,Haircare,Mid-range,Country-Specific,35-44,Female,Low,Suburban,Shampoos,E-commerce Platform,9,Neem,Brand B,2.1,-0.8,North America,1500000000,New Product Lines
+568000000,14.1315396153426,Haircare,Budget,Global,45-54,Prefer not to say,Middle,Urban,Conditioners,Offline,8,Rose Water,Brand D,1.4,-0.2,Europe,1176000000,Sustainability Focus
+280000000,6.13627594807221,Makeup,Mid-range,Country-Specific,45-54,Male,Middle,Urban,Conditioners,E-commerce Platform,5,Turmeric,Brand B,4.8,0.33,South America,1757000000,New Product Lines
+455000000,9.98081762197443,Makeup,Budget,Country-Specific,25-34,Female,Middle,Rural,Hair Oils,E-commerce Platform,1,Turmeric,Brand D,4.3,0.32,Africa,1067000000,Expansion in Asia
+795000000,12.540861140235,Haircare,Budget,Country-Specific,25-34,Male,High,Rural,Face Creams,Offline,9,Turmeric,Brand C,3.9,0.83,Asia,1621000000,Sustainability Focus
+878000000,11.2811019276479,Makeup,Premium,Regional,35-44,Male,Low,Rural,Hair Oils,Offline,9,Neem,Brand C,3.7,0.17,Europe,1633000000,New Product Lines
+241000000,5.09675019414296,Haircare,Mid-range,Global,45-54,Male,Middle,Urban,Hair Oils,E-commerce Platform,5,Turmeric,Brand C,4.9,0.98,North America,1496000000,Expansion in Asia
+177000000,19.1297856899236,Makeup,Mid-range,Global,25-34,Prefer not to say,Low,Suburban,Shampoos,Offline,4,Turmeric,Brand B,2.5,-0.88,Africa,1652000000,Sustainability Focus
+540000000,10.6187380120933,Haircare,Budget,Country-Specific,18-24,Non-binary,Middle,Rural,Face Creams,E-commerce Platform,7,Turmeric,Brand D,4.9,-0.34,South America,1641000000,New Product Lines
+718000000,18.5896777211879,Skincare,Mid-range,Regional,18-24,Prefer not to say,Low,Urban,Shampoos,E-commerce Platform,9,Coconut Oil,Brand A,3.5,-0.87,Asia,1159000000,New Product Lines
+471000000,16.9732755476205,Haircare,Premium,Global,55+,Female,Middle,Suburban,Hair Oils,Offline,5,Rose Water,Brand A,1,-0.47,Asia,1113000000,Sustainability Focus
+279000000,14.3351603961485,Makeup,Premium,Global,35-44,Prefer not to say,Low,Urban,Hair Oils,Offline,4,Aloe Vera,Brand D,1.6,0.29,North America,1259000000,Expansion in Asia
+303000000,19.3711658194081,Skincare,Premium,Global,45-54,Non-binary,Middle,Urban,Face Creams,Online,7,Rose Water,Brand C,4.3,0.87,South America,1669000000,Sustainability Focus
+366000000,12.4407149066684,Skincare,Premium,Country-Specific,25-34,Non-binary,High,Suburban,Soaps,Physical Stores,11,Neem,Brand D,4,0.06,Europe,998000000,New Product Lines
+479000000,16.0990949249286,Haircare,Budget,Country-Specific,45-54,Male,Low,Suburban,Face Creams,E-commerce Platform,8,Turmeric,Brand D,4.8,-0.41,Africa,1934000000,New Product Lines
+681000000,19.6294599642063,Makeup,Mid-range,Regional,35-44,Non-binary,High,Rural,Face Creams,Offline,11,Aloe Vera,Brand A,1.4,-0.29,Asia,1622000000,New Product Lines
+152000000,10.2320984256825,Haircare,Budget,Regional,35-44,Prefer not to say,Low,Suburban,Hair Oils,E-commerce Platform,1,Coconut Oil,Brand A,1.2,0.27,North America,1967000000,New Product Lines
+135000000,15.87064886134,Haircare,Budget,Country-Specific,18-24,Male,Low,Suburban,Shampoos,Online,11,Turmeric,Brand C,3.3,-0.54,South America,1349000000,New Product Lines
+439000000,6.78615934426237,Haircare,Premium,Country-Specific,25-34,Male,Low,Urban,Conditioners,Offline,10,Turmeric,Brand B,3.6,0.2,Africa,659000000,Expansion in Asia
+619000000,10.6977409476161,Skincare,Budget,Regional,45-54,Non-binary,Low,Urban,Shampoos,Physical Stores,8,Coconut Oil,Brand C,4.9,0.55,North America,1513000000,Expansion in Asia
+191000000,5.37676239552018,Haircare,Budget,Regional,55+,Non-binary,Middle,Rural,Soaps,Online,7,Coconut Oil,Brand A,4.9,0.5,Africa,1056000000,Sustainability Focus
+650000000,18.1755332295727,Skincare,Mid-range,Regional,45-54,Prefer not to say,Low,Suburban,Face Creams,Online,5,Turmeric,Brand A,4.2,0.14,Asia,1688000000,Sustainability Focus
+798000000,6.00731163839434,Makeup,Budget,Country-Specific,45-54,Prefer not to say,Middle,Rural,Shampoos,Online,8,Turmeric,Brand C,1.1,0.57,Asia,1886000000,Expansion in Asia
+170000000,7.78434091662137,Skincare,Budget,Global,35-44,Prefer not to say,Low,Urban,Hair Oils,Offline,6,Neem,Brand A,1.4,-0.61,North America,1086000000,Expansion in Asia
+563000000,11.4598928704153,Makeup,Mid-range,Regional,55+,Male,Middle,Suburban,Soaps,Online,3,Aloe Vera,Brand C,2.7,0.66,North America,627000000,Sustainability Focus
+537000000,7.68129763263796,Makeup,Premium,Global,35-44,Non-binary,Middle,Rural,Soaps,E-commerce Platform,3,Rose Water,Brand A,4.8,0.08,Asia,809000000,Sustainability Focus
+807000000,12.5428043634046,Skincare,Premium,Regional,25-34,Non-binary,Low,Rural,Hair Oils,Offline,6,Turmeric,Brand B,1.7,-0.61,South America,772000000,Expansion in Asia
+604000000,18.623323797353,Haircare,Premium,Country-Specific,25-34,Male,Low,Suburban,Face Creams,Online,5,Turmeric,Brand B,1,0.11,South America,1641000000,Expansion in Asia
+821000000,8.12512165284312,Makeup,Budget,Country-Specific,35-44,Prefer not to say,Low,Urban,Hair Oils,Physical Stores,3,Aloe Vera,Brand A,4.5,-0.39,South America,1316000000,New Product Lines
+414000000,9.47760970629403,Makeup,Mid-range,Global,35-44,Female,High,Rural,Hair Oils,Offline,1,Coconut Oil,Brand C,4.8,-0.59,Africa,1541000000,New Product Lines
+133000000,10.8137915830914,Haircare,Premium,Global,55+,Female,Low,Urban,Soaps,E-commerce Platform,2,Coconut Oil,Brand A,2.9,0.35,Asia,699000000,New Product Lines
+403000000,12.9786908829448,Skincare,Budget,Country-Specific,35-44,Non-binary,High,Rural,Soaps,Online,3,Aloe Vera,Brand C,2.7,0.19,South America,1681000000,New Product Lines
+791000000,13.2740283913093,Makeup,Premium,Regional,55+,Non-binary,Middle,Suburban,Conditioners,Physical Stores,7,Neem,Brand A,1.7,-0.88,Asia,1750000000,New Product Lines
+395000000,5.9240520468113,Makeup,Budget,Country-Specific,18-24,Non-binary,Low,Urban,Face Creams,E-commerce Platform,7,Turmeric,Brand D,2.9,0.96,Asia,651000000,Expansion in Asia
+240000000,10.1050614109395,Haircare,Premium,Regional,25-34,Prefer not to say,Low,Suburban,Conditioners,E-commerce Platform,2,Neem,Brand C,4.8,-0.27,Europe,1278000000,New Product Lines
+731000000,12.1767051872683,Haircare,Mid-range,Country-Specific,18-24,Male,Middle,Rural,Conditioners,Offline,7,Coconut Oil,Brand A,3.8,0.02,Asia,649000000,New Product Lines
+822000000,5.49131874532966,Skincare,Mid-range,Global,35-44,Male,High,Suburban,Hair Oils,Physical Stores,10,Rose Water,Brand D,4.7,-0.66,South America,583000000,Sustainability Focus
+247000000,11.1317183341854,Skincare,Premium,Country-Specific,55+,Male,Middle,Suburban,Hair Oils,Physical Stores,5,Coconut Oil,Brand D,3.8,-0.5,Europe,1692000000,Sustainability Focus
+559000000,9.49393186381705,Haircare,Mid-range,Global,25-34,Prefer not to say,Low,Suburban,Hair Oils,Physical Stores,9,Coconut Oil,Brand B,3.9,-0.57,North America,1597000000,New Product Lines
+601000000,9.45857834321236,Makeup,Budget,Country-Specific,35-44,Male,High,Rural,Hair Oils,Physical Stores,5,Rose Water,Brand D,5,0.46,Asia,1318000000,New Product Lines
+147000000,16.5516097214344,Skincare,Budget,Global,45-54,Female,Low,Urban,Shampoos,E-commerce Platform,8,Turmeric,Brand A,2.6,0.75,Asia,1764000000,New Product Lines
+519000000,11.906270996883,Makeup,Premium,Global,45-54,Male,High,Suburban,Soaps,Offline,2,Turmeric,Brand B,4.4,0.27,Europe,1703000000,New Product Lines
+311000000,18.1451205045098,Makeup,Mid-range,Global,55+,Female,Middle,Suburban,Hair Oils,Offline,3,Rose Water,Brand A,1.7,0.15,Europe,1694000000,Expansion in Asia
+163000000,15.3738353984781,Haircare,Mid-range,Country-Specific,18-24,Non-binary,Low,Rural,Hair Oils,Physical Stores,7,Turmeric,Brand C,3.3,0.74,Europe,1419000000,Sustainability Focus
+364000000,9.31079526133654,Haircare,Mid-range,Regional,18-24,Male,Middle,Rural,Shampoos,E-commerce Platform,1,Rose Water,Brand C,1.9,-0.06,Africa,624000000,Sustainability Focus
+223000000,19.1252218073354,Haircare,Budget,Regional,18-24,Female,Middle,Rural,Soaps,Offline,4,Coconut Oil,Brand C,2.4,-0.87,South America,1928000000,New Product Lines
+549000000,10.0656965713877,Makeup,Premium,Global,35-44,Prefer not to say,Low,Urban,Soaps,Online,1,Neem,Brand B,4.5,-0.36,South America,1709000000,Sustainability Focus
+977000000,19.3911932354058,Haircare,Budget,Regional,18-24,Female,Low,Urban,Shampoos,Offline,9,Rose Water,Brand C,1.3,-0.4,Asia,875000000,Sustainability Focus
+228000000,9.36670277032228,Makeup,Mid-range,Global,25-34,Prefer not to say,High,Suburban,Shampoos,Physical Stores,1,Neem,Brand D,1.3,0.43,North America,1795000000,Expansion in Asia
+678000000,19.3233573890867,Haircare,Premium,Country-Specific,18-24,Non-binary,Low,Suburban,Shampoos,Online,2,Coconut Oil,Brand B,1.3,0.18,South America,564000000,New Product Lines
+842000000,13.2265092952222,Skincare,Mid-range,Global,25-34,Male,High,Suburban,Conditioners,E-commerce Platform,6,Aloe Vera,Brand C,3.3,-0.9,Europe,1486000000,Sustainability Focus
+584000000,10.9356167958253,Makeup,Premium,Country-Specific,25-34,Prefer not to say,Middle,Urban,Shampoos,Online,2,Neem,Brand C,1.1,-0.44,Europe,1290000000,Sustainability Focus
+813000000,13.1791507145344,Haircare,Premium,Regional,55+,Non-binary,Middle,Rural,Face Creams,Offline,11,Neem,Brand D,1.7,-0.3,North America,1022000000,Sustainability Focus
+113000000,10.9984941942738,Skincare,Budget,Global,45-54,Female,High,Rural,Conditioners,Offline,10,Neem,Brand A,3.5,-0.79,North America,1817000000,New Product Lines
+839000000,13.6587105281385,Haircare,Premium,Regional,55+,Female,Low,Urban,Soaps,Online,10,Turmeric,Brand C,4.9,-0.18,Africa,1260000000,Expansion in Asia
+869000000,15.9922845554419,Skincare,Premium,Global,55+,Male,Middle,Suburban,Conditioners,Online,10,Neem,Brand C,1.9,0.1,North America,1470000000,Expansion in Asia
+602000000,13.6249228444607,Makeup,Mid-range,Regional,55+,Male,Low,Rural,Hair Oils,Physical Stores,9,Turmeric,Brand C,3.4,1,Europe,549000000,Sustainability Focus
+103000000,11.4223820407574,Haircare,Premium,Global,55+,Male,Low,Urban,Hair Oils,E-commerce Platform,11,Coconut Oil,Brand D,4.9,0.15,Asia,720000000,New Product Lines
+900000000,16.0737461744857,Haircare,Mid-range,Regional,35-44,Prefer not to say,Middle,Urban,Face Creams,Physical Stores,4,Rose Water,Brand A,3,-0.42,Asia,1522000000,New Product Lines
+773000000,18.7539253166571,Makeup,Budget,Global,25-34,Prefer not to say,High,Rural,Soaps,Online,6,Coconut Oil,Brand C,1.3,0.45,South America,1187000000,Expansion in Asia
+310000000,16.3726284113471,Makeup,Budget,Global,55+,Non-binary,High,Urban,Face Creams,Online,8,Turmeric,Brand C,2.3,-0.08,Europe,1371000000,New Product Lines
+278000000,5.79318027025705,Haircare,Budget,Country-Specific,45-54,Female,Middle,Rural,Hair Oils,Offline,7,Aloe Vera,Brand C,4.5,1,Africa,547000000,Expansion in Asia
+176000000,10.231142379365,Skincare,Budget,Country-Specific,55+,Prefer not to say,Low,Suburban,Conditioners,Physical Stores,3,Neem,Brand C,4.4,-0.86,Asia,1152000000,Expansion in Asia
+984000000,5.66667380647038,Haircare,Premium,Global,55+,Prefer not to say,Low,Suburban,Face Creams,Online,2,Coconut Oil,Brand A,1.7,0.76,Europe,630000000,Sustainability Focus
+440000000,10.7991106722117,Makeup,Premium,Country-Specific,35-44,Prefer not to say,Low,Suburban,Face Creams,Online,1,Neem,Brand A,1.8,-0.46,Asia,1710000000,New Product Lines
+783000000,5.06120805810878,Skincare,Mid-range,Regional,55+,Female,Low,Rural,Conditioners,Offline,4,Turmeric,Brand B,2,0.1,Europe,1441000000,Sustainability Focus
+958000000,6.33768707690117,Makeup,Premium,Regional,18-24,Non-binary,High,Rural,Hair Oils,Physical Stores,2,Neem,Brand B,5,-0.27,Asia,811000000,Expansion in Asia
+282000000,19.6331886213947,Skincare,Mid-range,Regional,55+,Female,Middle,Rural,Face Creams,Online,7,Neem,Brand B,1.4,-0.38,North America,1201000000,Expansion in Asia
+212000000,16.7730270394984,Skincare,Mid-range,Country-Specific,25-34,Male,High,Urban,Hair Oils,Online,7,Neem,Brand A,3.5,0.03,North America,964000000,Expansion in Asia
+139000000,8.85364718427886,Makeup,Premium,Country-Specific,45-54,Male,High,Rural,Shampoos,Online,5,Turmeric,Brand B,4.4,-0.95,Asia,1409000000,New Product Lines
+644000000,5.96860983327325,Skincare,Budget,Global,35-44,Female,High,Rural,Soaps,E-commerce Platform,4,Coconut Oil,Brand A,2.8,-0.51,Asia,1230000000,New Product Lines
+573000000,5.23568464109994,Skincare,Mid-range,Regional,25-34,Prefer not to say,High,Urban,Face Creams,Physical Stores,11,Rose Water,Brand C,2.2,0.94,Africa,1663000000,Sustainability Focus
+642000000,15.9031274254636,Skincare,Budget,Global,45-54,Male,Low,Urban,Shampoos,Offline,10,Coconut Oil,Brand A,4.2,-0.38,Europe,1635000000,New Product Lines
+650000000,12.4929535634097,Skincare,Mid-range,Global,45-54,Non-binary,Low,Urban,Face Creams,E-commerce Platform,5,Turmeric,Brand C,1.9,0.27,Europe,530000000,Sustainability Focus
+755000000,19.0993849132878,Makeup,Mid-range,Global,18-24,Male,Middle,Suburban,Soaps,Offline,10,Neem,Brand A,2.5,-0.07,Africa,1595000000,Expansion in Asia
+601000000,13.7533295626758,Skincare,Budget,Regional,55+,Prefer not to say,High,Urban,Soaps,Offline,6,Turmeric,Brand D,1.5,0.5,North America,1418000000,Sustainability Focus
+545000000,18.7527933562132,Makeup,Budget,Global,25-34,Female,High,Urban,Face Creams,Online,2,Rose Water,Brand C,4.7,-0.22,North America,1641000000,Sustainability Focus
+815000000,13.388539208819,Makeup,Mid-range,Country-Specific,45-54,Non-binary,Middle,Suburban,Shampoos,Physical Stores,6,Aloe Vera,Brand B,4.4,0.66,South America,752000000,New Product Lines
+708000000,19.6175625031808,Haircare,Mid-range,Country-Specific,45-54,Non-binary,Low,Rural,Face Creams,E-commerce Platform,8,Turmeric,Brand D,2.6,0.96,Asia,1334000000,New Product Lines
+524000000,18.8971558103128,Haircare,Mid-range,Country-Specific,45-54,Prefer not to say,High,Urban,Face Creams,Physical Stores,2,Coconut Oil,Brand A,3,0.38,Africa,1486000000,Expansion in Asia
+324000000,15.0780286113043,Haircare,Budget,Global,25-34,Prefer not to say,Low,Rural,Conditioners,Physical Stores,11,Coconut Oil,Brand B,2.9,-0.3,Asia,1533000000,New Product Lines
+832000000,18.4145176002722,Haircare,Premium,Country-Specific,45-54,Female,High,Rural,Conditioners,Physical Stores,3,Turmeric,Brand D,2.5,0.76,Europe,1187000000,New Product Lines
+998000000,6.69802355535407,Skincare,Premium,Global,18-24,Non-binary,Middle,Rural,Hair Oils,Online,10,Rose Water,Brand A,4.8,-0.21,Asia,1891000000,Sustainability Focus
+409000000,15.7872307770457,Skincare,Budget,Regional,25-34,Female,Middle,Suburban,Conditioners,E-commerce Platform,11,Aloe Vera,Brand C,2.6,0.4,Europe,591000000,New Product Lines
+467000000,5.57761374584108,Haircare,Premium,Global,55+,Male,Middle,Suburban,Conditioners,Offline,6,Coconut Oil,Brand B,1.9,0.21,South America,1735000000,Expansion in Asia
+691000000,6.03361206950511,Skincare,Budget,Global,35-44,Non-binary,High,Urban,Soaps,Online,9,Aloe Vera,Brand C,4.4,0.06,Asia,1970000000,Sustainability Focus
+539000000,11.8438671683354,Makeup,Mid-range,Country-Specific,25-34,Prefer not to say,High,Urban,Soaps,Physical Stores,2,Rose Water,Brand C,3.7,0.43,Asia,585000000,Expansion in Asia
+495000000,11.5508076852201,Makeup,Budget,Global,18-24,Non-binary,Middle,Rural,Face Creams,Offline,8,Aloe Vera,Brand D,1.3,0.55,South America,1323000000,Sustainability Focus
+318000000,10.6244247347727,Haircare,Budget,Regional,18-24,Male,Low,Rural,Soaps,Physical Stores,7,Aloe Vera,Brand B,4.5,0.96,North America,1633000000,Sustainability Focus
+863000000,18.8823164153121,Makeup,Mid-range,Country-Specific,25-34,Male,High,Rural,Conditioners,E-commerce Platform,10,Rose Water,Brand D,3.8,-0.64,Europe,1798000000,New Product Lines
+427000000,17.4082073696372,Haircare,Budget,Regional,35-44,Male,High,Urban,Shampoos,Online,10,Neem,Brand A,2.4,0.47,North America,561000000,Expansion in Asia
+674000000,15.4915428305208,Skincare,Mid-range,Regional,18-24,Prefer not to say,Middle,Rural,Soaps,Online,8,Aloe Vera,Brand D,2.8,-0.34,North America,677000000,New Product Lines
+466000000,16.5734844713167,Makeup,Premium,Regional,35-44,Non-binary,High,Suburban,Soaps,Online,6,Rose Water,Brand C,2.3,-0.82,Africa,932000000,New Product Lines
+478000000,18.4187165145275,Makeup,Premium,Country-Specific,55+,Female,High,Urban,Shampoos,E-commerce Platform,1,Neem,Brand D,4.8,0.42,Asia,1780000000,Sustainability Focus
+258000000,7.64462833301377,Haircare,Premium,Country-Specific,45-54,Prefer not to say,Low,Suburban,Face Creams,Online,3,Rose Water,Brand B,2.2,-0.03,Asia,753000000,New Product Lines
+913000000,9.8884402673417,Haircare,Budget,Global,25-34,Prefer not to say,High,Suburban,Hair Oils,Offline,6,Rose Water,Brand D,2.5,-0.58,North America,897000000,Sustainability Focus
+861000000,14.6392594787373,Makeup,Mid-range,Global,18-24,Non-binary,Middle,Rural,Conditioners,Physical Stores,10,Rose Water,Brand A,2.7,-0.82,South America,596000000,Sustainability Focus
+650000000,15.1767493724167,Makeup,Premium,Country-Specific,25-34,Prefer not to say,High,Urban,Hair Oils,Offline,2,Aloe Vera,Brand D,1.1,-0.93,North America,1309000000,New Product Lines
+376000000,17.6164036433782,Haircare,Budget,Regional,55+,Non-binary,High,Suburban,Face Creams,E-commerce Platform,6,Turmeric,Brand A,4.1,-0.5,Africa,1146000000,Expansion in Asia
+826000000,15.529815785493,Makeup,Premium,Country-Specific,25-34,Prefer not to say,High,Urban,Conditioners,E-commerce Platform,7,Rose Water,Brand A,4.5,0.04,North America,1261000000,New Product Lines
+869000000,6.63643924990102,Skincare,Premium,Country-Specific,35-44,Female,Low,Urban,Soaps,Online,8,Neem,Brand C,2.7,0.81,Africa,825000000,Sustainability Focus
+525000000,5.44099967132439,Haircare,Mid-range,Country-Specific,35-44,Prefer not to say,Low,Suburban,Face Creams,E-commerce Platform,1,Neem,Brand C,2.8,0.39,North America,1522000000,Sustainability Focus
+829000000,16.1522233428331,Makeup,Premium,Regional,18-24,Female,Low,Rural,Shampoos,Physical Stores,5,Coconut Oil,Brand C,3.7,0.93,Asia,1291000000,New Product Lines
+266000000,8.42144950940205,Haircare,Budget,Regional,45-54,Female,Low,Urban,Face Creams,Offline,5,Aloe Vera,Brand C,4.7,0.78,Africa,1992000000,Expansion in Asia
+540000000,10.166131668282,Haircare,Mid-range,Country-Specific,55+,Prefer not to say,High,Suburban,Soaps,Physical Stores,4,Turmeric,Brand C,4.2,0.08,Europe,1593000000,Sustainability Focus
+302000000,13.6688613289751,Makeup,Budget,Global,25-34,Female,Low,Suburban,Conditioners,E-commerce Platform,7,Coconut Oil,Brand C,4.3,-0.72,South America,503000000,Expansion in Asia
+528000000,8.09875359148504,Haircare,Mid-range,Regional,55+,Male,Low,Rural,Conditioners,Online,5,Neem,Brand D,1.4,0.71,North America,1634000000,Sustainability Focus
+576000000,19.5630156327567,Haircare,Mid-range,Country-Specific,35-44,Prefer not to say,High,Suburban,Shampoos,Physical Stores,3,Neem,Brand B,1.7,-0.5,Africa,784000000,New Product Lines
+727000000,7.81668065121094,Makeup,Mid-range,Regional,55+,Female,Middle,Suburban,Hair Oils,Online,10,Aloe Vera,Brand D,4,0.96,North America,1660000000,Sustainability Focus
+753000000,18.3289235006555,Makeup,Premium,Regional,35-44,Non-binary,Middle,Rural,Conditioners,Online,6,Neem,Brand C,1.7,1,Asia,1273000000,Expansion in Asia
+273000000,16.0915065432092,Makeup,Premium,Country-Specific,18-24,Female,Low,Suburban,Shampoos,E-commerce Platform,1,Neem,Brand C,2.7,-0.6,Africa,1552000000,New Product Lines
+657000000,18.9582261772734,Makeup,Mid-range,Regional,25-34,Non-binary,High,Urban,Soaps,Offline,10,Coconut Oil,Brand C,3.8,0.68,Asia,501000000,Sustainability Focus
+339000000,5.18098539235476,Haircare,Mid-range,Country-Specific,25-34,Prefer not to say,High,Rural,Conditioners,Online,2,Aloe Vera,Brand B,4.5,0.83,South America,1117000000,Sustainability Focus
+465000000,6.76007035878046,Makeup,Mid-range,Global,25-34,Female,Middle,Urban,Face Creams,Online,9,Turmeric,Brand A,3.3,-0.49,Asia,1330000000,New Product Lines
+107000000,17.7228368483277,Haircare,Budget,Regional,55+,Female,Middle,Urban,Soaps,Online,8,Aloe Vera,Brand C,3.3,-0.74,South America,531000000,Sustainability Focus
+255000000,17.2043953436366,Haircare,Budget,Global,45-54,Male,High,Rural,Face Creams,Physical Stores,1,Turmeric,Brand A,2.8,0.78,Asia,628000000,Expansion in Asia
+611000000,18.8401511715202,Haircare,Mid-range,Global,18-24,Prefer not to say,High,Suburban,Shampoos,Online,4,Aloe Vera,Brand A,1.6,-0.46,Europe,1612000000,Sustainability Focus
+144000000,16.4842258373426,Haircare,Premium,Country-Specific,55+,Non-binary,High,Rural,Face Creams,Online,7,Aloe Vera,Brand D,3.8,-0.54,North America,1261000000,New Product Lines
+215000000,13.6621182175012,Makeup,Budget,Country-Specific,45-54,Prefer not to say,Low,Urban,Face Creams,E-commerce Platform,6,Coconut Oil,Brand A,3.9,-0.32,South America,1909000000,Sustainability Focus
+574000000,6.84354321491607,Skincare,Budget,Regional,35-44,Female,Low,Rural,Conditioners,Offline,6,Neem,Brand A,1.5,-0.26,North America,1760000000,Expansion in Asia
+433000000,12.8460739495611,Haircare,Premium,Regional,25-34,Non-binary,Low,Urban,Soaps,E-commerce Platform,6,Aloe Vera,Brand D,2.7,-0.1,North America,1253000000,New Product Lines
+361000000,8.54452921798836,Makeup,Mid-range,Regional,55+,Female,Low,Rural,Conditioners,E-commerce Platform,1,Aloe Vera,Brand C,2.8,0.64,South America,1607000000,New Product Lines
+512000000,12.8485571464986,Makeup,Premium,Global,55+,Prefer not to say,Low,Suburban,Shampoos,E-commerce Platform,7,Coconut Oil,Brand B,2.3,0.07,North America,888000000,Expansion in Asia
+949000000,8.99225381570212,Haircare,Budget,Global,55+,Female,High,Urban,Soaps,Online,11,Turmeric,Brand B,4.7,-0.36,Europe,825000000,Sustainability Focus
+594000000,18.5275566083088,Skincare,Budget,Global,45-54,Prefer not to say,Low,Urban,Soaps,Physical Stores,1,Neem,Brand C,4.6,0.75,Asia,1943000000,Expansion in Asia
+771000000,13.2511613608377,Makeup,Premium,Country-Specific,55+,Male,High,Urban,Hair Oils,Offline,1,Aloe Vera,Brand A,1.9,0.68,Asia,1513000000,Expansion in Asia
+757000000,19.8954047697032,Haircare,Premium,Country-Specific,18-24,Male,High,Urban,Conditioners,E-commerce Platform,2,Neem,Brand D,4.2,0.36,Africa,1269000000,Expansion in Asia
+533000000,17.3204869945169,Makeup,Premium,Country-Specific,55+,Non-binary,Middle,Urban,Conditioners,Offline,1,Turmeric,Brand C,4.8,0.87,Europe,1331000000,Expansion in Asia
+604000000,6.04705904180728,Skincare,Premium,Global,45-54,Prefer not to say,Low,Urban,Hair Oils,Online,2,Coconut Oil,Brand B,1.3,-0.23,Africa,884000000,New Product Lines
+408000000,12.5933656504393,Haircare,Budget,Regional,55+,Prefer not to say,Middle,Suburban,Face Creams,Online,9,Neem,Brand D,2.2,-0.76,Asia,1777000000,New Product Lines
+868000000,13.1132594680153,Skincare,Mid-range,Global,35-44,Female,Low,Urban,Shampoos,E-commerce Platform,9,Rose Water,Brand D,2.1,0.98,South America,1739000000,New Product Lines
+438000000,18.1010454405296,Haircare,Mid-range,Global,25-34,Non-binary,Low,Rural,Face Creams,Online,5,Coconut Oil,Brand D,2.4,-0.28,Asia,1625000000,New Product Lines
+327000000,19.7238470001522,Haircare,Budget,Regional,45-54,Non-binary,High,Suburban,Hair Oils,Physical Stores,4,Rose Water,Brand A,3.9,0.06,Africa,1403000000,Expansion in Asia
+513000000,13.9849772252816,Skincare,Premium,Global,18-24,Male,Middle,Rural,Shampoos,Physical Stores,7,Turmeric,Brand A,2.3,-0.53,Europe,951000000,Expansion in Asia
+940000000,6.61781544999417,Skincare,Premium,Global,45-54,Male,Low,Urban,Face Creams,Offline,5,Rose Water,Brand C,2.9,0,South America,1826000000,Sustainability Focus
+416000000,7.77840974837557,Skincare,Budget,Country-Specific,45-54,Female,High,Urban,Face Creams,Physical Stores,10,Aloe Vera,Brand C,4,0.9,South America,1542000000,New Product Lines
+244000000,18.9839483025076,Haircare,Budget,Country-Specific,18-24,Female,Middle,Rural,Face Creams,Offline,6,Coconut Oil,Brand B,2.3,0.7,Africa,851000000,Sustainability Focus
+180000000,8.17636397878809,Haircare,Premium,Country-Specific,25-34,Male,Middle,Rural,Face Creams,Offline,3,Coconut Oil,Brand D,2.3,0.7,South America,1504000000,Sustainability Focus
+281000000,16.1031983654181,Skincare,Premium,Country-Specific,25-34,Female,Middle,Suburban,Soaps,Physical Stores,6,Rose Water,Brand B,1.7,0.17,Europe,717000000,New Product Lines
+686000000,19.1087435137628,Makeup,Mid-range,Global,45-54,Non-binary,Low,Rural,Shampoos,Online,6,Aloe Vera,Brand D,4.5,0.88,Europe,1382000000,Expansion in Asia
+797000000,6.36278005376273,Makeup,Budget,Regional,25-34,Non-binary,Middle,Suburban,Conditioners,Physical Stores,9,Neem,Brand A,3,0.78,Asia,1185000000,Sustainability Focus
+372000000,6.06771203239146,Haircare,Premium,Regional,45-54,Female,Low,Rural,Face Creams,Offline,8,Turmeric,Brand D,1.7,-0.43,Asia,1746000000,Sustainability Focus
+918000000,12.1130899380521,Skincare,Premium,Global,18-24,Male,Low,Rural,Face Creams,Offline,6,Neem,Brand A,2,0.32,Europe,835000000,Sustainability Focus
+536000000,18.9820548051611,Makeup,Premium,Global,55+,Non-binary,Low,Urban,Hair Oils,Online,3,Neem,Brand A,3.8,-0.66,South America,1124000000,Sustainability Focus
+135000000,15.2605338467961,Skincare,Mid-range,Regional,18-24,Male,Middle,Rural,Shampoos,Physical Stores,8,Aloe Vera,Brand C,1.8,0.81,North America,1763000000,New Product Lines
+903000000,17.3611536748361,Skincare,Budget,Regional,45-54,Non-binary,High,Suburban,Shampoos,E-commerce Platform,2,Turmeric,Brand D,3.1,0,South America,979000000,Expansion in Asia
+689000000,6.74659593314296,Skincare,Mid-range,Global,35-44,Female,Middle,Urban,Shampoos,Physical Stores,6,Neem,Brand A,2,0.77,Africa,611000000,Expansion in Asia
+492000000,12.2892204291598,Makeup,Premium,Regional,35-44,Female,Low,Suburban,Hair Oils,E-commerce Platform,11,Coconut Oil,Brand D,4.6,0.94,Asia,1922000000,New Product Lines
+365000000,15.8569822589125,Makeup,Premium,Regional,45-54,Prefer not to say,Low,Rural,Face Creams,Physical Stores,9,Neem,Brand B,5,0.31,Africa,831000000,Expansion in Asia
+534000000,5.83867687519157,Skincare,Mid-range,Country-Specific,55+,Female,Middle,Suburban,Conditioners,Offline,8,Coconut Oil,Brand C,4.7,-0.04,North America,987000000,Expansion in Asia
+629000000,14.8197174699201,Makeup,Budget,Country-Specific,35-44,Female,High,Urban,Shampoos,Physical Stores,11,Aloe Vera,Brand A,1.3,-0.21,Asia,513000000,Sustainability Focus
+589000000,9.63755996061477,Haircare,Mid-range,Global,18-24,Prefer not to say,Middle,Urban,Soaps,Physical Stores,11,Aloe Vera,Brand A,4.1,-0.58,Africa,1542000000,Sustainability Focus
+612000000,16.4316597469325,Makeup,Mid-range,Regional,25-34,Non-binary,Middle,Rural,Conditioners,Offline,3,Neem,Brand B,1.4,0.06,North America,997000000,New Product Lines
+790000000,10.6539018308896,Skincare,Mid-range,Regional,25-34,Non-binary,Low,Rural,Shampoos,Offline,9,Neem,Brand D,3.5,-0.85,Africa,1796000000,Expansion in Asia
+782000000,19.0346313612202,Skincare,Premium,Country-Specific,35-44,Male,Low,Rural,Shampoos,Offline,1,Coconut Oil,Brand D,2.3,-0.97,South America,785000000,Expansion in Asia
+903000000,9.4664498884188,Skincare,Premium,Regional,45-54,Non-binary,Middle,Rural,Soaps,Physical Stores,11,Turmeric,Brand D,4,0.24,North America,771000000,Sustainability Focus
+680000000,9.51767633017898,Makeup,Budget,Regional,45-54,Prefer not to say,Low,Rural,Shampoos,Physical Stores,7,Coconut Oil,Brand D,1.5,-0.64,Africa,1781000000,Sustainability Focus
+200000000,11.2223080299185,Makeup,Budget,Regional,55+,Non-binary,High,Suburban,Shampoos,Online,3,Neem,Brand C,1,0.19,Europe,1338000000,Sustainability Focus
+721000000,8.44498740629007,Haircare,Mid-range,Country-Specific,18-24,Female,Middle,Suburban,Conditioners,Physical Stores,3,Aloe Vera,Brand B,1.3,0.14,North America,1304000000,New Product Lines
+437000000,16.5830839901952,Haircare,Premium,Country-Specific,18-24,Prefer not to say,High,Suburban,Conditioners,E-commerce Platform,3,Coconut Oil,Brand A,3.3,0.34,North America,1219000000,Sustainability Focus
+524000000,19.1563987497836,Haircare,Premium,Country-Specific,18-24,Male,Low,Suburban,Conditioners,Online,4,Rose Water,Brand D,2.3,-0.5,Europe,1036000000,Sustainability Focus
+351000000,14.1076881492951,Skincare,Budget,Regional,45-54,Male,Middle,Suburban,Hair Oils,E-commerce Platform,4,Turmeric,Brand A,3.4,0.02,Africa,501000000,New Product Lines
+751000000,18.8713764380003,Makeup,Mid-range,Regional,45-54,Male,High,Suburban,Face Creams,Online,1,Neem,Brand C,2.9,0.73,North America,915000000,Expansion in Asia
+180000000,12.4607613966617,Haircare,Mid-range,Global,45-54,Non-binary,Low,Suburban,Conditioners,Online,10,Coconut Oil,Brand C,2,0.25,Asia,1667000000,Expansion in Asia
+835000000,12.2926744413632,Haircare,Mid-range,Country-Specific,18-24,Non-binary,High,Suburban,Face Creams,Physical Stores,2,Neem,Brand B,1.4,0.24,Asia,734000000,New Product Lines
+322000000,19.0627794898248,Skincare,Budget,Global,25-34,Non-binary,High,Urban,Hair Oils,Physical Stores,5,Aloe Vera,Brand C,3.5,-0.37,Asia,531000000,Expansion in Asia
+338000000,6.3911849055036,Haircare,Premium,Country-Specific,18-24,Female,Middle,Rural,Conditioners,Online,5,Turmeric,Brand B,4.3,-0.09,North America,1441000000,Expansion in Asia
+534000000,17.7348983133093,Makeup,Mid-range,Global,18-24,Male,High,Urban,Shampoos,Online,5,Rose Water,Brand D,2.1,0.57,Africa,1129000000,Expansion in Asia
+541000000,12.7282539448834,Haircare,Premium,Global,25-34,Female,Low,Urban,Hair Oils,Offline,5,Turmeric,Brand A,3.9,-0.98,Asia,1032000000,Expansion in Asia
+715000000,8.98144249149081,Haircare,Premium,Regional,25-34,Prefer not to say,High,Suburban,Soaps,E-commerce Platform,7,Aloe Vera,Brand D,2.8,0.62,South America,902000000,Sustainability Focus
+873000000,19.0154682938647,Haircare,Mid-range,Country-Specific,45-54,Female,Low,Rural,Soaps,E-commerce Platform,8,Coconut Oil,Brand B,4.9,-0.94,Asia,1137000000,Sustainability Focus
+750000000,13.7944187416298,Makeup,Budget,Global,45-54,Prefer not to say,High,Urban,Shampoos,Online,2,Rose Water,Brand A,1.5,-0.08,Europe,713000000,New Product Lines
+657000000,5.61239391991194,Makeup,Premium,Global,25-34,Prefer not to say,Low,Urban,Soaps,Online,5,Coconut Oil,Brand C,3.5,0.01,North America,1160000000,Expansion in Asia
+728000000,16.1789427641734,Makeup,Budget,Country-Specific,45-54,Male,High,Suburban,Hair Oils,Physical Stores,5,Neem,Brand D,3.2,0.89,Europe,610000000,Expansion in Asia
+288000000,9.4315449246331,Skincare,Premium,Country-Specific,25-34,Male,Middle,Urban,Hair Oils,Offline,11,Coconut Oil,Brand C,2.8,-0.25,Europe,1415000000,Expansion in Asia
+242000000,11.946552851894,Makeup,Budget,Global,35-44,Male,Middle,Suburban,Shampoos,E-commerce Platform,3,Turmeric,Brand C,3.3,0.82,South America,1288000000,New Product Lines
+908000000,10.391013936647,Skincare,Premium,Country-Specific,35-44,Female,Middle,Rural,Conditioners,Offline,8,Rose Water,Brand B,3.5,0.19,North America,1525000000,Expansion in Asia
+277000000,16.2872609540031,Haircare,Budget,Regional,25-34,Prefer not to say,Low,Rural,Face Creams,Physical Stores,10,Turmeric,Brand C,2.5,0.17,Africa,1923000000,New Product Lines
+250000000,7.19609564868832,Haircare,Mid-range,Regional,18-24,Female,High,Suburban,Shampoos,Physical Stores,10,Coconut Oil,Brand B,1.9,-0.35,Asia,1781000000,Expansion in Asia
+808000000,10.1165711112479,Makeup,Budget,Country-Specific,25-34,Male,High,Rural,Soaps,Physical Stores,4,Rose Water,Brand A,2.5,0.08,South America,1234000000,New Product Lines
+148000000,9.07833895463349,Makeup,Premium,Regional,18-24,Female,High,Suburban,Face Creams,E-commerce Platform,11,Turmeric,Brand A,1.3,0.46,Europe,585000000,Sustainability Focus
+282000000,18.4814753348674,Makeup,Mid-range,Global,45-54,Non-binary,Middle,Rural,Shampoos,Physical Stores,5,Rose Water,Brand D,5,-0.45,Africa,1220000000,New Product Lines
+105000000,19.5511456657275,Haircare,Budget,Regional,25-34,Female,High,Urban,Conditioners,Physical Stores,9,Turmeric,Brand B,2.4,-0.85,North America,1213000000,Sustainability Focus
+364000000,11.7720470455717,Skincare,Budget,Global,18-24,Female,High,Rural,Soaps,Physical Stores,2,Aloe Vera,Brand A,4.1,0.3,Asia,673000000,New Product Lines
+884000000,11.4122774137311,Skincare,Budget,Global,18-24,Female,Middle,Rural,Hair Oils,Offline,10,Aloe Vera,Brand A,2.1,0.82,Africa,1900000000,Sustainability Focus
+742000000,9.94756009625269,Skincare,Mid-range,Country-Specific,45-54,Male,Middle,Rural,Face Creams,Online,1,Turmeric,Brand A,1.3,-0.2,North America,1135000000,Expansion in Asia
+941000000,17.2406815830383,Makeup,Premium,Country-Specific,45-54,Prefer not to say,Middle,Rural,Shampoos,E-commerce Platform,1,Aloe Vera,Brand A,1.2,0.64,North America,666000000,New Product Lines
+348000000,5.56470127274852,Haircare,Premium,Global,25-34,Male,High,Suburban,Conditioners,Offline,7,Turmeric,Brand A,3.2,-0.43,North America,867000000,Sustainability Focus
+151000000,16.7626981316763,Haircare,Mid-range,Regional,25-34,Male,Middle,Urban,Hair Oils,Physical Stores,1,Turmeric,Brand D,2,-0.69,South America,704000000,New Product Lines
+743000000,19.3320338077907,Makeup,Premium,Global,18-24,Prefer not to say,Middle,Urban,Face Creams,Physical Stores,11,Turmeric,Brand C,1.1,-0.37,North America,964000000,Expansion in Asia
+787000000,15.9714896029434,Skincare,Premium,Global,55+,Non-binary,Low,Suburban,Hair Oils,Offline,1,Aloe Vera,Brand A,3.1,0.79,Africa,1659000000,Sustainability Focus
+476000000,12.5269910175685,Makeup,Premium,Country-Specific,18-24,Male,Middle,Rural,Soaps,Online,11,Coconut Oil,Brand A,4.1,-0.43,South America,1126000000,Expansion in Asia
+961000000,19.5875867418326,Haircare,Mid-range,Country-Specific,35-44,Male,High,Urban,Shampoos,Physical Stores,7,Coconut Oil,Brand D,3,-0.24,Asia,1668000000,New Product Lines
+851000000,5.6454980157176,Makeup,Premium,Country-Specific,55+,Female,Low,Urban,Hair Oils,Physical Stores,10,Neem,Brand B,4.2,-0.33,North America,1250000000,Expansion in Asia
+896000000,18.2300568612226,Makeup,Premium,Country-Specific,35-44,Non-binary,Middle,Suburban,Shampoos,Physical Stores,3,Turmeric,Brand C,1.6,-0.51,Europe,593000000,Sustainability Focus
+872000000,15.4077703446901,Makeup,Budget,Global,55+,Female,High,Urban,Conditioners,Physical Stores,1,Aloe Vera,Brand A,1.8,0.82,North America,1710000000,New Product Lines
+457000000,13.7531600893723,Skincare,Premium,Regional,55+,Prefer not to say,High,Rural,Hair Oils,E-commerce Platform,8,Neem,Brand C,4.2,0.06,Africa,1058000000,New Product Lines
+574000000,15.4519916003287,Skincare,Mid-range,Country-Specific,18-24,Male,Middle,Rural,Shampoos,Physical Stores,6,Rose Water,Brand B,3.1,-0.9,Africa,989000000,New Product Lines
+795000000,16.3091267802154,Skincare,Premium,Regional,45-54,Prefer not to say,High,Urban,Soaps,Online,4,Rose Water,Brand D,4.4,-0.8,Africa,961000000,Sustainability Focus
+478000000,6.07983708422885,Skincare,Mid-range,Global,25-34,Male,High,Suburban,Shampoos,E-commerce Platform,10,Neem,Brand D,3.2,-0.01,Europe,1483000000,Expansion in Asia
+344000000,19.5413069222168,Makeup,Premium,Regional,25-34,Female,High,Suburban,Soaps,Physical Stores,9,Coconut Oil,Brand C,2.3,0.04,Asia,807000000,New Product Lines
+240000000,19.3390406619739,Skincare,Premium,Country-Specific,55+,Male,Middle,Urban,Hair Oils,Physical Stores,6,Neem,Brand C,3.5,0.79,North America,649000000,Expansion in Asia
+394000000,9.02895066153083,Haircare,Premium,Regional,35-44,Non-binary,Middle,Urban,Conditioners,Offline,10,Coconut Oil,Brand A,1.3,0.27,North America,1239000000,Expansion in Asia
+695000000,12.1287978667635,Haircare,Mid-range,Country-Specific,35-44,Prefer not to say,Low,Rural,Hair Oils,E-commerce Platform,1,Turmeric,Brand C,3.1,-0.72,North America,723000000,Expansion in Asia
+948000000,15.8402248165591,Makeup,Premium,Regional,18-24,Female,Middle,Rural,Hair Oils,Offline,11,Coconut Oil,Brand D,4.1,0.7,North America,1987000000,Sustainability Focus
+241000000,12.1748588320268,Makeup,Budget,Country-Specific,45-54,Male,Middle,Rural,Hair Oils,E-commerce Platform,3,Neem,Brand D,1.4,0.96,Asia,1755000000,New Product Lines
+119000000,8.49420288911049,Haircare,Mid-range,Global,35-44,Non-binary,Low,Suburban,Soaps,E-commerce Platform,4,Neem,Brand D,4.5,0.42,South America,638000000,New Product Lines
+122000000,9.6319162771315,Haircare,Mid-range,Global,45-54,Female,High,Suburban,Shampoos,Online,2,Rose Water,Brand C,2.8,-0.27,Africa,1819000000,Sustainability Focus
+489000000,16.51518435974,Makeup,Premium,Global,18-24,Male,Low,Rural,Soaps,Offline,6,Aloe Vera,Brand A,1.9,-0.41,Asia,1911000000,Sustainability Focus
+423000000,9.11920519206826,Skincare,Mid-range,Global,55+,Non-binary,High,Urban,Soaps,Online,6,Neem,Brand B,2.2,0.55,Europe,775000000,New Product Lines
+929000000,17.692181844498,Haircare,Mid-range,Country-Specific,55+,Male,Middle,Rural,Shampoos,Online,9,Rose Water,Brand C,2.1,0.02,North America,890000000,Expansion in Asia
+374000000,13.5447181810789,Makeup,Mid-range,Global,45-54,Prefer not to say,Low,Urban,Face Creams,E-commerce Platform,3,Coconut Oil,Brand D,2.5,0.47,South America,1903000000,Expansion in Asia
+159000000,19.054839354957,Haircare,Budget,Regional,45-54,Male,High,Rural,Shampoos,Offline,8,Coconut Oil,Brand D,2.3,0.72,Europe,1219000000,New Product Lines
+857000000,5.6049034359343,Skincare,Budget,Regional,45-54,Non-binary,Middle,Urban,Hair Oils,Physical Stores,4,Aloe Vera,Brand C,4.2,-0.28,Africa,1147000000,New Product Lines
+578000000,6.34701036570534,Makeup,Mid-range,Global,55+,Prefer not to say,High,Urban,Conditioners,Online,3,Rose Water,Brand B,2.8,-0.79,North America,1156000000,Sustainability Focus
+835000000,7.57382734058225,Skincare,Mid-range,Country-Specific,35-44,Female,Low,Rural,Hair Oils,Physical Stores,4,Aloe Vera,Brand A,2.4,-0.38,North America,1579000000,New Product Lines
+974000000,19.2733444035957,Haircare,Premium,Global,18-24,Prefer not to say,Low,Suburban,Conditioners,E-commerce Platform,6,Neem,Brand B,2.7,-0.3,North America,1424000000,Expansion in Asia
+213000000,16.0932133097612,Skincare,Premium,Country-Specific,25-34,Non-binary,Low,Urban,Conditioners,Physical Stores,6,Turmeric,Brand C,3.3,-0.44,North America,1824000000,Sustainability Focus
+945000000,7.22744822051568,Skincare,Premium,Global,45-54,Female,Low,Rural,Soaps,Physical Stores,2,Rose Water,Brand D,2.9,0.58,Asia,858000000,Sustainability Focus
+300000000,9.55409974697347,Makeup,Premium,Global,55+,Male,Low,Rural,Shampoos,Online,2,Aloe Vera,Brand C,4.9,-0.11,Europe,1790000000,New Product Lines
+874000000,9.11087923545228,Haircare,Budget,Global,55+,Female,Low,Rural,Shampoos,Online,8,Coconut Oil,Brand C,3.1,-0.01,Africa,1967000000,Sustainability Focus
+210000000,18.2555961916436,Makeup,Budget,Country-Specific,35-44,Non-binary,Low,Suburban,Soaps,E-commerce Platform,1,Coconut Oil,Brand A,2.3,0.83,Europe,1460000000,Expansion in Asia
+150000000,13.205192821275,Skincare,Budget,Global,55+,Non-binary,Middle,Rural,Face Creams,Physical Stores,10,Aloe Vera,Brand A,1.2,0.14,Europe,1563000000,Sustainability Focus
+140000000,5.99208855317824,Skincare,Budget,Regional,45-54,Male,Low,Urban,Face Creams,Physical Stores,3,Turmeric,Brand B,1.5,-0.46,Europe,1525000000,New Product Lines
+187000000,17.98889450544,Makeup,Mid-range,Global,45-54,Male,High,Urban,Shampoos,Online,4,Rose Water,Brand C,1.8,-0.49,Africa,1703000000,New Product Lines
+833000000,5.07443704506841,Skincare,Premium,Regional,55+,Male,Low,Rural,Soaps,Physical Stores,5,Coconut Oil,Brand D,3.7,-0.78,Europe,1790000000,Expansion in Asia
+120000000,8.16435635004608,Skincare,Mid-range,Country-Specific,25-34,Female,High,Rural,Soaps,Physical Stores,10,Coconut Oil,Brand D,2.3,-0.47,Europe,1492000000,Expansion in Asia
+781000000,6.71070647109509,Skincare,Budget,Regional,55+,Non-binary,Middle,Suburban,Conditioners,Physical Stores,10,Rose Water,Brand B,3.2,0.73,South America,1599000000,Expansion in Asia
+800000000,14.5297715518793,Skincare,Premium,Global,45-54,Female,Low,Suburban,Hair Oils,E-commerce Platform,10,Turmeric,Brand B,2.3,-0.04,South America,535000000,New Product Lines
+983000000,10.0303627491545,Makeup,Mid-range,Regional,35-44,Male,Middle,Urban,Soaps,Offline,2,Coconut Oil,Brand A,2.4,-0.62,North America,1169000000,New Product Lines
+181000000,11.2255345485564,Skincare,Premium,Country-Specific,45-54,Male,High,Rural,Face Creams,Physical Stores,5,Coconut Oil,Brand B,1.5,-0.8,North America,1191000000,Expansion in Asia
+496000000,16.7137062215526,Makeup,Budget,Country-Specific,18-24,Prefer not to say,High,Rural,Conditioners,Physical Stores,7,Rose Water,Brand D,4.6,-0.16,Asia,1423000000,New Product Lines
+893000000,17.0949979833743,Haircare,Premium,Regional,18-24,Male,Low,Urban,Shampoos,E-commerce Platform,2,Rose Water,Brand B,4.3,0.05,Europe,904000000,Expansion in Asia
+234000000,18.1635029669258,Makeup,Budget,Global,25-34,Prefer not to say,High,Suburban,Hair Oils,Offline,10,Coconut Oil,Brand C,3.6,-0.03,Africa,1830000000,New Product Lines
+122000000,15.0767900088561,Haircare,Premium,Global,18-24,Male,Low,Rural,Shampoos,E-commerce Platform,8,Coconut Oil,Brand A,4.9,0.15,South America,1406000000,New Product Lines
+255000000,14.198961462165,Makeup,Premium,Country-Specific,55+,Male,Middle,Rural,Soaps,E-commerce Platform,1,Rose Water,Brand B,2.2,-0.65,South America,1833000000,New Product Lines
+398000000,18.6619034168532,Haircare,Premium,Country-Specific,25-34,Male,High,Suburban,Conditioners,E-commerce Platform,7,Coconut Oil,Brand B,2.8,-0.66,Africa,1731000000,Expansion in Asia
+483000000,19.4430054924529,Makeup,Premium,Global,25-34,Prefer not to say,Middle,Urban,Soaps,Physical Stores,5,Aloe Vera,Brand A,2,0.63,Europe,1623000000,Expansion in Asia
+355000000,9.09255699272473,Skincare,Premium,Country-Specific,35-44,Non-binary,High,Suburban,Conditioners,Physical Stores,6,Neem,Brand B,3.2,-0.15,South America,586000000,New Product Lines
+458000000,15.2350908652447,Haircare,Premium,Global,18-24,Non-binary,High,Rural,Face Creams,E-commerce Platform,5,Neem,Brand A,2.6,0.97,Europe,1341000000,Expansion in Asia
+187000000,6.75078699575234,Makeup,Budget,Country-Specific,18-24,Male,Low,Suburban,Conditioners,Offline,11,Aloe Vera,Brand C,1.8,0.66,Asia,1235000000,Sustainability Focus
+749000000,9.47117721667362,Makeup,Mid-range,Global,55+,Male,Middle,Rural,Soaps,E-commerce Platform,3,Aloe Vera,Brand A,3.7,-0.11,Africa,1276000000,New Product Lines
+191000000,12.9189719141122,Haircare,Premium,Regional,18-24,Non-binary,High,Urban,Soaps,Offline,4,Turmeric,Brand C,3.6,-0.39,North America,1908000000,New Product Lines
+831000000,15.6956930064676,Makeup,Budget,Global,45-54,Female,High,Suburban,Conditioners,Physical Stores,4,Aloe Vera,Brand D,1.1,0.39,South America,783000000,Sustainability Focus
+114000000,9.49898549567101,Makeup,Mid-range,Global,18-24,Prefer not to say,Low,Suburban,Shampoos,E-commerce Platform,11,Neem,Brand C,2.8,-0.91,Europe,1284000000,Sustainability Focus
+240000000,15.9247746606161,Skincare,Mid-range,Regional,25-34,Prefer not to say,Low,Suburban,Conditioners,Online,5,Coconut Oil,Brand B,2.7,-0.03,Africa,1005000000,New Product Lines
+375000000,5.00393594487088,Haircare,Budget,Global,25-34,Male,Middle,Rural,Hair Oils,Physical Stores,7,Neem,Brand B,4.7,-0.1,Asia,1635000000,New Product Lines
+851000000,19.6694734914549,Makeup,Mid-range,Country-Specific,18-24,Prefer not to say,Low,Suburban,Face Creams,Physical Stores,2,Coconut Oil,Brand D,4.7,0.12,North America,1910000000,New Product Lines
+305000000,15.9367235607754,Haircare,Mid-range,Country-Specific,35-44,Prefer not to say,Low,Suburban,Conditioners,Offline,11,Turmeric,Brand B,2.3,0.95,Asia,1276000000,New Product Lines
+569000000,7.94455738407067,Makeup,Budget,Regional,25-34,Male,Low,Rural,Hair Oils,Physical Stores,9,Neem,Brand C,3.5,-0.79,Africa,1427000000,Sustainability Focus
+620000000,6.17685144994015,Haircare,Premium,Global,18-24,Prefer not to say,Middle,Urban,Shampoos,Physical Stores,3,Aloe Vera,Brand A,4.9,0.14,South America,731000000,Sustainability Focus
+304000000,19.37221937338,Skincare,Mid-range,Global,45-54,Non-binary,High,Rural,Soaps,Offline,8,Turmeric,Brand D,1.3,-0.15,Africa,918000000,Sustainability Focus
+530000000,12.7684855231031,Haircare,Budget,Global,25-34,Non-binary,Low,Rural,Hair Oils,Online,6,Rose Water,Brand A,1.4,-0.05,North America,762000000,New Product Lines
+405000000,12.0687460735553,Makeup,Premium,Global,35-44,Prefer not to say,Low,Suburban,Face Creams,Online,1,Coconut Oil,Brand D,1.7,-0.97,Africa,857000000,New Product Lines
+997000000,5.74964475403282,Skincare,Premium,Country-Specific,55+,Male,Middle,Rural,Conditioners,Online,11,Aloe Vera,Brand A,3.9,0.21,Africa,1673000000,Expansion in Asia
+393000000,7.91663692511968,Skincare,Budget,Country-Specific,25-34,Non-binary,Low,Urban,Face Creams,E-commerce Platform,8,Coconut Oil,Brand D,1.5,-0.32,South America,1860000000,Sustainability Focus
+370000000,14.3742163411618,Makeup,Budget,Country-Specific,45-54,Male,Middle,Suburban,Hair Oils,Online,3,Neem,Brand B,1.7,-0.1,Europe,1234000000,Expansion in Asia
+305000000,11.6169324551515,Skincare,Premium,Regional,55+,Non-binary,Middle,Suburban,Soaps,Physical Stores,7,Turmeric,Brand A,3,-0.17,South America,1522000000,Sustainability Focus
+746000000,16.9688180342292,Makeup,Mid-range,Country-Specific,45-54,Female,High,Urban,Face Creams,E-commerce Platform,4,Turmeric,Brand D,4.5,-0.73,Africa,1154000000,New Product Lines
+753000000,16.6267631915228,Makeup,Mid-range,Country-Specific,55+,Non-binary,Middle,Rural,Shampoos,Physical Stores,5,Turmeric,Brand B,3.8,0.94,North America,1499000000,Expansion in Asia
+442000000,18.3588739349772,Haircare,Mid-range,Regional,45-54,Female,Low,Suburban,Hair Oils,Online,6,Coconut Oil,Brand A,1.9,0.8,South America,1318000000,Expansion in Asia
+852000000,13.0664663603765,Skincare,Budget,Global,55+,Prefer not to say,Low,Rural,Face Creams,Online,3,Rose Water,Brand D,2.2,0.46,South America,706000000,Expansion in Asia
+992000000,11.8787587479031,Skincare,Premium,Global,18-24,Prefer not to say,High,Urban,Conditioners,E-commerce Platform,1,Coconut Oil,Brand C,4.8,0.83,North America,727000000,New Product Lines
+733000000,13.059465639988,Makeup,Mid-range,Country-Specific,18-24,Male,Low,Suburban,Face Creams,E-commerce Platform,9,Rose Water,Brand A,3.8,0.74,Africa,1208000000,Sustainability Focus
+336000000,15.2094798072985,Makeup,Budget,Regional,45-54,Prefer not to say,Middle,Suburban,Conditioners,Online,11,Neem,Brand A,4.8,0.48,North America,889000000,New Product Lines
+420000000,14.9589766305994,Haircare,Premium,Country-Specific,55+,Prefer not to say,Middle,Urban,Hair Oils,Physical Stores,6,Aloe Vera,Brand B,2.8,-0.69,North America,541000000,Sustainability Focus
+935000000,7.93762929274937,Makeup,Budget,Regional,55+,Non-binary,High,Rural,Hair Oils,E-commerce Platform,11,Turmeric,Brand A,4.4,-0.24,South America,1366000000,Sustainability Focus
+399000000,15.0710062872669,Makeup,Budget,Country-Specific,55+,Female,High,Rural,Soaps,Offline,9,Coconut Oil,Brand A,1.8,-0.48,North America,1480000000,New Product Lines
+150000000,5.12406890072803,Haircare,Budget,Country-Specific,18-24,Female,Low,Urban,Shampoos,E-commerce Platform,6,Turmeric,Brand B,4.4,-0.46,Africa,1216000000,New Product Lines
+619000000,15.6729438818837,Haircare,Budget,Country-Specific,18-24,Non-binary,High,Urban,Soaps,Physical Stores,6,Coconut Oil,Brand B,2.3,0.04,Asia,551000000,Expansion in Asia
+921000000,15.1087856194983,Haircare,Mid-range,Regional,55+,Prefer not to say,High,Suburban,Face Creams,Online,1,Rose Water,Brand D,4.5,-0.5,South America,1725000000,New Product Lines
+597000000,5.90742031395901,Makeup,Mid-range,Country-Specific,45-54,Male,High,Urban,Face Creams,Physical Stores,5,Coconut Oil,Brand D,3.7,0.81,Europe,1344000000,Expansion in Asia
+914000000,7.56404276508142,Haircare,Premium,Regional,35-44,Male,Middle,Urban,Hair Oils,Offline,8,Aloe Vera,Brand B,4,-0.55,Asia,1574000000,Sustainability Focus
+485000000,6.57714746137379,Makeup,Budget,Regional,25-34,Female,High,Rural,Conditioners,Online,5,Neem,Brand C,4.7,0.25,North America,1468000000,Expansion in Asia
+618000000,14.9943569182403,Makeup,Budget,Regional,55+,Female,Middle,Urban,Hair Oils,Physical Stores,4,Coconut Oil,Brand D,2.4,-0.69,North America,1609000000,New Product Lines
+245000000,16.5559729199536,Makeup,Mid-range,Country-Specific,35-44,Female,High,Urban,Shampoos,E-commerce Platform,4,Neem,Brand D,2.3,0.99,Asia,522000000,Sustainability Focus
+841000000,5.2431740566905,Makeup,Mid-range,Global,45-54,Male,High,Suburban,Hair Oils,Offline,8,Turmeric,Brand B,2.1,0.22,Europe,885000000,New Product Lines
+950000000,11.1745843509537,Makeup,Mid-range,Regional,18-24,Male,High,Rural,Shampoos,Offline,6,Aloe Vera,Brand A,3.2,-0.63,North America,543000000,New Product Lines
+988000000,19.3304871432331,Skincare,Premium,Global,55+,Female,Low,Suburban,Face Creams,Online,8,Turmeric,Brand A,2.9,-0.94,Europe,829000000,Expansion in Asia
+263000000,5.42806157348752,Skincare,Budget,Country-Specific,18-24,Prefer not to say,Middle,Urban,Shampoos,Physical Stores,11,Aloe Vera,Brand A,2.3,0.38,North America,532000000,New Product Lines
+765000000,16.4435099625518,Makeup,Premium,Country-Specific,45-54,Prefer not to say,Middle,Rural,Conditioners,E-commerce Platform,1,Aloe Vera,Brand A,2.5,-0.1,Africa,1783000000,Sustainability Focus
+868000000,5.35390314322308,Haircare,Mid-range,Global,25-34,Female,High,Rural,Face Creams,E-commerce Platform,5,Turmeric,Brand D,3.2,-0.03,Europe,1996000000,Expansion in Asia
+824000000,19.8437892260391,Skincare,Budget,Global,55+,Prefer not to say,Middle,Urban,Soaps,Offline,4,Rose Water,Brand A,3,-0.46,Europe,931000000,New Product Lines
+631000000,7.69699024317637,Skincare,Mid-range,Country-Specific,45-54,Female,Low,Suburban,Hair Oils,Physical Stores,2,Rose Water,Brand A,2.7,-0.32,Europe,1863000000,New Product Lines
+631000000,10.8856282449962,Makeup,Mid-range,Country-Specific,55+,Male,Middle,Urban,Shampoos,Offline,8,Rose Water,Brand D,3.4,0.5,Europe,1647000000,Sustainability Focus
