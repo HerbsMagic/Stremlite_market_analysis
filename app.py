@@ -21,7 +21,7 @@ st.sidebar.header("Product Analysis")
 def load_data(file_path):
     """Load the dataset from a CSV file."""
     try:
-        df = pd.read_csv("C://Users//Shree//Documents//SI_CP//dataset.csv")  # Use the file_path parameter
+        df = pd.read_csv('dataset.csv')  # Use the file_path parameter
         # Ensure categorical columns are in string format
         categorical_columns = [
             'Product_Type', 'Price_Range', 'Geography', 'Age_Group', 'Gender',
